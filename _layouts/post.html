@@ -1,0 +1,23 @@
+---
+layout: default
+---
+<article class="post">
+  <h2>{{ page.title }}</h2>
+  <p class="meta">{{ page.date | date: "%B %-d, %Y" }}{% if page.author %} · {{ page.author }}{% endif %}</p>
+  <div class="post-body">
+    {{ content }}
+  </div>
+  {% assign cmts = site.data.comments[page.slug] %}
+  {% if cmts %}
+  <section class="comments">
+    <h3>Comments ({{ cmts.size }})</h3>
+    {% for c in cmts %}
+    <div class="comment">
+      <span class="who">{{ c.author }}</span>
+      <span class="when">{{ c.date }}</span>
+      <div>{{ c.body }}</div>
+    </div>
+    {% endfor %}
+  </section>
+  {% endif %}
+</article>

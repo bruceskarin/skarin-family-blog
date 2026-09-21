@@ -1,0 +1,32 @@
+---
+layout: post
+slug: happy-mother-s-day-4
+title: Happy Mother's Day!
+date: 2015-05-10 11:23:00 -0400
+blogger_id: '1482001530584029031'
+original_url: https://blog.skarin.us/2015/05/happy-mothers-day.html
+author: Anonymous
+---
+
+Hi Mom! &nbsp;It's me. &nbsp;I haven't "talked" to you in a while but I couldn't let Mother's Day pass without wishing you a Happy Mother's Day. &nbsp;Oh, Mom, I miss you so much! &nbsp;There is so much I want to say, so much to tell you but I can't seem to find the words. <br />
+We've been really busy this last month, not too busy for you, never too busy for you, but it seems like things never slow down. &nbsp;And when they do, I just crash. &nbsp;I finished my thesis and portfolio. &nbsp;I have graduation coming up on Friday. &nbsp;It seems a bit like cheating because I still have one class to take this summer but I'm still going to participate in the ceremony. &nbsp;Dad is going to come up, maybe Dan and Karin too. &nbsp;I wish that you were going to be there too. &nbsp;I know how proud you would be. <br />
+Dad has been home for one week. &nbsp;He drove 15 hours and 1200 miles last Saturday and made it to Edgewood, Maryland. &nbsp;Isn't that crazy? &nbsp;He was home before noon time on Sunday so he was able to see Dan before Dan left for Chicago. &nbsp;We saw Dad on Wednesday when we had a bit of an early birthday celebration for Evan with Bob and Leni. &nbsp;It is bittersweet to have Dad home. &nbsp;It's great to see him but having him home without you is really hard. <br />
+Evan has started riding a two wheel bike without training wheels. &nbsp;He went right from the balance bike onto the two wheeler basically on the first day he tried it. &nbsp;He needed help getting started for the first day. &nbsp;Used a paint can to push off on the second day and then was off and riding all on his own later that day. &nbsp;He is so proud of himself...And I am too. &nbsp;You should see how he beams when he's riding. &nbsp;He loves it!<br />
+Evan also started t-ball at the end of April. &nbsp;The first day of practice it was 40 degrees and rainy and snowy...just beautiful t-ball weather. &nbsp;But we've had much nicer weather since the beginning of May...almost summer like. &nbsp;I hope it will be a good pool summer but know that the empty chair by the pool is going to be so, so tough.<br />
+Logan is...well Logan! &nbsp;He started "riding" the balance bike and yells, "I'm doing it, I'm doing it, Evan!" as he rides. &nbsp;He has also been more and more interested in playing t-ball and even takes some pitches to hit. &nbsp;Logan has been getting a bit more interested in using the potty. &nbsp;Bruce and I haven't really pushed it but Evan has been helping him and it's so cute! &nbsp;Logan actually kicks me out of the bathroom and will do it on his own or with Evan's help. &nbsp;He's really growing up so quickly.<br />
+Bruce and I are doing ok. &nbsp;Bruce had a phone interview last week with a new company and he is pretty excited about the job so hopefully that will work out. &nbsp;We had a nice visit with Bob and Leni last week and the boys loved having them here! &nbsp;Bob and Bruce got quite a bit of work done in the yard where we had that land cleared. &nbsp;I think it is going to be really nice once it's done.<br />
+There so much more I want to say...all the little things...new bedding, new boot camps, jamberry's, Amanda's dad, Amanda's new baby, the end of Evan's school year - field trips, parties and graduation, meeting some Millbury people through t-ball, offering to host the end of the season party like you and Dad always did, Evan's party next weekend with some friends from school, Hopkinton State Park with Jen and the kids, Danny and Sean's sleepover this weekend, running, shopping...oh so many stories. &nbsp;I miss our talks! &nbsp;I wish I could just pick up the phone and call you. &nbsp;I wish you were coming up for Evan's game and a cookout later today. &nbsp;Oh, Mom, thank you, thank you, thank you...I never said it enough. &nbsp;I am so thankful for everything you always did for me, for everything you taught me, for the relationship we had, for being "girls are girls"...for you!! &nbsp;Mother's Day will forever be different for me but I will forever be grateful for all that we had! &nbsp;I love you!!<br />
+<br />
+<div class="separator" style="clear: both; text-align: center;">
+One of my favorite photos of Mom and I from Jen and Mike's wedding in 2013</div>
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4Ny-8B89CzU_us0UXwRddAvC9hqx-fcw4m7DS1MCd2S4_Ax6QTWJGtgShkLWMOhzeIyL59PaYgbUue169stx8ASENYC47Ic1LW7B_CJJI_gAIVWkNRzDcn0XslQ3EC9gXzq-x1zQrESA/s1600/DSC02770.JPG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="245" src="{{ site.baseurl }}/assets/images/2015/05/9699add5e6ed3e4e.jpg" width="400" /></a></div>
+<div class="separator" style="clear: both; text-align: center;">
+<br /></div>
+<div class="separator" style="clear: both; text-align: center;">
+Two peas in a pod...I couldn't be more proud of the woman who gave me life! &nbsp;Such an amazing mother, wife, daughter, Gramma, sister, friend and woman! &nbsp;Thank you for being such a wonderful role model!</div>
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRfATU4TFw_iR3Bi0vaW8jO5fo_ujs9nCmwafJJQFL-9QI7BbxuKcg39nYxlyqohB1Ay2wM7JhdcrC4_jyWGZKOelbkBFPKNIfpReOEUc2UiFlfxiwXzUtRD-6k3nah9Z3HitcqEwsDOk/s1600/p1010026.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" height="264" src="{{ site.baseurl }}/assets/images/2015/05/d10234b2e03718ab.jpg" width="320" /></a></div>
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggchk09ZqyiIkbB4nbZdS9n113M8ue1HVVwejDf-seDMEarR6EYHtbC03pnDM0GRU3hNXSzf-Q9QIeHDoVqv3HO8fyB4FJbylAE5WbVGFhhMNtAceEV-cuC1Ljqt3kQ4kCN4BG6oqp3KM/s1600/DSC03529.JPG" imageanchor="1" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em; text-align: center;"><img border="0" height="320" src="{{ site.baseurl }}/assets/images/2015/05/6dd5a2d46b759276.jpg" width="290" /></a><br />
+<br />
+<br />

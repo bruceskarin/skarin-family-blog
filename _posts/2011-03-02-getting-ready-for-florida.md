@@ -1,0 +1,11 @@
+---
+layout: post
+slug: getting-ready-for-florida
+title: Getting Ready for Florida
+date: 2011-03-02 10:47:00 -0500
+blogger_id: '3467553419543932604'
+original_url: https://blog.skarin.us/2011/03/getting-ready-for-florida.html
+author: Anonymous
+---
+
+We leave for Florida tomorrow and we are so looking forward to the warm  sunshine and a nice long visit with Papa and Gramma.  I think they will  be amazed at how much Evan has changed since Christmas when they last  saw him.  We are all packed and ready to go...just need a "quick"  haircut.<br /><div style="text-align: center;">This is serious business<br /></div><div style="text-align: center;"><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiF0bEdu1ENXILwW-dSTSaxqe2MVa1iLeSJcl8GcXZDws7ZWRda1bJQ_4ggSstlMrdiZjjTOvujDWdVUcPP2B6d2oeC-nqftqJLW3WVdGfWswoieeNmCY5iVSAwZUc88EnUhgjQ0-fXH1c/s1600/P1040877.JPG"><img style="display: block; margin: 0px auto 10px; text-align: center; cursor: pointer; width: 390px; height: 400px;" src="{{ site.baseurl }}/assets/images/2011/03/4465105559885ead.jpg" alt="" id="BLOGGER_PHOTO_ID_5586545935256027090" border="0" /></a>Papa and Gramma, ready or not, here I come!<br /></div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxuQmtq-coQdRt7H20LKIXqqExLLMDTRjUZG2fP2Ch1pKfBdmNc_VdD1TDkEqx-ZbynBNdBOeB0rAJ8jBCaOHdgNh3nrAdTg-J77hTM-HcoSTu4N7RHNLFkyYplbHeLctqJcRH7_sW7B4/s1600/P1040882.JPG"><img style="display: block; margin: 0px auto 10px; text-align: center; cursor: pointer; width: 304px; height: 400px;" src="{{ site.baseurl }}/assets/images/2011/03/6db1db6f40cb54b3.jpg" alt="" id="BLOGGER_PHOTO_ID_5586545937979219618" border="0" /></a><br /><div style="text-align: center;"><br /></div><div style="text-align: center;">Easier said than done<br /></div><div style="text-align: center;"><iframe title="YouTube video player" src="http://www.youtube.com/embed/sVOSfX3x8HI" allowfullscreen="" frameborder="0" height="390" width="640"></iframe></div>

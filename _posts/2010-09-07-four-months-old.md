@@ -1,0 +1,29 @@
+---
+layout: post
+slug: four-months-old
+title: Four Months Old
+date: 2010-09-07 19:55:00 -0400
+blogger_id: '1739951864578854789'
+original_url: https://blog.skarin.us/2010/09/four-months-old.html
+author: Anonymous
+---
+
+Evan is four months old today!  While we don’t go to the pediatrician for another two weeks, we are sure he is a growing boy.  He has outgrown most of his 0-3 month clothes and isn’t exactly swimming in his 3-6 month clothes.  Evan loves spending time on a blanket on the floor or on his play mat and has even begun to enjoy his exersaucer.  He is learning how new things work everyday and is extremely observant and vocal.  He is always full of smiles and giggles and has started reaching up towards us as we hold him.  We love our little boy to pieces!!<br />
+<br />
+<table style="border-collapse: collapse; border-color: rgb(136, 136, 136); border-width: 1px;" border="1" bordercolor="#888888" cellspacing="0"><tbody>
+<tr><td style="width: 60px;"><div style="text-align: center;">Such a  little ham!<br />
+</div><div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/fourmonthsold/P1020477.JPG?" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/09/9500a7cb1e10713e.jpg" border="0" height="320" width="272" /></a></div></td><td style="width: 60px;"><div style="text-align: center;">It's too hot for pj's!  Look at  my fat belly!<br />
+</div><div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/fourmonthsold/P1020483.JPG?" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/09/901be67cfcd9fdfb.jpg" border="0" height="277" width="320" /></a></div></td><td style="width: 60px;"><div style="text-align: center;">So big in my bouncy seat<br />
+</div><div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/fourmonthsold/P1020486.JPG?" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/09/b81da69decb60f6f.jpg" border="0" height="320" width="253" /></a></div></td></tr>
+<tr><td style="width: 60px;"><div style="text-align: center;">Filling up the  swing<br />
+</div><div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/fourmonthsold/P1020496.JPG?" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/09/2704f53c887b1966.jpg" border="0" height="320" width="246" /></a></div></td><td style="width: 60px;"><div style="text-align: center;">1...2...3...jump!</div><div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/fourmonthsold/P1020508.JPG?" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/09/57fda207031efb6c.jpg" border="0" height="320" width="191" /></a></div></td><td style="width: 60px;"><div style="text-align: center;">Good fingers!<br />
+</div><div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/fourmonthsold/P1020514.JPG?" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/09/dc02cb1b1d2e6ee2.jpg" border="0" height="265" width="320" /></a></div></td></tr>
+<tr><td style="width: 60px;"><div style="text-align: center;">Don't mess with  me!<br />
+</div><div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/fourmonthsold/P1020522.JPG?" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/09/941e03ec247abade.jpg" border="0" height="240" width="320" /></a></div></td><td style="width: 60px;"><div style="text-align: center;">I am four months old today!<br />
+</div><div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/fourmonthsold/P1020526.JPG?" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/09/d46b95762f98dfd5.jpg" border="0" height="276" width="320" /></a></div></td><td style="width: 60px;"><div style="text-align: center;">Relaxing...love the crossed  feet!<br />
+</div><div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/fourmonthsold/P1020536.JPG?" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/09/d267bcbba54d74a3.jpg" border="0" height="320" width="240" /></a></div></td></tr>
+<tr><td style="width: 60px;"><div style="text-align: center;">Four month photo  with mom<br />
+</div><div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/fourmonthsold/P1020542.JPG?" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/09/97115b71ed4bb6ca.jpg" border="0" height="320" width="240" /></a></div></td><td style="width: 60px;"><div style="text-align: center;">And with dad<br />
+</div><div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/fourmonthsold/P1020547.JPG?" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/09/aeebf9cb19e80c02.jpg" border="0" height="240" width="320" /></a></div></td><td style="width: 60px;"><div style="text-align: center;">I love my daddy!<br />
+</div><div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/fourmonthsold/P1020552.JPG?" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/09/e8142b0d1e7e20c9.jpg" border="0" height="240" width="320" /></a></div></td></tr>
+</tbody></table>

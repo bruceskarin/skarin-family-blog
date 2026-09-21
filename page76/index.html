@@ -1,0 +1,16 @@
+---
+layout: default
+title: Page 76
+---
+{% for post in site.posts limit:10 offset:750 %}
+<article class="post">
+  <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+  <p class="meta">{{ post.date | date: "%B %-d, %Y" }}{% if post.author %} &middot; {{ post.author }}{% endif %}</p>
+  <div class="post-body">{{ post.excerpt }}</div>
+  <p><a href="{{ post.url | relative_url }}">Read more &rarr;</a></p>
+</article>
+{% endfor %}
+<div class="pager">
+  <a href="/page75/">Newer posts &rarr;</a>
+  <a href="/page77/">&larr; Older posts</a>
+</div>

@@ -1,0 +1,7 @@
+title: "The Skarin Family Blog"
+description: "News and updates on our children's journey through life as part of the Skarin family."
+url: "https://blog.skarin.us"
+baseurl: ""
+permalink: /:year/:month/:title/
+markdown: kramdown
+excerpt_separator: "<!--more-->"

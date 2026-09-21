@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if page.title %}{{ page.title }} · {% endif %}{{ site.title }}</title>
+  <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | strip_newlines | truncate: 160 }}">
+  <style>
+    :root { --ink:#2b2b2b; --soft:#6b6b6b; --line:#e3ddd2; --bg:#fdfbf7; --accent:#7a5c3e; }
+    * { box-sizing: border-box; }
+    body { margin:0; background:var(--bg); color:var(--ink);
+           font-family: Georgia, 'Times New Roman', serif; line-height:1.65; }
+    .wrap { max-width: 720px; margin: 0 auto; padding: 0 1.25rem; }
+    header.site { border-bottom: 1px solid var(--line); padding: 2rem 0 1.25rem; text-align:center; }
+    header.site h1 { margin:0 0 .25rem; font-size: 2rem; letter-spacing:.5px; }
+    header.site h1 a { color: var(--ink); text-decoration:none; }
+    header.site p.tagline { margin:0 0 1rem; color:var(--soft); font-style:italic; font-size:.95rem; }
+    nav a { margin: 0 .6rem; color: var(--accent); text-decoration:none; font-family: -apple-system, 'Segoe UI', sans-serif; font-size:.9rem; }
+    nav a:hover { text-decoration: underline; }
+    main { padding: 2rem 0 3rem; }
+    article.post { margin-bottom: 3rem; }
+    article.post h2 { margin: 0 0 .25rem; font-size: 1.6rem; }
+    article.post h2 a { color: var(--ink); text-decoration:none; }
+    article.post h2 a:hover { color: var(--accent); }
+    .meta { color: var(--soft); font-size: .85rem; font-family: -apple-system, 'Segoe UI', sans-serif; margin-bottom: 1rem; }
+    .post-body img { max-width: 100%; height: auto; display:block; margin: 1.25rem auto; border:1px solid var(--line); }
+    .post-body table { max-width:100%; }
+    .comments { margin-top: 3rem; border-top: 1px solid var(--line); padding-top: 1.5rem; }
+    .comments h3 { font-size: 1.2rem; }
+    .comment { margin-bottom: 1.25rem; padding-bottom: 1.25rem; border-bottom: 1px dotted var(--line); font-size:.95rem; }
+    .comment .who { font-family: -apple-system, 'Segoe UI', sans-serif; font-weight:600; font-size:.85rem; }
+    .comment .when { color: var(--soft); font-size:.8rem; font-family: -apple-system, 'Segoe UI', sans-serif; }
+    .pager { display:flex; justify-content:space-between; margin-top:2.5rem; font-family: -apple-system, 'Segoe UI', sans-serif; }
+    .pager a { color: var(--accent); text-decoration:none; }
+    .archive-year { font-size:1.4rem; margin: 2rem 0 .5rem; }
+    .archive-month { font-size:1.05rem; margin: 1.25rem 0 .25rem; color: var(--soft); }
+    ul.plain { list-style:none; padding:0; }
+    ul.plain li { margin:.3rem 0; }
+    ul.plain a { color: var(--ink); text-decoration:none; }
+    ul.plain a:hover { color: var(--accent); text-decoration: underline; }
+    ul.plain .d { color: var(--soft); font-size:.8rem; font-family: -apple-system, 'Segoe UI', sans-serif; margin-right:.5rem; }
+    footer.site { border-top: 1px solid var(--line); padding: 1.5rem 0 2.5rem; text-align:center;
+                  color: var(--soft); font-size:.85rem; font-family: -apple-system, 'Segoe UI', sans-serif; }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <header class="site">
+      <h1><a href="{{ '/' | relative_url }}">{{ site.title }}</a></h1>
+      <p class="tagline">{{ site.description }}</p>
+      <nav>
+        <a href="{{ '/' | relative_url }}">Home</a>
+        <a href="{{ '/archive/' | relative_url }}">Archive</a>
+        <a href="{{ '/about/' | relative_url }}">About</a>
+      </nav>
+    </header>
+    <main>
+      {{ content }}
+    </main>
+    <footer class="site">
+      The Skarin Family Blog · migrated from Blogger, {{ site.posts.size }} posts
+    </footer>
+  </div>
+</body>
+</html>

@@ -1,0 +1,19 @@
+---
+layout: default
+title: Archive
+permalink: /archive/
+---
+<h2>Every post, newest first</h2>
+{% assign by_year = site.posts | group_by_exp: "p", "p.date | date: '%Y'" %}
+{% for y in by_year %}
+<h3 class="archive-year">{{ y.name }}</h3>
+{% assign by_month = y.items | group_by_exp: "p", "p.date | date: '%B'" %}
+{% for m in by_month %}
+<h4 class="archive-month">{{ m.name }}</h4>
+<ul class="plain">
+{% for p in m.items %}
+<li><span class="d">{{ p.date | date: "%b %-d" }}</span><a href="{{ p.url | relative_url }}">{{ p.title }}</a></li>
+{% endfor %}
+</ul>
+{% endfor %}
+{% endfor %}
