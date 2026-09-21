@@ -1,0 +1,10 @@
+{% comment %}Slideshow include. Usage: {% include slideshow.html folder="/assets/slideshows/album-slug" caption="Optional caption" %}{% endcomment %}
+{% assign _imgs = site.static_files | where_exp: "f", "f.path contains include.folder" | sort: "name" %}
+{% if _imgs.size > 0 %}
+<div class="slideshow" data-slideshow>
+  {% for _f in _imgs %}<figure class="slide{% if forloop.first %} active{% endif %}"><img src="{{ _f.path | relative_url }}" alt="{% if include.caption %}{{ include.caption }} - {% endif %}photo {{ forloop.index }} of {{ _imgs.size }}" loading="lazy"></figure>{% endfor %}
+  <button class="sl-prev" type="button" aria-label="Previous photo">&#8249;</button>
+  <button class="sl-next" type="button" aria-label="Next photo">&#8250;</button>
+  <div class="sl-count"><span class="sl-cur">1</span> / {{ _imgs.size }}</div>
+</div>
+{% endif %}
