@@ -5,7 +5,7 @@ title: Silly Socks!
 date: 2012-05-30 22:24:00 -0400
 blogger_id: '6150600428066507690'
 original_url: https://blog.skarin.us/2012/05/silly-socks.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 I have a pair of Adidas socks that I cut the toes off of so that I can paint my toenails in the winter without freezing my feet. &nbsp;Evan calls them my silly socks. &nbsp;I also have other pairs of socks with the same Adidas logo that I wear to work out. &nbsp;Every time Evan sees that logo, he says "Silly socks!"<br />

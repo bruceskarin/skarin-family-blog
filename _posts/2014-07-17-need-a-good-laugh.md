@@ -5,7 +5,7 @@ title: Need a good laugh??
 date: 2014-07-17 21:22:00 -0400
 blogger_id: '8171147257272395677'
 original_url: https://blog.skarin.us/2014/07/need-good-laugh.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 You'll want to bookmark this post so you can pull it up anytime you need a good laugh. <br />

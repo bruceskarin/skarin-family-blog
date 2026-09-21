@@ -5,7 +5,7 @@ title: Rocking George and Pooh Bear
 date: 2011-11-16 18:12:00 -0500
 blogger_id: '3724229430760356166'
 original_url: https://blog.skarin.us/2011/11/rocking-george-and-pooh-bear.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 <div style="text-align: center;">

@@ -5,7 +5,7 @@ title: World Series Champions!!
 date: 2013-10-30 13:57:00 -0400
 blogger_id: '7173695384837995433'
 original_url: https://blog.skarin.us/2013/10/world-series-champions.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 <div style="text-align: center;">

@@ -5,7 +5,7 @@ title: Giddy up, Hess Truck?
 date: 2011-10-27 21:05:00 -0400
 blogger_id: '5830170607203277750'
 original_url: https://blog.skarin.us/2011/10/giddy-up-hess-truck.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 <div class="separator" style="clear: both; text-align: center;">

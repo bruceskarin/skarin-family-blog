@@ -5,7 +5,7 @@ title: Sticker Legs
 date: 2012-07-13 18:25:00 -0400
 blogger_id: '923322364387346970'
 original_url: https://blog.skarin.us/2012/07/sticker-legs.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 <div class="separator" style="clear: both; text-align: center;">

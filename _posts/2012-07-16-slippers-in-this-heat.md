@@ -5,7 +5,7 @@ title: Slippers...In this heat??
 date: 2012-07-16 22:34:00 -0400
 blogger_id: '5640525856094003878'
 original_url: https://blog.skarin.us/2012/07/slippers.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 <div style="text-align: left;">

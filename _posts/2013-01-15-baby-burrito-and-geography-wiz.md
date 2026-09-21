@@ -5,7 +5,7 @@ title: Baby Burrito and Geography Wiz
 date: 2013-01-15 22:49:00 -0500
 blogger_id: '8872406062433844976'
 original_url: https://blog.skarin.us/2013/01/baby-burrito-and-geography-wiz.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 <div class="separator" style="clear: both; text-align: center;">
@@ -32,7 +32,5 @@ Do you want to see where Mount Rushmore is? &nbsp;It's here in South Dakota!&nbs
 <div class="separator" style="clear: both; text-align: center;">
 <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgs21PWbvM4R_DC5NRZTT19lQ7h44hQZ1Hi4Y9iuA0zfojIi94xCZLtIH5docGXlOa916x0j9dNwHARKyOu-jVeotsFUTaggOJFy5W0wNH_OP7gXFowelyB5UOaW4Biqe_1mS26cub6QT4/s1600/DSC08159.JPG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="265" src="{{ site.baseurl }}/assets/images/2013/01/19f3b71c8e34d4e9.jpg" width="400" /></a></div>
 <br />
-<div>
-<br /></div>
-<div>
-<br /></div>
+
+

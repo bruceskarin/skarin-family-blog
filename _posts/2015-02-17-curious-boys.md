@@ -5,7 +5,7 @@ title: Curious Boys
 date: 2015-02-17 14:18:00 -0500
 blogger_id: '4030080834150160047'
 original_url: https://blog.skarin.us/2015/02/curious-boys.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 Hi Mom. &nbsp;Just wanted to tell you a couple of cute stories about the boys.<br />

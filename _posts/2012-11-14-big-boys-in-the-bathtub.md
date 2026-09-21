@@ -5,7 +5,7 @@ title: Big Boys in the Bathtub
 date: 2012-11-14 16:23:00 -0500
 blogger_id: '8344032404809749369'
 original_url: https://blog.skarin.us/2012/11/big-boys-in-bathtub.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 I am looking forward to the day when we can just put both boys in the tub to take a bath together. &nbsp;No more of Evan in the big tub and Logan in his little tub on the bathroom floor or having to do them one at a time. &nbsp;I feel like we waste so much water! &nbsp;Today, I decided to experiment. &nbsp;I put Logan's little tub in the big tub with Evan. &nbsp;It doesn't leave tons of room for Evan but it worked out ok. Based on the looks on the boys faces, I'm not sure if this is a short term solution or not though.<br />

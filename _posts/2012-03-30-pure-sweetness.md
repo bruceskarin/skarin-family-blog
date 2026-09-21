@@ -5,7 +5,7 @@ title: Pure Sweetness!
 date: 2012-03-30 09:34:00 -0400
 blogger_id: '1124731758507693624'
 original_url: https://blog.skarin.us/2012/03/pure-sweetness.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 <div class="separator" style="clear: both; text-align: center;">

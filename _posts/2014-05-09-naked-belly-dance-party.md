@@ -5,7 +5,7 @@ title: Naked Belly Dance Party
 date: 2014-05-09 20:29:00 -0400
 blogger_id: '3579865723037796858'
 original_url: https://blog.skarin.us/2014/05/naked-belly-dance-party.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 Evan requested to have a dance party tonight, then for some reason Logan started taking his shirt off...The result...A naked belly dance party. &nbsp;Only the boys participated!<br />

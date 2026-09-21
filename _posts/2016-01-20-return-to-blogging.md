@@ -5,7 +5,7 @@ title: Return to Blogging
 date: 2016-01-20 16:03:00 -0500
 blogger_id: '5325168699254717888'
 original_url: https://blog.skarin.us/2016/01/return-to-blogging.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 Looking back over the last year and a half, I haven't done too much blogging. &nbsp;Life has been getting in the way! &nbsp;Only 95 posts in 2014 and 35 in 2015 as compared to about 200 in previous years. &nbsp;While 200 blog posts in one year may be a bit of overkill, 35 seems a bit on the low side. &nbsp;As a result of not blogging, I feel like I am forgetting many moments. &nbsp;Those moments when I would take a photo and immediately think of caption for it. &nbsp;Those cute phrases or conversations with the boys that I am not capturing or remembering in quite the same way. &nbsp;Family experiences captured on camera but then lost as a set of photos untouched and unseen. <br />

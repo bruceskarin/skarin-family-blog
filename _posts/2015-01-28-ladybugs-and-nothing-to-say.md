@@ -5,7 +5,7 @@ title: Ladybugs and Nothing to Say
 date: 2015-01-28 20:38:00 -0500
 blogger_id: '1808135371236496142'
 original_url: https://blog.skarin.us/2015/01/ladybugs-and-nothing-to-say.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 I have never really solidified my thoughts on the afterlife. &nbsp;I don't really know what I believe on what happens when people leave this world as we know it. &nbsp;For obvious reasons, I have been giving it more thought as of late and I can honestly say that I haven't been able to come to any conclusions. &nbsp;I would like to believe that our loved ones can see us and hear us and that they are smiling down with pride and that we will all be together again but I can't be totally sure. &nbsp;However, there are a few things of which I am sure...Kind of.<br />
@@ -28,5 +28,8 @@ So maybe with time, I will be able to talk to Mom more and have things to tell h
 <br />
 While I am not exactly sure where Mom is or whether or not she can hear me or see what we are doing, this I do know for sure. &nbsp;I am so thankful for the time that I had with her and appreciate all of the things that she taught me during that time. &nbsp;I am so proud of who she was and the woman I have become because of her. &nbsp;I am glad that when I look in the mirror or see photos of me, I also see her. &nbsp;I know that she is the best friend I will ever have and that we will always be "girls are girls".<br />
 <br />
-<embed flashvars="host=picasaweb.google.com&amp;interval=6&amp;captions=1&amp;hl=en_US&amp;feat=flashalbum&amp;RGB=0x000000&amp;feed=https%3A%2F%2Fpicasaweb.google.com%2Fdata%2Ffeed%2Fapi%2Fuser%2F111078421412399706337%2Falbumid%2F6114029970522891169%3Falt%3Drss%26kind%3Dphoto%26authkey%3DGv1sRgCMaPkI6S7ePRBw%26hl%3Den_US" height="533" pluginspage="http://www.macromedia.com/go/getflashplayer" src="https://photos.gstatic.com/media/slideshow.swf" type="application/x-shockwave-flash" width="800"></embed><br />
+<!-- removed dead embed: slideshow albumid:6114029970522891169 -->
+<div class="embed-placeholder"><p><em>Photo slideshow from the original blog. The slideshow service (Picasa/Flash) has been discontinued, so these photos can no longer be displayed here.</em></p></div>
+
+<br />
 <br />

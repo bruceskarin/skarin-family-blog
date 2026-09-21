@@ -5,7 +5,7 @@ title: Excuse me, I have to take this call
 date: 2012-06-20 15:32:00 -0400
 blogger_id: '3311465075117310596'
 original_url: https://blog.skarin.us/2012/06/excuse-me-i-have-to-take-this-call.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 Daddy is traveling in DC for work today and he called to check in and see how our day was going as I was getting Evan ready for bed. &nbsp;Evan was quite excited to talk to Daddy on the phone! &nbsp;He's a natural! I think we may be in trouble when he is a teenager!<br />

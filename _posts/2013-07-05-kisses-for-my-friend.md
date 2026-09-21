@@ -5,7 +5,7 @@ title: Kisses for my friend
 date: 2013-07-05 22:30:00 -0400
 blogger_id: '972784996475900081'
 original_url: https://blog.skarin.us/2013/07/kisses-for-my-friend.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 When Evan was just about nine months old, he found a <a href="http://blog.skarin.us/2011/02/my-friend-in-mirror-part-two.html">friend in the mirror</a>. &nbsp;Logan has found one too! &nbsp;Logan likes to kiss his friend a bit more than Evan did. &nbsp;Can you blame him? &nbsp;He's super cute! &nbsp;This is what was happening at home while daddy was out "test driving" new cars. &nbsp;Little did I know at the time just how much I would come to appreciate the adorableness (is that even a word?) of this video! <br />

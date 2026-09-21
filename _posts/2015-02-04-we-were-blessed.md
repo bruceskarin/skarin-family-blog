@@ -5,7 +5,7 @@ title: We Were Blessed
 date: 2015-02-04 10:49:00 -0500
 blogger_id: '4960729252894796750'
 original_url: https://blog.skarin.us/2015/02/we-were-blessed.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 <span style="font-family: inherit;">Hard to believe that three weeks have already passed...</span><br />
@@ -59,4 +59,7 @@ author: Anonymous
 <span style="background-color: transparent; font-family: inherit; font-size: 16px; font-style: normal; font-variant: normal; font-weight: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"><br /></span>
 <span style="white-space: pre-wrap;">Mom and Dad through the years...</span></div>
 <div dir="ltr" style="margin-bottom: 0pt; margin-top: 0pt;">
-<span style="background-color: transparent; line-height: 16px; vertical-align: baseline; white-space: pre-wrap;"><span style="font-family: Arial, Helvetica, sans-serif;"><embed flashvars="host=picasaweb.google.com&amp;interval=6&amp;captions=1&amp;hl=en_US&amp;feat=flashalbum&amp;RGB=0x000000&amp;feed=https%3A%2F%2Fpicasaweb.google.com%2Fdata%2Ffeed%2Fapi%2Fuser%2F111078421412399706337%2Falbumid%2F6112016753404375313%3Falt%3Drss%26kind%3Dphoto%26authkey%3DGv1sRgCK6bhPvShIXDoQE%26hl%3Den_US" height="533" pluginspage="http://www.macromedia.com/go/getflashplayer" src="https://photos.gstatic.com/media/slideshow.swf" type="application/x-shockwave-flash" width="800"></embed></span></span></div>
+<span style="background-color: transparent; line-height: 16px; vertical-align: baseline; white-space: pre-wrap;"><span style="font-family: Arial, Helvetica, sans-serif;"><!-- removed dead embed: slideshow albumid:6112016753404375313 -->
+<div class="embed-placeholder"><p><em>Photo slideshow from the original blog. The slideshow service (Picasa/Flash) has been discontinued, so these photos can no longer be displayed here.</em></p></div>
+
+</span></span></div>

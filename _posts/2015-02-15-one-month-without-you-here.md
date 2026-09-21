@@ -5,7 +5,7 @@ title: One Month Without You Here
 date: 2015-02-15 20:50:00 -0500
 blogger_id: '7094354672316634482'
 original_url: https://blog.skarin.us/2015/02/one-month-without-you-here.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 "Hi Mom!  It's me.  Just wanted to check in and let you know what we've been up to.  Haven't talked with you in a while.  I miss you.  I hope you are doing well!  Love you!"<br />
@@ -25,6 +25,7 @@ Not too much else.  We had a good time at the Super Bowl Party at Dan and Karin'
 I've had a tough week with Dad going back to Florida and especially the last few days.  I look at the windows to your room in ICU every time I drive by the hospital.  I know you aren't there but I just can't seem to help it.  I keep thinking that I wish I never left on the afternoon of the 3rd.  I don't know what would have been different if I hadn't but I still wish I hadn't.  Part of me keeps thinking that one of these times when I go to your house, you'll greet us at the door or be in the family room playing solitaire.  I know you won't be but oh how I wish you would be! I hope you know how much you mean to me and how much I will always cherish our relationship.  Keep me strong, Mom!  I need you!  I love you!<br />
 <br />
 Some photos and video from the last month including celebrating my birthday and Valentine's Day
-<embed flashvars="host=picasaweb.google.com&amp;interval=6&amp;captions=1&amp;hl=en_US&amp;feat=flashalbum&amp;RGB=0x000000&amp;feed=https%3A%2F%2Fpicasaweb.google.com%2Fdata%2Ffeed%2Fapi%2Fuser%2F111078421412399706337%2Falbumid%2F6116580718318142193%3Falt%3Drss%26kind%3Dphoto%26authkey%3DGv1sRgCJXN06Xdrs7kLA%26hl%3Den_US" height="533" pluginspage="http://www.macromedia.com/go/getflashplayer" src="https://photos.gstatic.com/media/slideshow.swf" type="application/x-shockwave-flash" width="800"></embed>
+<!-- removed dead embed: slideshow albumid:6116580718318142193 -->
+<div class="embed-placeholder"><p><em>Photo slideshow from the original blog. The slideshow service (Picasa/Flash) has been discontinued, so these photos can no longer be displayed here.</em></p></div>
 
 <iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/S9dIlt_BHWc?list=UURQp9kCsOwE7W10PtM_i5Ug" width="560"></iframe>

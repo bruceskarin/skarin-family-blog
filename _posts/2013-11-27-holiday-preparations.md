@@ -5,7 +5,7 @@ title: Holiday Preparations
 date: 2013-11-27 20:49:00 -0500
 blogger_id: '3152536809659823722'
 original_url: https://blog.skarin.us/2013/11/holiday-preparations.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 Holiday preparations are underway...and I have the two best little helpers!<br />

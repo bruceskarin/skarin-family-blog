@@ -5,7 +5,7 @@ title: Read...Read books
 date: 2011-11-05 06:32:00 -0400
 blogger_id: '6162486644331618438'
 original_url: https://blog.skarin.us/2011/11/readread-books.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 Evan has always loved to read and be read to. &nbsp;It is adorable to watch him "read" on his own. &nbsp;Just by looking at the pictures and identifying familiar objects he really can practically read some books. &nbsp;He also likes to read books in mommy and daddy's bed. &nbsp;Such a great excuse for a little extra snuggle time!<br />

@@ -5,7 +5,7 @@ title: Happy First Birthday, Logan!
 date: 2013-08-07 21:43:00 -0400
 blogger_id: '5406971921811542765'
 original_url: https://blog.skarin.us/2013/08/happy-first-birthday-logan.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 Dear Logan-<br />

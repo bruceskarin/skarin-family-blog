@@ -5,7 +5,7 @@ title: A Lucky Fox?
 date: 2012-02-05 16:06:00 -0500
 blogger_id: '7837748254162197526'
 original_url: https://blog.skarin.us/2012/02/lucky-fox.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 Today as I was getting ready for Tim's annual Super Bowl party, I saw a fox out the bathroom window. &nbsp;At first, through the window, foggy from my shower, I thought it was a cat. &nbsp;But then I took a closer look and saw that I was wrong. &nbsp;I have never seen a fox this close before and certainly not in the middle of the day. &nbsp;Maybe he is a lucky fox who is going to bring us a win tonight...Let's go Patriots!<br />

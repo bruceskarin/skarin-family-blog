@@ -5,7 +5,7 @@ title: The 9:10 Phone Call That Never Came
 date: 2015-02-13 20:57:00 -0500
 blogger_id: '2954169395271718885'
 original_url: https://blog.skarin.us/2015/02/the-910-phone-call-that-never-came.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 Every year for probably the last 17 years, at exactly 9:10 am on February 13th, my Mom would call me. &nbsp;You see I was born on February 13th, 1979 at 9:10 am. &nbsp;For the first 18 years of my life, I was at home for my birthday but then once I went to college and beyond, she would call. &nbsp;Before cell phones, she would leave a message on my home phone or call my work phone. &nbsp;Once I had a cell phone and couldn't really be reached during the day when I was teaching, she would call my cell and leave a message. &nbsp;More recently, since I was home with the boys, I would wait for that phone call, always knowing that it would come right at 9:10...never 9:09 and never 9:11. Well this year that phone call never came.<br />

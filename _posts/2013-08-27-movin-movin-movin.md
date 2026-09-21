@@ -5,7 +5,7 @@ title: Movin', Movin', Movin'...
 date: 2013-08-27 20:49:00 -0400
 blogger_id: '5378220278647461496'
 original_url: https://blog.skarin.us/2013/08/movin-movin-movin.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 ...Keep that Logan movin'!<br />

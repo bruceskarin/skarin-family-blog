@@ -5,7 +5,7 @@ title: Hug a Little Tighter, Hold a Little Longer
 date: 2012-12-16 22:43:00 -0500
 blogger_id: '1977179450926437624'
 original_url: https://blog.skarin.us/2012/12/hug-little-tighter-hold-little-longer.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 In light of the tragedy at Sandy Hook Elementary School in Newtown on Friday, I found myself hugging my boys a little tighter and holding on to them a little longer than usual this weekend. <br />
@@ -16,4 +16,5 @@ Then unexpectedly, Saturday night both boys woke up in the middle of the night. 
 <br />
 I always try to be patient and understanding with the boys and to cherish the moments we have together but I know that I will count our blessings even more carefully now. &nbsp;Yesterday is history, tomorrow is a mystery, today is a gift - that's why it's called the present. &nbsp;Cherish it!<br />
 <br />
-<embed flashvars="host=picasaweb.google.com&amp;interval=6&amp;captions=1&amp;hl=en_US&amp;feat=flashalbum&amp;RGB=0x000000&amp;feed=https%3A%2F%2Fpicasaweb.google.com%2Fdata%2Ffeed%2Fapi%2Fuser%2F111078421412399706337%2Falbumid%2F5837558267744931665%3Falt%3Drss%26kind%3Dphoto%26authkey%3DGv1sRgCL7Wqb3ax8CW-gE%26hl%3Den_US" height="533" pluginspage="http://www.macromedia.com/go/getflashplayer" src="https://picasaweb.google.com/s/c/bin/slideshow.swf" type="application/x-shockwave-flash" width="800"></embed>
+<!-- removed dead embed: slideshow albumid:5837558267744931665 -->
+<div class="embed-placeholder"><p><em>Photo slideshow from the original blog. The slideshow service (Picasa/Flash) has been discontinued, so these photos can no longer be displayed here.</em></p></div>

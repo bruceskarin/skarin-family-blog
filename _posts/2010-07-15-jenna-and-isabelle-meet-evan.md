@@ -5,7 +5,25 @@ title: Jenna and Isabelle meet Evan
 date: 2010-07-15 18:02:00 -0400
 blogger_id: '8724543793087116509'
 original_url: https://blog.skarin.us/2010/07/jenna-and-isabelle-meet-evan.html
-author: Anonymous
+author: Diane Skarin
 ---
 
-Today Jenna and Isabelle came to meet Evan. We have been trying to schedule this for quite a few weeks now and it finally worked out that we were all free today. They arrived at 10 and left around 1:30 and Evan slept the entire time!! There were a few times where he started waking up but then never quite made it. I guess he was a tired little boy from all the fun he had this morning with Daddy. I have to say I am a bit surprised especially seeing as Evan slept from 9 o’clock last night until 6:15 this morning. Maybe it’s another growth spurt…who knows?? It was nice to catch up with Jenna anyway and to see how much Isabelle has grown. We will have to do it again when Evan is a bit more sociable!<br /><br /><table style="border-collapse: collapse; border-color: rgb(136, 136, 136); border-width: 1px;" border="1" bordercolor="#888888" cellspacing="0"><tbody><tr><td style="width: 60px;"><div style="text-align: center;"> Isabelle Jane came to visit<br /></div><div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/untitledpost-1/P1010547.JPG?attredirects=0" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/07/2a7b5f60bb99c11e.jpg" border="0" height="320" width="258" /></a></div></td><td style="width: 60px;"><div style="text-align: center;"> Got that thumb<br /></div><div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/untitledpost-1/P1010548.JPG?attredirects=0" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/07/bd32d7a43714a56b.jpg" border="0" height="320" width="216" /></a></div></td><td style="width: 60px;"><div style="text-align: center;"> Big, beautiful eyes!<br /></div><div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/untitledpost-1/P1010549.JPG?attredirects=0" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/07/574e470309d650f9.jpg" border="0" height="259" width="320" /></a></div></td></tr></tbody></table>
+Today Jenna and Isabelle came to meet Evan. We have been trying to schedule this for quite a few weeks now and it finally worked out that we were all free today. They arrived at 10 and left around 1:30 and Evan slept the entire time!! There were a few times where he started waking up but then never quite made it. I guess he was a tired little boy from all the fun he had this morning with Daddy. I have to say I am a bit surprised especially seeing as Evan slept from 9 o’clock last night until 6:15 this morning. Maybe it’s another growth spurt…who knows?? It was nice to catch up with Jenna anyway and to see how much Isabelle has grown. We will have to do it again when Evan is a bit more sociable!<br /><br /><table style="border-collapse: collapse; border-color: rgb(136, 136, 136); border-width: 1px;" border="1" bordercolor="#888888" cellspacing="0"><tbody><tr><td style="width: 60px;">
+
+<div style="text-align: center;"> Isabelle Jane came to visit<br /></div>
+
+<div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/untitledpost-1/P1010547.JPG?attredirects=0" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/07/2a7b5f60bb99c11e.jpg" border="0" height="320" width="258" /></a></div>
+
+</td><td style="width: 60px;">
+
+<div style="text-align: center;"> Got that thumb<br /></div>
+
+<div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/untitledpost-1/P1010548.JPG?attredirects=0" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/07/bd32d7a43714a56b.jpg" border="0" height="320" width="216" /></a></div>
+
+</td><td style="width: 60px;">
+
+<div style="text-align: center;"> Big, beautiful eyes!<br /></div>
+
+<div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/untitledpost-1/P1010549.JPG?attredirects=0" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/07/574e470309d650f9.jpg" border="0" height="259" width="320" /></a></div>
+
+</td></tr></tbody></table>

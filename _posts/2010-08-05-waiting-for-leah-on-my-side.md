@@ -5,29 +5,109 @@ title: Waiting for Leah On My Side
 date: 2010-08-05 22:46:00 -0400
 blogger_id: '3705388698889811233'
 original_url: https://blog.skarin.us/2010/08/waiting-for-leah-on-my-side.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 Today my good friend Leah drove up from NYC to meet Evan and visit with us.  While we were waiting for her to arrive, Evan had a little chat with Wally and explained to him what the Red Sox need to do to turn it around for the remainder of the season.  Evan also rolled on to his side for the first time trying to get his frog.  He did really well rolling back and forth for quite some time and seemed tickled by his newly discovered talent.  I just know he’ll be rolling over soon!  Shortly after Leah arrived, Evan went down for a nap.  She and I had a very nice lunch and were able to catch up after not seeing each other for quite some time.  We look forward to having another visit with her (and her boys) sometime soon!<br />
 <br />
 <div style="text-align: center;"><br />
-</div><table style="border-collapse: collapse; border-color: rgb(136, 136, 136); border-width: 1px;" border="1" bordercolor="#888888" cellspacing="0"><tbody>
-<tr><td style="width: 60px;"><div style="text-align: center;">Waiting  patiently for Leah to arrive<br />
-</div><div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/83-828updates/P1010813.JPG?" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/08/c438be3e603e4511.jpg" border="0" height="320" width="240" /></a></div></td><td style="width: 60px;"><div style="text-align: center;">Do you think she will like me?<br />
-</div><div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/83-828updates/P1010815.JPG?" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/08/12d6c1165f97931f.jpg" border="0" height="240" width="320" /></a></div></td><td style="width: 60px;"><div style="text-align: center;">I'm super cute!<br />
-</div><div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/83-828updates/P1010817.JPG?" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/08/eeb42aa705317554.jpg" border="0" height="320" width="313" /></a></div></td></tr>
-<tr><td style="width: 60px;"><div style="text-align: center;">Wally, what is  going on with the Sox?<br />
-</div><div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/83-828updates/P1010821.JPG?" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/08/f09e76e4f2b1fdf5.jpg" border="0" height="283" width="320" /></a></div></td><td style="width: 60px;"><div style="text-align: center;">They are a bunch of bums...<br />
-</div><div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/83-828updates/P1010823.JPG?" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/08/a160efb3a9b2df98.jpg" border="0" height="289" width="320" /></a></div></td><td style="width: 60px;"><div style="text-align: center;">...all laying down on the job!<br />
-</div><div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/83-828updates/P1010838.JPG?" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/08/64769a0d5952d7d6.jpg" border="0" height="203" width="320" /></a></div></td></tr>
-<tr><td style="width: 60px;"><div style="text-align: center;">Oh never mind,  I'll just suck on my fingers<br />
-</div><div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/83-828updates/P1010840.JPG?" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/08/4435ce6ae1484ea9.jpg" border="0" height="240" width="320" /></a></div></td><td style="width: 60px;"><div style="text-align: center;">I'm gonna get you little  froggy!<br />
-</div><div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/83-828updates/P1010843.JPG?" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/08/b232efde916abaa3.jpg" border="0" height="192" width="320" /></a></div></td><td style="width: 60px;"><div style="text-align: center;">Just out of reach<br />
-</div><div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/83-828updates/P1010844.JPG?" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/08/d22da4cbad8280e4.jpg" border="0" height="227" width="320" /></a></div></td></tr>
+</div>
+
+<table style="border-collapse: collapse; border-color: rgb(136, 136, 136); border-width: 1px;" border="1" bordercolor="#888888" cellspacing="0"><tbody>
+<tr><td style="width: 60px;">
+
+<div style="text-align: center;">Waiting  patiently for Leah to arrive<br />
+</div>
+
+<div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/83-828updates/P1010813.JPG?" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/08/c438be3e603e4511.jpg" border="0" height="320" width="240" /></a></div>
+
+</td><td style="width: 60px;">
+
+<div style="text-align: center;">Do you think she will like me?<br />
+</div>
+
+<div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/83-828updates/P1010815.JPG?" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/08/12d6c1165f97931f.jpg" border="0" height="240" width="320" /></a></div>
+
+</td><td style="width: 60px;">
+
+<div style="text-align: center;">I'm super cute!<br />
+</div>
+
+<div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/83-828updates/P1010817.JPG?" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/08/eeb42aa705317554.jpg" border="0" height="320" width="313" /></a></div>
+
+</td></tr>
+<tr><td style="width: 60px;">
+
+<div style="text-align: center;">Wally, what is  going on with the Sox?<br />
+</div>
+
+<div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/83-828updates/P1010821.JPG?" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/08/f09e76e4f2b1fdf5.jpg" border="0" height="283" width="320" /></a></div>
+
+</td><td style="width: 60px;">
+
+<div style="text-align: center;">They are a bunch of bums...<br />
+</div>
+
+<div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/83-828updates/P1010823.JPG?" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/08/a160efb3a9b2df98.jpg" border="0" height="289" width="320" /></a></div>
+
+</td><td style="width: 60px;">
+
+<div style="text-align: center;">...all laying down on the job!<br />
+</div>
+
+<div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/83-828updates/P1010838.JPG?" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/08/64769a0d5952d7d6.jpg" border="0" height="203" width="320" /></a></div>
+
+</td></tr>
+<tr><td style="width: 60px;">
+
+<div style="text-align: center;">Oh never mind,  I'll just suck on my fingers<br />
+</div>
+
+<div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/83-828updates/P1010840.JPG?" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/08/4435ce6ae1484ea9.jpg" border="0" height="240" width="320" /></a></div>
+
+</td><td style="width: 60px;">
+
+<div style="text-align: center;">I'm gonna get you little  froggy!<br />
+</div>
+
+<div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/83-828updates/P1010843.JPG?" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/08/b232efde916abaa3.jpg" border="0" height="192" width="320" /></a></div>
+
+</td><td style="width: 60px;">
+
+<div style="text-align: center;">Just out of reach<br />
+</div>
+
+<div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/83-828updates/P1010844.JPG?" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/08/d22da4cbad8280e4.jpg" border="0" height="227" width="320" /></a></div>
+
+</td></tr>
 </tbody></table><table style="border-collapse: collapse; border-color: rgb(136, 136, 136); border-width: 1px;" border="1" bordercolor="#888888" cellspacing="0"><tbody>
-<tr><td style="width: 60px;"><div style="text-align: center;">Maybe if I roll  over...<br />
-</div><div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/83-828updates/P1010846.JPG?" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/08/2b6e322436716f7a.jpg" border="0" height="279" width="320" /></a></div></td><td style="width: 60px;"><div style="text-align: center;">Taking a little break for a  snack<br />
-</div><div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/83-828updates/P1010859.JPG?" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/08/dd5ce6ae0592f38d.jpg" border="0" height="255" width="320" /></a></div></td></tr>
-<tr><td style="width: 60px;"><div style="text-align: center;">Gotcha!</div><div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/83-828updates/P1010869.JPG?" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/08/4ad04eaa46648d42.jpg" border="0" height="254" width="320" /></a></div></td><td style="width: 60px;"><div style="text-align: center;">Leah and Evan<br />
-</div><div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/83-828updates/P1010870.JPG?" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/08/637723e468ee36f9.jpg" border="0" height="320" width="315" /></a></div></td></tr>
+<tr><td style="width: 60px;">
+
+<div style="text-align: center;">Maybe if I roll  over...<br />
+</div>
+
+<div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/83-828updates/P1010846.JPG?" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/08/2b6e322436716f7a.jpg" border="0" height="279" width="320" /></a></div>
+
+</td><td style="width: 60px;">
+
+<div style="text-align: center;">Taking a little break for a  snack<br />
+</div>
+
+<div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/83-828updates/P1010859.JPG?" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/08/dd5ce6ae0592f38d.jpg" border="0" height="255" width="320" /></a></div>
+
+</td></tr>
+<tr><td style="width: 60px;">
+
+<div style="text-align: center;">Gotcha!</div>
+
+<div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/83-828updates/P1010869.JPG?" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/08/4ad04eaa46648d42.jpg" border="0" height="254" width="320" /></a></div>
+
+</td><td style="width: 60px;">
+
+<div style="text-align: center;">Leah and Evan<br />
+</div>
+
+<div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/83-828updates/P1010870.JPG?" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/08/637723e468ee36f9.jpg" border="0" height="320" width="315" /></a></div>
+
+</td></tr>
 </tbody></table>

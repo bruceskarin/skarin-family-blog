@@ -5,7 +5,7 @@ title: A Fun (Spring-like) Winter Day!
 date: 2012-01-07 21:45:00 -0500
 blogger_id: '5004091823055838491'
 original_url: https://blog.skarin.us/2012/01/fun-spring-like-winter-day.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 Today was one of those rare spring-like winter days when you just have to take advantage of the weather and do something fun outside. &nbsp;Even though these days are coming more frequently this winter, they don't often happen on a weekend when Daddy is home to have fun too! &nbsp;We took advantage (as did many other families) and went to the playground at <a href="http://evan.skarin.us/2011/11/auburn-high-school-playground.html">Auburn High School</a>&nbsp;again and had fun on the slides!<br />

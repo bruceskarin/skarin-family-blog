@@ -5,7 +5,7 @@ title: Involuntary Baby Smiles
 date: 2012-12-19 22:35:00 -0500
 blogger_id: '7009772668140720189'
 original_url: https://blog.skarin.us/2012/12/involuntary-baby-smiles.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 I am a sucker for involuntary baby smiles. &nbsp;You know the kind that occur when the baby is falling asleep while drinking the last bottle of the night and the milk runs down the sides of their cheeks? &nbsp;Yeah, those...I just love them! &nbsp;Logan smiles ALL.THE.TIME but there is still something so special and sweet about those involuntary baby smiles. &nbsp;They made my already close to perfect day just that much better!<br />

@@ -5,7 +5,7 @@ title: Snow Pants!
 date: 2014-02-06 00:14:00 -0500
 blogger_id: '184768735387818563'
 original_url: https://blog.skarin.us/2014/02/snow-pants.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 It was a warmish day today so the boys played outside for a little while after I picked Evan up from school. &nbsp;I was clearing some snow at the end of the driveway and not paying much attention when this happened...<br />

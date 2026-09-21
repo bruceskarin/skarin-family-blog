@@ -5,7 +5,7 @@ title: Strawberries!
 date: 2013-05-28 20:51:00 -0400
 blogger_id: '3822053936066207665'
 original_url: https://blog.skarin.us/2013/05/strawberries.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 Last year we planted two strawberry plants in the yard. &nbsp;It was past season when we planted them and we weren't quite sure how they would do but they are flourishing! &nbsp;The plants themselves are growing like crazy and there are a TON of berries setting on too. &nbsp;Today we picked our first ones! &nbsp;Delicious!!<br />

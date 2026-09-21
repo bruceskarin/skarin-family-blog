@@ -5,7 +5,7 @@ title: Rocking & Bouncing
 date: 2013-07-13 22:42:00 -0400
 blogger_id: '4919045688347829634'
 original_url: https://blog.skarin.us/2013/07/rocking-bouncing.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 You may remember this photo of Evan from when he was about 9 months old, sitting in the rocking chair that Grandpa Bob made for him.<br />

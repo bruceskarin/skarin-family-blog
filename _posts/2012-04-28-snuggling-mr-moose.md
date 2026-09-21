@@ -5,7 +5,7 @@ title: Snuggling Mr. Moose
 date: 2012-04-28 23:35:00 -0400
 blogger_id: '5849666133345936663'
 original_url: https://blog.skarin.us/2012/04/snuggling-mr-moose.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 Last night before Evan went to bed, he put Mr. Moose on my bed. &nbsp;Then when Bruce was getting him ready for bed and reading him a story, Evan looked at Bruce and said "Mommy snuggle with moose in her bed?" &nbsp;Needless to say, there were three of us in our bed tonight...me, Bruce and Mr. Moose! &nbsp;We have the sweetest little boy!<br />

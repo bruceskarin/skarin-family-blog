@@ -5,7 +5,7 @@ title: Santa Comes to Millbury
 date: 2012-12-22 18:05:00 -0500
 blogger_id: '5904610170870045113'
 original_url: https://blog.skarin.us/2012/12/santa-comes-to-millbury.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 Santa came to Millbury tonight. &nbsp;He rode by on the fire truck like he does every year, making sure that he knows where all the good little boys and girls live. &nbsp;We ran outside in the cold so that we could see him, wave and make sure he knew where our two good little boys live. &nbsp;Based on the quality of the photos I think next year, I'll let Bruce hold Logan and Evan so that I can take pictures while not holding a baby and trying not to fall off the front steps. &nbsp;Oh well, a fun tradition anyway!<br />

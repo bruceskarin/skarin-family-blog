@@ -5,7 +5,7 @@ title: Can't Find Evan!
 date: 2012-02-18 16:07:00 -0500
 blogger_id: '852001879435798178'
 original_url: https://blog.skarin.us/2012/02/cant-find-evan.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 Evan has taken to playing peek-a-boo in his sleep. &nbsp;Three nights this week when I went in to give him a kiss before I went to bed (like I always do), I couldn't find him. &nbsp;I think we need to teach him that he is supposed to sleep on his pillow pet not sleep with his pillow pet on! <br />

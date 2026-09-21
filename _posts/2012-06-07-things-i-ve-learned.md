@@ -5,7 +5,7 @@ title: Things I've Learned
 date: 2012-06-07 18:20:00 -0400
 blogger_id: '1295620223772747173'
 original_url: https://blog.skarin.us/2012/06/things-ive-learned.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 We have returned to a family of three after 5+ days as a family of five thanks to a little extra help from some very loving, helpful and caring grandparents. &nbsp;Over the course of the 5+ days, I learned (and confirmed) a lot of things.<br />

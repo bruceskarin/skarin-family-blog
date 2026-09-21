@@ -5,7 +5,7 @@ title: Kiss the Baby and Other Logan Fun
 date: 2013-04-16 21:45:00 -0400
 blogger_id: '3364361165426438486'
 original_url: https://blog.skarin.us/2013/04/kiss-baby-and-other-logan-fun.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 Gramma taught Logan to play "kiss the baby" while we were in Florida. &nbsp;Since returning home, he has been playing in every mirror he sees. &nbsp;He especially likes the one on his exersaucer!<br />
@@ -27,11 +27,11 @@ Logan has also been trying out all sorts of fun noises, sounds and other various
 <div class="separator" style="clear: both; text-align: left;">
 <br /></div>
 <div class="separator" style="clear: both; text-align: left;">
-<iframe allowfullscreen="" frameborder="0" height="315" src="http://www.youtube.com/embed/trcGcN9dawg" width="560"></iframe></div>
+<iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/trcGcN9dawg" width="560"></iframe></div>
 <div class="separator" style="clear: both; text-align: left;">
 <br /></div>
 <div class="separator" style="clear: both; text-align: left;">
-<iframe allowfullscreen="" frameborder="0" height="315" src="http://www.youtube.com/embed/b40xWmgYxmM" width="560"></iframe></div>
+<iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/b40xWmgYxmM" width="560"></iframe></div>
 <br />
 Logan also has this new super cute way of dancing. &nbsp;He started it a little while ago but it has been hard to capture on video. &nbsp;Look for the side wiggle right at the beginning of the video. &nbsp;Such rhythm! <br />
-<iframe allowfullscreen="" frameborder="0" height="315" src="http://www.youtube.com/embed/DnMNn7lKFw0" width="560"></iframe>
+<iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/DnMNn7lKFw0" width="560"></iframe>

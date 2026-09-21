@@ -5,11 +5,29 @@ title: Adventures with Mom
 date: 2010-06-08 22:25:00 -0400
 blogger_id: '5889580408890573559'
 original_url: https://blog.skarin.us/2010/06/adventures-with-mom.html
-author: Bruce Kaylor
+author: Bruce Skarin
 ---
 
 Today was the first day  that Evan and I actually left the house together, just the two of us. When I think that I didn’t take him out alone for one month that seems  like a long time. But when I consider that I couldn’t drive for  two weeks, I guess it’s really not that long. So where did we go  on our big adventure? Shaw’s!! Exciting huh? No, not really. But it was a big accomplishment for me as I  was a little worried about how it might go. I was able to get both  of us dressed, ready and out the door, and it all went smoothly!< Especially considering that due to a little growth spurt, Evan didn’t nap  too much on Monday afternoon or all day Tuesday. This lack of a  nap made my getting ready a bit interesting but doable. Evan was  an angel in the car and at the store as he was either sleeping or half  asleep/awake. The best part was we made it through the store with  only one stranger coming up to talk to us and touching Evan. Why  do strange people feel its ok to touch babies? I will never  understand.
 <table border="1" bordercolor="#888888" cellspacing="0" style="border-bottom-color: rgb(136,136,136); border-bottom-width: 1px; border-collapse: collapse; border-left-color: rgb(136,136,136); border-left-width: 1px; border-right-color: rgb(136,136,136); border-right-width: 1px; border-top-color: rgb(136,136,136); border-top-width: 1px;"><tbody><br />
-<tr> <td style="width: 60px;"> <div style="text-align: center;">Yeah I know, I'm cute!</div><div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/adventureswithmom/P1000835.JPG" imageanchor="1"><img border="0" height="307" src="{{ site.baseurl }}/assets/images/2010/06/564ed4a0f26c222d.jpg" width="320" /></a></div></td> <td style="width: 60px;"> <div style="text-align: center;">Oh...this might get interesting</div><div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/adventureswithmom/P1000838.JPG" imageanchor="1"><img border="0" height="240" src="{{ site.baseurl }}/assets/images/2010/06/52772c1647d39feb.jpg" width="320" /></a></div></td> <td style="width: 60px;"> <div style="text-align: center;">Hello there, Mr. Froggy</div><div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/adventureswithmom/P1000844.JPG" imageanchor="1"><img border="0" height="240" src="{{ site.baseurl }}/assets/images/2010/06/00d25f56032a104a.jpg" width="320" /></a></div></td></tr><br />
+<tr> <td style="width: 60px;"> 
+
+<div style="text-align: center;">Yeah I know, I'm cute!</div>
+
+<div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/adventureswithmom/P1000835.JPG" imageanchor="1"><img border="0" height="307" src="{{ site.baseurl }}/assets/images/2010/06/564ed4a0f26c222d.jpg" width="320" /></a></div>
+
+</td> <td style="width: 60px;"> 
+
+<div style="text-align: center;">Oh...this might get interesting</div>
+
+<div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/adventureswithmom/P1000838.JPG" imageanchor="1"><img border="0" height="240" src="{{ site.baseurl }}/assets/images/2010/06/52772c1647d39feb.jpg" width="320" /></a></div>
+
+</td> <td style="width: 60px;"> 
+
+<div style="text-align: center;">Hello there, Mr. Froggy</div>
+
+<div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/adventureswithmom/P1000844.JPG" imageanchor="1"><img border="0" height="240" src="{{ site.baseurl }}/assets/images/2010/06/00d25f56032a104a.jpg" width="320" /></a></div>
+
+</td></tr><br />
 <br />
 </tbody></table>After our big trip to Shaw’s, Evan was sleepy but  fighting a nap so I decided to take him for a walk while Bruce cut the  lawn. We went for a nice long walk, probably a bit longer than I  should have gone for my first physical activity since my c-section, but it was  nice to get out and enjoy the fresh air. It was just what Evan  needed to soothe him and he took a nice long, much needed nap.

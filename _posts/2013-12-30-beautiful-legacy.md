@@ -5,7 +5,7 @@ title: Beautiful Legacy
 date: 2013-12-30 22:42:00 -0500
 blogger_id: '1876571808625371017'
 original_url: https://blog.skarin.us/2013/12/beautiful-legacy.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 <div class="MsoNormal">
@@ -65,4 +65,7 @@ us.&nbsp;</div>
 <div class="MsoNormal">
 <br /></div>
 <div class="MsoNormal">
-<embed flashvars="host=picasaweb.google.com&amp;interval=6&amp;captions=1&amp;hl=en_US&amp;feat=flashalbum&amp;RGB=0x000000&amp;feed=https%3A%2F%2Fpicasaweb.google.com%2Fdata%2Ffeed%2Fapi%2Fuser%2F111078421412399706337%2Falbumid%2F5963395540840655265%3Falt%3Drss%26kind%3Dphoto%26authkey%3DGv1sRgCLGqjpuIlsTwCQ%26hl%3Den_US" height="533" pluginspage="http://www.macromedia.com/go/getflashplayer" src="https://static.googleusercontent.com/external_content/picasaweb.googleusercontent.com/slideshow.swf" type="application/x-shockwave-flash" width="800"></embed></div>
+<!-- removed dead embed: slideshow albumid:5963395540840655265 -->
+<div class="embed-placeholder"><p><em>Photo slideshow from the original blog. The slideshow service (Picasa/Flash) has been discontinued, so these photos can no longer be displayed here.</em></p></div>
+
+</div>

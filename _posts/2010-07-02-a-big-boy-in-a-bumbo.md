@@ -5,7 +5,43 @@ title: A Big Boy in a Bumbo
 date: 2010-07-02 14:48:00 -0400
 blogger_id: '6485429621802775401'
 original_url: https://blog.skarin.us/2010/07/big-boy-in-bumbo.html
-author: Anonymous
+author: Diane Skarin
 ---
 
-On Tuesday when Mindy and Jayten came to visit, we put the boys in the chair in our living room so that we could take a picture of them together.  As you can see in the photos, neither boy was all that thrilled about being placed there for the photo op. <br /><table style="border-collapse: collapse; border-color: rgb(136, 136, 136); border-width: 1px;" border="1" bordercolor="#888888" cellspacing="0"><tbody><tr><td style="width: 60px;"><div style="text-align: center;"> First Evan<br /></div><div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/untitledpost/P1010213.JPG?attredirects=0" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/07/f45c55b92529e3e6.jpg" border="0" height="168" width="320" /></a></div></td><td style="width: 60px;"><div style="text-align: center;"> Then Jayten<br /></div><div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/untitledpost/P1010215.JPG?attredirects=0" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/07/86547c4e0316132e.jpg" border="0" height="182" width="320" /></a></div></td><td style="width: 60px;"><div style="text-align: center;"> Then both!<br /></div><div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/untitledpost/P1010216.JPG?attredirects=0" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/07/25f6b4de456f7fd0.jpg" border="0" height="170" width="320" /></a></div></td></tr></tbody></table><br />As I was watching Evan fall over from time to time, I noticed that he would catch himself mid-fall, stabilize and try to sit back up.  He was doing such a great job holding his head up and also trying to keep from falling over entirely that I decided to see how he would do in the Bumbo seat.  I was sort of expecting him to fold in half but he didn’t.  Evan sat in the Bumbo for a little while and held himself pretty upright the entire time.  We will have to practice this some more in the coming days.  What a strong little guy!<br /><table style="border-collapse: collapse; border-color: rgb(136, 136, 136); border-width: 1px;" border="1" bordercolor="#888888" cellspacing="0"><tbody><tr><td style="width: 60px;"><div style="text-align: center;"> Hey, what's  over there?<br /></div><div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/untitledpost/P1010253.JPG?attredirects=0" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/07/a1d7bccc29d664ec.jpg" border="0" height="320" width="275" /></a></div></td><td style="width: 60px;"><div style="text-align: center;"> Look at those toes!<br /></div><div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/untitledpost/P1010255.JPG?attredirects=0" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/07/a205e5bf4054b92d.jpg" border="0" height="320" width="250" /></a></div></td><td style="width: 60px;"><div style="text-align: center;"> Everybody was kung fu  fighting...<br /></div><div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/untitledpost/P1010258.JPG?attredirects=0" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/07/db07841b71c9e507.jpg" border="0" height="300" width="320" /></a></div></td></tr></tbody></table>
+On Tuesday when Mindy and Jayten came to visit, we put the boys in the chair in our living room so that we could take a picture of them together.  As you can see in the photos, neither boy was all that thrilled about being placed there for the photo op. <br /><table style="border-collapse: collapse; border-color: rgb(136, 136, 136); border-width: 1px;" border="1" bordercolor="#888888" cellspacing="0"><tbody><tr><td style="width: 60px;">
+
+<div style="text-align: center;"> First Evan<br /></div>
+
+<div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/untitledpost/P1010213.JPG?attredirects=0" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/07/f45c55b92529e3e6.jpg" border="0" height="168" width="320" /></a></div>
+
+</td><td style="width: 60px;">
+
+<div style="text-align: center;"> Then Jayten<br /></div>
+
+<div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/untitledpost/P1010215.JPG?attredirects=0" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/07/86547c4e0316132e.jpg" border="0" height="182" width="320" /></a></div>
+
+</td><td style="width: 60px;">
+
+<div style="text-align: center;"> Then both!<br /></div>
+
+<div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/untitledpost/P1010216.JPG?attredirects=0" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/07/25f6b4de456f7fd0.jpg" border="0" height="170" width="320" /></a></div>
+
+</td></tr></tbody></table><br />As I was watching Evan fall over from time to time, I noticed that he would catch himself mid-fall, stabilize and try to sit back up.  He was doing such a great job holding his head up and also trying to keep from falling over entirely that I decided to see how he would do in the Bumbo seat.  I was sort of expecting him to fold in half but he didn’t.  Evan sat in the Bumbo for a little while and held himself pretty upright the entire time.  We will have to practice this some more in the coming days.  What a strong little guy!<br /><table style="border-collapse: collapse; border-color: rgb(136, 136, 136); border-width: 1px;" border="1" bordercolor="#888888" cellspacing="0"><tbody><tr><td style="width: 60px;">
+
+<div style="text-align: center;"> Hey, what's  over there?<br /></div>
+
+<div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/untitledpost/P1010253.JPG?attredirects=0" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/07/a1d7bccc29d664ec.jpg" border="0" height="320" width="275" /></a></div>
+
+</td><td style="width: 60px;">
+
+<div style="text-align: center;"> Look at those toes!<br /></div>
+
+<div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/untitledpost/P1010255.JPG?attredirects=0" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/07/a205e5bf4054b92d.jpg" border="0" height="320" width="250" /></a></div>
+
+</td><td style="width: 60px;">
+
+<div style="text-align: center;"> Everybody was kung fu  fighting...<br /></div>
+
+<div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/untitledpost/P1010258.JPG?attredirects=0" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/07/db07841b71c9e507.jpg" border="0" height="300" width="320" /></a></div>
+
+</td></tr></tbody></table>

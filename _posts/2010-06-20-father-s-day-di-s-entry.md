@@ -5,13 +5,49 @@ title: Father’s Day (Di’s Entry)
 date: 2010-06-20 22:29:00 -0400
 blogger_id: '2139262283164527226'
 original_url: https://blog.skarin.us/2010/06/fathers-day-dis-entry.html
-author: Bruce Kaylor
+author: Bruce Skarin
 ---
 
 Today was Father’s  Day. Bruce’s first Father’s Day. Today we met  Gramma, Papa, Bumpa, Grammy, Uncle Dan, Aunt Karin, Danny and Sean at Effin’s  for lunch. While I have celebrated many Father’s Day’s with my own  dad, today was a bit more special. I now understand first hand  just how much work parenting is. It is very rewarding but also  very challenging. I now know just how hard my parents worked to  give us the love, support, and guidance that they have over the years.<span>  </span>Thank you, Mom and Dad! I also have a greater appreciation  for all that my dad sacrificed over the years. Growing up, he was  very involved in our lives; always at the ball field and dance recitals or  school functions. I know that his job was very demanding of his  time but he was always there for us and still is today. Thank you,  Dad! I love you!<br />
 <table border="1" bordercolor="#888888" cellspacing="0" style="border-bottom-color: rgb(136,136,136); border-bottom-width: 1px; border-collapse: collapse; border-left-color: rgb(136,136,136); border-left-width: 1px; border-right-color: rgb(136,136,136); border-right-width: 1px; border-top-color: rgb(136,136,136); border-top-width: 1px;"><tbody>
-<tr> <td style="width: 60px;"> <div style="text-align: center;">Sweet Sean</div><div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/father%E2%80%99sdaydi%E2%80%99sentry/P1010036.JPG?" imageanchor="1"><img border="0" height="320" src="{{ site.baseurl }}/assets/images/2010/06/9eff0795f3394051.jpg" width="246" /></a></div></td> <td style="width: 60px;"> <div style="text-align: center;">No pictures, please</div><div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/father%E2%80%99sdaydi%E2%80%99sentry/P1010041.JPG?" imageanchor="1"><img border="0" height="320" src="{{ site.baseurl }}/assets/images/2010/06/89702209e5da5de8.jpg" width="302" /></a></div></td> <td style="width: 60px;"> <div style="text-align: center;">Happy Father's Day, Bumpa!</div><div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/father%E2%80%99sdaydi%E2%80%99sentry/P1010051.JPG?" imageanchor="1"><img border="0" height="287" src="{{ site.baseurl }}/assets/images/2010/06/bbaa7e8646fa1e55.jpg" width="320" /></a></div></td></tr>
+<tr> <td style="width: 60px;"> 
+
+<div style="text-align: center;">Sweet Sean</div>
+
+<div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/father%E2%80%99sdaydi%E2%80%99sentry/P1010036.JPG?" imageanchor="1"><img border="0" height="320" src="{{ site.baseurl }}/assets/images/2010/06/9eff0795f3394051.jpg" width="246" /></a></div>
+
+</td> <td style="width: 60px;"> 
+
+<div style="text-align: center;">No pictures, please</div>
+
+<div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/father%E2%80%99sdaydi%E2%80%99sentry/P1010041.JPG?" imageanchor="1"><img border="0" height="320" src="{{ site.baseurl }}/assets/images/2010/06/89702209e5da5de8.jpg" width="302" /></a></div>
+
+</td> <td style="width: 60px;"> 
+
+<div style="text-align: center;">Happy Father's Day, Bumpa!</div>
+
+<div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/father%E2%80%99sdaydi%E2%80%99sentry/P1010051.JPG?" imageanchor="1"><img border="0" height="287" src="{{ site.baseurl }}/assets/images/2010/06/bbaa7e8646fa1e55.jpg" width="320" /></a></div>
+
+</td></tr>
 </tbody></table>Watching Bruce bond with Evan over the last 6 weeks  (yes, it has already been 6 weeks!!), has been a wonderful experience for  me. Bruce is so patient and loving. He can calm Evan  down when he is all worked up and he can get him to smile instantly by making  funny faces and noises. I just love watching the two of them  together and seeing the love that they have for each other. Bruce,  you are already a wonderful father and I know you will continue to be for all  the years to come. Evan and I are so lucky to have you! We love  you!<br />
 <table border="1" bordercolor="#888888" cellspacing="0" style="border-bottom-color: rgb(136,136,136); border-bottom-width: 1px; border-collapse: collapse; border-left-color: rgb(136,136,136); border-left-width: 1px; border-right-color: rgb(136,136,136); border-right-width: 1px; border-top-color: rgb(136,136,136); border-top-width: 1px;"><tbody>
-<tr> <td style="width: 60px;"> <div style="text-align: center;">Daddy and his mini me</div><div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/father%E2%80%99sdaydi%E2%80%99sentry/P1010037.JPG?" imageanchor="1"><img border="0" height="320" src="{{ site.baseurl }}/assets/images/2010/06/40dac09e2b53ca66.jpg" width="289" /></a></div></td> <td style="width: 60px;"> <div style="text-align: center;">Evan's cute outfit from our neighbors</div><div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/father%E2%80%99sdaydi%E2%80%99sentry/P1010056.JPG?" imageanchor="1"><img border="0" height="320" src="{{ site.baseurl }}/assets/images/2010/06/bb41e03ff345fa49.jpg" width="272" /></a></div></td> <td style="width: 60px;"> <div style="text-align: center;">Even Mommy gets some love on Father's  Day</div><div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/father%E2%80%99sdaydi%E2%80%99sentry/P1010060.JPG?" imageanchor="1"><img border="0" height="320" src="{{ site.baseurl }}/assets/images/2010/06/740e0e7e34e23701.jpg" width="225" /></a></div></td></tr>
+<tr> <td style="width: 60px;"> 
+
+<div style="text-align: center;">Daddy and his mini me</div>
+
+<div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/father%E2%80%99sdaydi%E2%80%99sentry/P1010037.JPG?" imageanchor="1"><img border="0" height="320" src="{{ site.baseurl }}/assets/images/2010/06/40dac09e2b53ca66.jpg" width="289" /></a></div>
+
+</td> <td style="width: 60px;"> 
+
+<div style="text-align: center;">Evan's cute outfit from our neighbors</div>
+
+<div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/father%E2%80%99sdaydi%E2%80%99sentry/P1010056.JPG?" imageanchor="1"><img border="0" height="320" src="{{ site.baseurl }}/assets/images/2010/06/bb41e03ff345fa49.jpg" width="272" /></a></div>
+
+</td> <td style="width: 60px;"> 
+
+<div style="text-align: center;">Even Mommy gets some love on Father's  Day</div>
+
+<div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/father%E2%80%99sdaydi%E2%80%99sentry/P1010060.JPG?" imageanchor="1"><img border="0" height="320" src="{{ site.baseurl }}/assets/images/2010/06/740e0e7e34e23701.jpg" width="225" /></a></div>
+
+</td></tr>
 </tbody></table>

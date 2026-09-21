@@ -5,7 +5,7 @@ title: For My Aunties
 date: 2012-01-23 16:09:00 -0500
 blogger_id: '7030242975246518162'
 original_url: https://blog.skarin.us/2012/01/for-my-aunties.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 <div style="text-align: center;">

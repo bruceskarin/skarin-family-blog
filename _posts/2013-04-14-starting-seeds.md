@@ -5,7 +5,7 @@ title: Starting Seeds
 date: 2013-04-14 17:06:00 -0400
 blogger_id: '6870567090766861684'
 original_url: https://blog.skarin.us/2013/04/starting-seeds.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 <div class="separator" style="clear: both; text-align: left;">
@@ -27,7 +27,5 @@ Evan gets a turn to place some teeny-tiny seeds</div>
 <div class="separator" style="clear: both; text-align: center;">
 <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEganXEKvoJfCDXYi8m3qny1UvrMX4n6NL2Gr5SxWuViolQacvBlRUumZU4bOS9H9QGlCX1Gx4cu1ggX0qXwirMFjbLRnqosadHa2a482EQUZlUQGWA9bvHO-_05ni0Nc8Jb5NSLX5dx2yA/s1600/DSC00025.JPG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="265" src="{{ site.baseurl }}/assets/images/2013/04/2166d963cc8b5e52.jpg" width="400" /></a></div>
 <br />
-<div>
-<br /></div>
-<div>
-<br /></div>
+
+

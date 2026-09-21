@@ -5,7 +5,7 @@ title: One More Thing
 date: 2015-02-15 21:15:00 -0500
 blogger_id: '5035036865080655648'
 original_url: https://blog.skarin.us/2015/02/one-more-thing.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 As is always the case, I just finished "talking" to you and I immediately thought of something that I forgot to tell you. <br />

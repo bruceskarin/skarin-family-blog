@@ -5,7 +5,7 @@ title: Daddy's Assistant
 date: 2011-09-25 12:41:00 -0400
 blogger_id: '197912742150176604'
 original_url: https://blog.skarin.us/2011/09/daddys-assistant.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 As you can probably tell from the recent posts, Evan loves to do everything that we do. &nbsp;He always wants to be right in the middle of the action. &nbsp;The same was true this weekend when Bruce started fixing the back door due to the ants feasting on the door jam. <br />

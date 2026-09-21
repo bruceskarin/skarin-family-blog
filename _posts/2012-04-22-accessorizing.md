@@ -5,7 +5,7 @@ title: Accessorizing
 date: 2012-04-22 21:30:00 -0400
 blogger_id: '6204422953112855866'
 original_url: https://blog.skarin.us/2012/04/accessorizing.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 Evan has been doing a lot of accessorizing lately. &nbsp;Most of his accessories are a bit unconventional but silly and fun!<br />

@@ -5,7 +5,7 @@ title: Cherry Pitting
 date: 2013-07-02 22:25:00 -0400
 blogger_id: '219015512508471165'
 original_url: https://blog.skarin.us/2013/07/cherry-pitting.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 If you ask Auntie Kristina, Daddy's nickname is "The Original Brucie Juicey" from when they were kids and he was pitting cherries one summer. &nbsp;We have a fondness for bing and Rainier cherries in this house too. &nbsp;They are easy for adults to eat but not so much for kids due to the pits. Today we bought a cherry pitter. &nbsp;Here is Evan having some fun putting it to good use. &nbsp;Start to finish it took him 48 seconds to pit one cherry! &nbsp;Adorable but not speedy...the story of his life!<br />

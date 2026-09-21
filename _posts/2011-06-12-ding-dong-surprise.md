@@ -5,7 +5,19 @@ title: Ding, dong...Surprise!
 date: 2011-06-12 21:53:00 -0400
 blogger_id: '6812334504540748335'
 original_url: https://blog.skarin.us/2011/06/ding-dongsurprise.html
-author: Anonymous
+author: Diane Skarin
 ---
 
-After a busy weekend when Daddy went camping and Mommy and Evan spent time in RI with family, we had a surprise visit from the O'Shea's. We knew they were in town but assumed that we were all too busy to make catching up work out. But much to our surprise, they stopped by for a brief visit on their way back to New Jersey. Luckily, we had just woken up from our hour and a half family nap!  We hope to see them (for a longer visit) again soon!<br /><div style="text-align: center;"><br /></div><div style="text-align: center;">The O'Shea kids check out Evan's toys</div><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZ7AjEGGobV_iC9z6u1C6QQFesF2egdyt3aYFtMLvXgEIn0Hza3epoNhLXWBBuOUjZ4e4E3ei93mPNXNV64oxvwmqdxamzVOhHKHNqT1LzPrD1vtpxrER1mrUo7Z3orLGjRkukalQsy28/s1600/P1050798.JPG" onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}"><img style="display:block; margin:0px auto 10px; text-align:center;cursor:pointer; cursor:hand;width: 400px; height: 300px;" src="{{ site.baseurl }}/assets/images/2011/06/1f10b3adb81b7e62.jpg" border="0" alt="" id="BLOGGER_PHOTO_ID_5617888774814658546" /></a><div style="text-align: center;">Amy helps Evan make George "pop"</div><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlrSKkhhmth5r_uNAQudJM2OkLlbhefsgBszysijxfHPkE8l0fQCCl5r-pCzLlEMJ04aXMWjykqsSIuq1v19E0MbqJZEj8Hwc4coL-rHSb6N60fK7vdoCWFEU5w6MxEPKjNz8mX6nuqNw/s1600/P1050800.JPG" onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}"><img style="display:block; margin:0px auto 10px; text-align:center;cursor:pointer; cursor:hand;width: 400px; height: 300px;" src="{{ site.baseurl }}/assets/images/2011/06/c6adbcf1503589ec.jpg" border="0" alt="" id="BLOGGER_PHOTO_ID_5617888786807146466" /></a><br /><br /><br /><div>  </div>
+After a busy weekend when Daddy went camping and Mommy and Evan spent time in RI with family, we had a surprise visit from the O'Shea's. We knew they were in town but assumed that we were all too busy to make catching up work out. But much to our surprise, they stopped by for a brief visit on their way back to New Jersey. Luckily, we had just woken up from our hour and a half family nap!  We hope to see them (for a longer visit) again soon!<br />
+
+<div style="text-align: center;"><br /></div>
+
+<div style="text-align: center;">The O'Shea kids check out Evan's toys</div>
+
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZ7AjEGGobV_iC9z6u1C6QQFesF2egdyt3aYFtMLvXgEIn0Hza3epoNhLXWBBuOUjZ4e4E3ei93mPNXNV64oxvwmqdxamzVOhHKHNqT1LzPrD1vtpxrER1mrUo7Z3orLGjRkukalQsy28/s1600/P1050798.JPG" onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}"><img style="display:block; margin:0px auto 10px; text-align:center;cursor:pointer; cursor:hand;width: 400px; height: 300px;" src="{{ site.baseurl }}/assets/images/2011/06/1f10b3adb81b7e62.jpg" border="0" alt="" id="BLOGGER_PHOTO_ID_5617888774814658546" /></a>
+
+<div style="text-align: center;">Amy helps Evan make George "pop"</div>
+
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlrSKkhhmth5r_uNAQudJM2OkLlbhefsgBszysijxfHPkE8l0fQCCl5r-pCzLlEMJ04aXMWjykqsSIuq1v19E0MbqJZEj8Hwc4coL-rHSb6N60fK7vdoCWFEU5w6MxEPKjNz8mX6nuqNw/s1600/P1050800.JPG" onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}"><img style="display:block; margin:0px auto 10px; text-align:center;cursor:pointer; cursor:hand;width: 400px; height: 300px;" src="{{ site.baseurl }}/assets/images/2011/06/c6adbcf1503589ec.jpg" border="0" alt="" id="BLOGGER_PHOTO_ID_5617888786807146466" /></a><br /><br /><br />
+
+<div>  </div>

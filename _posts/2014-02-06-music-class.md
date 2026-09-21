@@ -5,7 +5,7 @@ title: Music Class
 date: 2014-02-06 13:49:00 -0500
 blogger_id: '1044930146079245783'
 original_url: https://blog.skarin.us/2014/02/music-class.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 You may remember that we <a href="http://blog.skarin.us/2012/11/gymboree.html">started</a> taking Evan to music class at Gymboree shortly after Logan was born. &nbsp;We went for about 7 months when the classes were <a href="http://blog.skarin.us/2013/06/the-day-music-died.html">ending</a> for summer vacation. Well last week, I started taking Logan again on Thursday's while Evan is at school. &nbsp;It works out perfectly that I can drop Evan off, go to music class with Logan and still be back in time to pick Evan up at school, while maybe squeezing in a quick errand or two. &nbsp;Logan has always been pretty musical and rhythmic. &nbsp;He was a little shy at first but then was quickly comfortable and participating without missing a beat (pun intended). &nbsp;I think Ms. Suzanne was glad to have him back in class. It will be a great experience for him and will be fun to bring Evan when he is on vacation from school. <br />

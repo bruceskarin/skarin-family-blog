@@ -5,7 +5,7 @@ title: On the phone
 date: 2014-01-09 21:25:00 -0500
 blogger_id: '3187944317339565175'
 original_url: https://blog.skarin.us/2014/01/on-phone.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 When did my little guy turn into a technology using teenager???<br />

@@ -5,7 +5,7 @@ title: Logan's Two Year Letter (Almost 9 Months Late)
 date: 2015-05-06 20:52:00 -0400
 blogger_id: '4896769347934944658'
 original_url: https://blog.skarin.us/2015/05/logans-two-year-letter-almost-9-months.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 Dear Logan,<br />
@@ -19,8 +19,7 @@ While at your party, you wanted to play horseshoes and you just had to be at the
 Some other cute things from your party were when you were giving sly looks to Uncle Dan while digging for ice in the cooler. &nbsp;You would have spent the entire day digging in that thing if we let you. &nbsp;You were also stealing Papa's seat and telling him "You sit right there", next to you. &nbsp;Then when it was time for Annalia and Jonah to leave you said "Time get going!"</div>
 <div>
 You have had quite a few adorable sayings and phrases (dursty/thirsty, dunder/thunder, scunscreen/sunscreen) over the last 9 months. &nbsp;I have kept track of a few of them. &nbsp;</div>
-<div>
-<br /></div>
+
 <div>
 -On the way home from Sesame Place (8/6), you and I were playing a little "I love you" game. &nbsp;It went like this.</div>
 <div>
@@ -33,20 +32,16 @@ Mommy: No, I love you!</div>
 Logan: No, I love you! (So on and so forth)</div>
 <div>
 Evan: Ok, ok, you both love each other, please stop now</div>
-<div>
-<br /></div>
+
 <div>
 -On the way home from Papa &amp; Gramma's (9/28), I took a drink from my water bottle and you said from the back seat, "Two hands, mommy. &nbsp;You drive two hands. &nbsp;You all done drinking now, two hands." When I was done drinking and you still couldn't see the other hand you said "And the other one? &nbsp;Where the other one?"</div>
-<div>
-<br /></div>
+
 <div>
 -On that same drive home, when I thought you were exhausted (Evan was asleep in the car), you called out from the backseat, "That good coughing, mommy". &nbsp;I said, "I sneezed" to which you replied "Oh, well that good sneezing then."</div>
-<div>
-<br /></div>
+
 <div>
 -After dropping Evan off at school (9/29), you were running through the grass in your crocs and you said to me "It's raining in my shoe mommy! Other one too!" as the dew was getting through the holes in your crocs.</div>
-<div>
-<br /></div>
+
 <div>
 -While you were watching me put on make-up (10/11), "Why you doing that painting?" as I was applying blush. <br />
 <br />

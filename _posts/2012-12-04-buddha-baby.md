@@ -5,7 +5,7 @@ title: Buddha Baby
 date: 2012-12-04 22:33:00 -0500
 blogger_id: '3394110325594548837'
 original_url: https://blog.skarin.us/2012/12/buddha-baby.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 No explanation needed...the title says it all!<br />

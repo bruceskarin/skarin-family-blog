@@ -30,8 +30,24 @@
     .comment { margin-bottom: 1.25rem; padding-bottom: 1.25rem; border-bottom: 1px dotted var(--line); font-size:.95rem; }
     .comment .who { font-family: -apple-system, 'Segoe UI', sans-serif; font-weight:600; font-size:.85rem; }
     .comment .when { color: var(--soft); font-size:.8rem; font-family: -apple-system, 'Segoe UI', sans-serif; }
-    .pager { display:flex; justify-content:space-between; margin-top:2.5rem; font-family: -apple-system, 'Segoe UI', sans-serif; }
+    .pager { display:flex; justify-content:space-between; align-items:center; margin-top:2.5rem; font-family: -apple-system, 'Segoe UI', sans-serif; flex-wrap:wrap; gap:.5rem; }
     .pager a { color: var(--accent); text-decoration:none; }
+    .pager .pages a, .pager .pages .cur, .pager .pages .gap { margin: 0 .3rem; }
+    .pager .pages .cur { font-weight:700; color: var(--ink); }
+    .pager .pages .gap { color: var(--soft); }
+    .post-nav { display:flex; justify-content:space-between; gap:1rem; margin-top:3rem; padding-top:1.5rem;
+                border-top:1px solid var(--line); font-family: -apple-system, 'Segoe UI', sans-serif; font-size:.9rem; }
+    .post-nav a { color: var(--accent); text-decoration:none; max-width:48%; }
+    .post-nav a:hover { text-decoration: underline; }
+    .embed-placeholder { border:1px dashed var(--line); background:#f7f3ec; padding:1rem 1.25rem;
+                         margin:1.5rem 0; color:var(--soft); font-size:.9rem; text-align:center; }
+    .video-embed { margin: 1.5rem 0; text-align:center; }
+    .video-embed iframe { max-width:100%; }
+    #search-box { width:100%; padding:.6rem .8rem; font-size:1rem; border:1px solid var(--line);
+                  border-radius:4px; font-family: -apple-system, 'Segoe UI', sans-serif; margin-bottom:1rem; }
+    #search-results { list-style:none; padding:0; }
+    #search-results li { margin:.5rem 0; }
+    #search-results .d { color:var(--soft); font-size:.8rem; margin-left:.5rem; }
     .archive-year { font-size:1.4rem; margin: 2rem 0 .5rem; }
     .archive-month { font-size:1.05rem; margin: 1.25rem 0 .25rem; color: var(--soft); }
     ul.plain { list-style:none; padding:0; }
@@ -51,6 +67,7 @@
       <nav>
         <a href="{{ '/' | relative_url }}">Home</a>
         <a href="{{ '/archive/' | relative_url }}">Archive</a>
+        <a href="{{ '/search/' | relative_url }}">Search</a>
         <a href="{{ '/about/' | relative_url }}">About</a>
       </nav>
     </header>

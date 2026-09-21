@@ -6,11 +6,19 @@ title: Page 88
 <article class="post">
   <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
   <p class="meta">{{ post.date | date: "%B %-d, %Y" }}{% if post.author %} &middot; {{ post.author }}{% endif %}</p>
-  <div class="post-body">{{ post.excerpt }}</div>
+  <div class="post-body">{{ post.content | strip_html | normalize_whitespace | truncatewords: 60 }}</div>
   <p><a href="{{ post.url | relative_url }}">Read more &rarr;</a></p>
 </article>
 {% endfor %}
 <div class="pager">
-  <a href="/page87/">Newer posts &rarr;</a>
-  <a href="/page89/">&larr; Older posts</a>
-</div>
+  <a class="prev" href="/page87/">&larr; Newer</a>
+  <span class="pages">
+  <a href="/">1</a>
+  <span class="gap">&hellip;</span>
+  <a href="/page87/">87</a>
+  <span class="cur">88</span>
+  <a href="/page89/">89</a>
+  <a href="/page90/">90</a>
+  </span>
+  <a class="next" href="/page89/">Older &rarr;</a>
+  </div>

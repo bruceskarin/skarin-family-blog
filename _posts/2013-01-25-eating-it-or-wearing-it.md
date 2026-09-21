@@ -5,7 +5,7 @@ title: Eating it or wearing it?
 date: 2013-01-25 22:33:00 -0500
 blogger_id: '1828990534336443365'
 original_url: https://blog.skarin.us/2013/01/eating-it-or-wearing-it.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 <div class="separator" style="clear: both; text-align: center;">

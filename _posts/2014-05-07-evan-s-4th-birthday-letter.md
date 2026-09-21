@@ -5,7 +5,7 @@ title: Evan's 4th Birthday Letter
 date: 2014-05-07 22:15:00 -0400
 blogger_id: '8178265817647369182'
 original_url: https://blog.skarin.us/2014/05/evans-4th-birthday-letter.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 Dear Evan,<br />

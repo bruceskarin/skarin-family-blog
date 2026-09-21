@@ -5,7 +5,7 @@ title: Teenager in the making
 date: 2012-12-15 18:03:00 -0500
 blogger_id: '937025259366859478'
 original_url: https://blog.skarin.us/2012/12/teenager-in-making.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 Every so often I get a glimpse into the future...<br />

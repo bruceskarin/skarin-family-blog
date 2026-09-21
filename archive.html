@@ -6,7 +6,7 @@ permalink: /archive/
 <h2>Every post, newest first</h2>
 {% assign by_year = site.posts | group_by_exp: "p", "p.date | date: '%Y'" %}
 {% for y in by_year %}
-<h3 class="archive-year">{{ y.name }}</h3>
+<h3 class="archive-year">{{ y.name }} <span class="count">({{ y.items.size }} posts)</span></h3>
 {% assign by_month = y.items | group_by_exp: "p", "p.date | date: '%B'" %}
 {% for m in by_month %}
 <h4 class="archive-month">{{ m.name }}</h4>

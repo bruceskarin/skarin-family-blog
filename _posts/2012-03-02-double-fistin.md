@@ -5,7 +5,7 @@ title: Double Fistin'
 date: 2012-03-02 10:50:00 -0500
 blogger_id: '992799316394773598'
 original_url: https://blog.skarin.us/2012/03/double-fistin.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 <div style="text-align: center;">

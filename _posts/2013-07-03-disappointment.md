@@ -5,7 +5,7 @@ title: Disappointment
 date: 2013-07-03 06:46:00 -0400
 blogger_id: '7811558369199505982'
 original_url: https://blog.skarin.us/2013/07/disappointment.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 The last couple of days were tough ones around here. &nbsp;For whatever reason Evan was in a mood...and not a very nice one! &nbsp;He was being fresh to mom and dad, mean to Logan and just not the sweet boy that he generally is. &nbsp;I don't know what the cause was but I hope tomorrow is better!<br />

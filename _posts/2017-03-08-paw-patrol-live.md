@@ -5,7 +5,7 @@ title: Paw Patrol Live!
 date: 2017-03-08 22:02:00 -0500
 blogger_id: '7445032562586978540'
 original_url: https://blog.skarin.us/2017/03/paw-patrol-live.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 For Christmas, Santa brought us tickets to see Paw Patrol Live! &nbsp;He left a ticket for each of us in our stockings. &nbsp;The show was tonight and what a fun night! &nbsp;We started with an early dinner at Logan's favorite restaurant, the 99, before heading to the Hanover Theater in Worcester for the show. &nbsp;We waited anxiously for the show to start and once it did, we weren't disappointed! &nbsp;I was worried that Evan might be a little too "old" for Paw Patrol but he enjoyed it almost as much as Logan did. &nbsp;It was so fun to see the smiles on their faces and their little hips dancing during the show! &nbsp;Thanks, Santa! &nbsp;Both boys are already saying that they hope we get more tickets to similar shows for Christmas this year!<br />

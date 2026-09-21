@@ -5,7 +5,7 @@ title: Is that a monkey on your back?
 date: 2012-04-22 21:34:00 -0400
 blogger_id: '5841711170535262749'
 original_url: https://blog.skarin.us/2012/04/is-that-monkey-on-your-back.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 <div style="text-align: center;">

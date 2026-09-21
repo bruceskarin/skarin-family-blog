@@ -5,7 +5,7 @@ title: Like Father, Like Son
 date: 2011-11-05 17:39:00 -0400
 blogger_id: '435520240374895402'
 original_url: https://blog.skarin.us/2011/11/like-father-like-son.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 <div class="separator" style="clear: both; text-align: center;">

@@ -5,7 +5,7 @@ title: The Hardest Days
 date: 2015-01-15 15:00:00 -0500
 blogger_id: '8927029528093494675'
 original_url: https://blog.skarin.us/2015/01/the-hardest-days.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 2014 was a rough year for us and I was ready to greet 2015 with a new attitude and outlook in so many ways. &nbsp;On New Years Eve, I took an online quiz to get "my mantra" for 2015. &nbsp;It was "I am here". &nbsp;I had a blog post developing in my head about all of the lessons I had learned in 2014 and how I wanted to be moving forward. &nbsp;That post has become quite blurry because of all that has happened in the last 18 days. <br />

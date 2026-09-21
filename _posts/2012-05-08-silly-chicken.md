@@ -5,7 +5,7 @@ title: Silly Chicken!
 date: 2012-05-08 16:04:00 -0400
 blogger_id: '3062113657714199461'
 original_url: https://blog.skarin.us/2012/05/silly-chicken.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 For a while now, Bruce has been wanting to make a beer can chicken. &nbsp;While we were in Florida, I picked up a stand that you put the can into and then place the chicken on top for grilling. &nbsp;Tonight, we made the beer can chicken, which Evan dubbed as "Silly Chicken". &nbsp;Pretty appropriate, I think!<br />

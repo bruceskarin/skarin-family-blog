@@ -5,7 +5,7 @@ title: Folly Beach, SC
 date: 2013-06-08 21:55:00 -0400
 blogger_id: '8305251334431400533'
 original_url: https://blog.skarin.us/2013/06/folly-beach-sc.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 <div style="text-align: center;">

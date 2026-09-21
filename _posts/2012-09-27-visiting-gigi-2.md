@@ -5,7 +5,7 @@ title: Visiting Gigi
 date: 2012-09-27 16:15:00 -0400
 blogger_id: '5141223101765923046'
 original_url: https://blog.skarin.us/2012/09/visiting-gigi.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 Today I brought Evan and Logan to visit Gigi so that she could meet the littlest of her 15 great-grandchildren! &nbsp;It is amazing to have so many little ones in our family especially when you consider that about half of my cousins do not have children yet. &nbsp;I wonder how many great-grandchildren Gigi will one day have?? &nbsp;Gigi and I had a nice visit while Evan played with some Lincoln Logs and Logan had lunch. <br />

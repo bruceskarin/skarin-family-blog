@@ -5,7 +5,7 @@ title: Dippin' Like Grandpa!
 date: 2012-10-17 15:31:00 -0400
 blogger_id: '9110124936018170128'
 original_url: https://blog.skarin.us/2012/10/dippin-like-grandpa.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 When Omi and Grandpa Bob were here in May, Evan shared a snack of graham crackers and milk with Grandpa. &nbsp;This morning he asked for some milk in a bowl and a graham cracker because he wanted to be...<br />

@@ -5,7 +5,7 @@ title: Lego Creations
 date: 2013-01-30 21:31:00 -0500
 blogger_id: '6334323637108324268'
 original_url: https://blog.skarin.us/2013/01/lego-creations.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 Evan's LEGO creations have become more and more elaborate lately and they have also really started to look like what he says they are. &nbsp;Here is a plane that he built today. &nbsp;Love to see his little mind at work. <br />

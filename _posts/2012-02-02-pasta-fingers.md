@@ -5,7 +5,7 @@ title: Pasta Fingers
 date: 2012-02-02 16:11:00 -0500
 blogger_id: '5145195715952698753'
 original_url: https://blog.skarin.us/2012/02/pasta-fingers.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 I often find myself doing things I never thought I would do when it comes to parenting...playing catch in the house, blowing bubbles in the kitchen, making a complete fool of myself all to get a laugh out of the sweetest boy in the world! &nbsp;Another thing that falls into this category is letting Evan play with his food...to some extent. &nbsp;I generally try to keep him relatively clean at meal time but sometimes you just have to let go, have a little fun and make some pasta fingers! &nbsp;Whatever works to get him to eat, right? &nbsp;And boy did he eat tonight!! &nbsp;So silly!<br />

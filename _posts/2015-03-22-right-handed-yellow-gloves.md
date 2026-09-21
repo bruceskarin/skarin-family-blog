@@ -5,7 +5,7 @@ title: Right Handed Yellow Gloves
 date: 2015-03-22 21:54:00 -0400
 blogger_id: '1065947682072464024'
 original_url: https://blog.skarin.us/2015/03/right-handed-yellow-gloves.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 Hi Mom. &nbsp;Just checking in to let you know that I thought about you a ton today...so many different reasons, so many different times. &nbsp;I was trying to do some cleaning which is quite challenging with your two littlest monkeys around. &nbsp;It's like "brushing your teeth while eating Oreo's" to quote Auntie Karin! &nbsp;I was able to get quite a bit done but I kept thinking about all the times I was "cleaning" but really I was talking to you! &nbsp;You were always my best procrastination pal!<br />

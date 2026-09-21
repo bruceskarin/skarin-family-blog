@@ -5,17 +5,41 @@ title: Three Little Boys (And Their Parents) Go To Myrtle Beach
 date: 2010-09-20 21:51:00 -0400
 blogger_id: '7249405103171774955'
 original_url: https://blog.skarin.us/2010/09/three-little-boys-and-their-parents-go.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 “We’re gonna get going, where’re we going, what’re we gonna do?”  That was how we started out what will hopefully be the first of many trips to Myrtle Beach that we take as a family.   “We’re on our way to somewhere, the three of us and you” (Uncle Dan, Aunt Karin, Danny and Sean).  When I was growing up, before we took any vacation, my dad would always sing that song (Cuanta le gusta by the Andrews Sisters) and so we continued the tradition and sang it before hitting the road on Friday night. <br />
-<span class="announcementsPostTimestamp" id="afterPageTitleHideDuringEdit"><span id="sites-announcement-updated-time" class="updatedTime">                 </span> </span>  <div id="sites-canvas-main" class="sites-canvas-main"><div id="sites-canvas-main-content"><table xmlns="http://www.w3.org/1999/xhtml" class="sites-layout-name-one-column  sites-layout-hbox" cellspacing="0"><tbody>
-<tr><td class="sites-layout-tile sites-tile-name-content-1"><div dir="ltr"><table style="border-collapse: collapse; border-color: rgb(136, 136, 136); border-width: 1px;" border="1" bordercolor="#888888" cellspacing="0"><tbody>
-<tr><td style="width: 60px;"><div style="text-align: center;">But I sleep  on my belly...how will I sleep in the car?<br />
-</div><div style="display: block; text-align: left;"><a href="https://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/mb-bananasphotos/P1020553.JPG?" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/09/33a98306219277d1.jpg" border="0" height="278" width="320" /></a></div></td><td style="width: 60px;"><div style="text-align: center;">What do you mean 17 hours in  the car?<br />
-</div><div style="display: block; text-align: left;"><a href="https://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/mb-bananasphotos/P1020554.JPG?" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/09/a1e467a46a544c7b.jpg" border="0" height="298" width="320" /></a></div></td></tr>
-</tbody></table></div></td></tr>
-</tbody></table></div></div><br />
+<span class="announcementsPostTimestamp" id="afterPageTitleHideDuringEdit"><span id="sites-announcement-updated-time" class="updatedTime">                 </span> </span>  
+
+<div id="sites-canvas-main" class="sites-canvas-main">
+
+<div id="sites-canvas-main-content"><table xmlns="http://www.w3.org/1999/xhtml" class="sites-layout-name-one-column  sites-layout-hbox" cellspacing="0"><tbody>
+<tr><td class="sites-layout-tile sites-tile-name-content-1">
+
+<div dir="ltr"><table style="border-collapse: collapse; border-color: rgb(136, 136, 136); border-width: 1px;" border="1" bordercolor="#888888" cellspacing="0"><tbody>
+<tr><td style="width: 60px;">
+
+<div style="text-align: center;">But I sleep  on my belly...how will I sleep in the car?<br />
+</div>
+
+<div style="display: block; text-align: left;"><a href="https://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/mb-bananasphotos/P1020553.JPG?" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/09/33a98306219277d1.jpg" border="0" height="278" width="320" /></a></div>
+
+</td><td style="width: 60px;">
+
+<div style="text-align: center;">What do you mean 17 hours in  the car?<br />
+</div>
+
+<div style="display: block; text-align: left;"><a href="https://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/mb-bananasphotos/P1020554.JPG?" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/09/a1e467a46a544c7b.jpg" border="0" height="298" width="320" /></a></div>
+
+</td></tr>
+</tbody></table></div>
+
+</td></tr>
+</tbody></table></div>
+
+</div>
+
+<br />
 This trip came about because Dan and Karin were going to take their boys on vacation to Myrtle Beach and asked us if we wanted to go with them.  We normally wouldn’t have been able to take a trip in the middle of September and so we decided to take advantage of my extended leave and go with them.  So on Friday, September 10th at 9 pm, the seven of us piled into their jam-packed mini-van and began the 17 hours trek to Myrtle Beach.  We decided to leave late at night in hopes that the boys would sleep most of the way and that we could keep the number of stops to a minimum.  All in all it worked out pretty well.  Sean was a little unhappy at times because he is used to sleeping on his belly; it took Danny a little while to get comfortable in his seat; and Evan would wake up from time to time wondering what was going on.   But considering we were traveling with a three year old and two infants, the drive down was amazingly smooth.<br />
  <br />
 While in Myrtle Beach, our days consisted of lots of low-key relaxation…something we were all perfectly happy with!  The typical day was to lay-low in the beachfront condo in the morning while we had breakfast, took turns running and feeding the babies and being entertained by chef/baker Danny.  The little ones would nap and then we would head to the pool, the beach or the grassy area in between the pool and the beach.  We would spend much of the afternoon swimming, catching rays, building sand castles and really just enjoying each others company.  In the late afternoon or early evening, we would head back to the condo and prepare for the evening.  Some nights we all went to dinner together, one night Bruce and I had date night, one night Dan and Karin had date night, and some nights we didn’t go out at all.  Here are some highlights from each day.<br />
@@ -23,88 +47,354 @@ While in Myrtle Beach, our days consisted of lots of low-key relaxation…someth
 • Saturday, September 11th – Bruce’s birthday; After 17 hours we arrived in MB!!; Dan and I had “great” adventures at Piggly Wiggly and Walmart; Dan and Bruce play Wii<br />
 <br />
 <table style="border-collapse: collapse; border-color: rgb(136, 136, 136); border-width: 1px;" border="1" bordercolor="#888888" cellspacing="0"><tbody>
-<tr><td style="width: 60px;"><div style="text-align: center;">Wii Boxing<br />
-</div><div style="display: block; text-align: left;"><a href="https://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/mb-bananasphotos/P1020558.JPG?" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/09/5110446cc3fb8bd2.jpg" border="0" height="276" width="320" /></a></div></td><td style="width: 60px;"><div style="text-align: center;">Action shot<br />
-</div><div style="display: block; text-align: left;"><div style="display: block; text-align: left;"><a href="https://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/mb-bananasphotos/P1020557.JPG?" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/09/18b6e4d632dfd75e.jpg" border="0" height="302" width="320" /></a></div></div></td></tr>
+<tr><td style="width: 60px;">
+
+<div style="text-align: center;">Wii Boxing<br />
+</div>
+
+<div style="display: block; text-align: left;"><a href="https://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/mb-bananasphotos/P1020558.JPG?" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/09/5110446cc3fb8bd2.jpg" border="0" height="276" width="320" /></a></div>
+
+</td><td style="width: 60px;">
+
+<div style="text-align: center;">Action shot<br />
+</div>
+
+<div style="display: block; text-align: left;">
+
+<div style="display: block; text-align: left;"><a href="https://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/mb-bananasphotos/P1020557.JPG?" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/09/18b6e4d632dfd75e.jpg" border="0" height="302" width="320" /></a></div>
+
+</div>
+
+</td></tr>
 </tbody></table><br />
 • Sunday, September 12th – Lunch and Pats game at the “Pirate Bar” at the Breakers; Evan’s first time at the beach<br />
 <br />
 <table style="border-collapse: collapse; border-color: rgb(136, 136, 136); border-width: 1px;" border="1" bordercolor="#888888" cellspacing="0"><tbody>
-<tr><td style="width: 60px;"><div style="text-align: center;">Sean having fun on the floor in the condo<br />
-</div><div style="display: block; text-align: left;"><a href="https://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/mb-bananasphotos/P1020565.JPG?" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/09/7348698d9357f78f.jpg" border="0" height="182" width="320" /></a></div></td><td style="width: 60px;"><div style="text-align: center;">Danny contemplating his next  move<br />
-</div><div style="display: block; text-align: left;"><a href="https://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/mb-bananasphotos/P1020569.JPG?" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/09/d27ab4d0e4a785a6.jpg" border="0" height="320" width="317" /></a></div></td><td style="width: 60px;"><div style="text-align: center;">This football watching is tough  stuff, Dad<br />
-</div><div style="display: block; text-align: left;"><a href="https://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/mb-bananasphotos/P1020574.JPG?" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/09/f12b1d80cf8d4af6.jpg" border="0" height="310" width="320" /></a></div></td></tr>
+<tr><td style="width: 60px;">
+
+<div style="text-align: center;">Sean having fun on the floor in the condo<br />
+</div>
+
+<div style="display: block; text-align: left;"><a href="https://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/mb-bananasphotos/P1020565.JPG?" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/09/7348698d9357f78f.jpg" border="0" height="182" width="320" /></a></div>
+
+</td><td style="width: 60px;">
+
+<div style="text-align: center;">Danny contemplating his next  move<br />
+</div>
+
+<div style="display: block; text-align: left;"><a href="https://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/mb-bananasphotos/P1020569.JPG?" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/09/d27ab4d0e4a785a6.jpg" border="0" height="320" width="317" /></a></div>
+
+</td><td style="width: 60px;">
+
+<div style="text-align: center;">This football watching is tough  stuff, Dad<br />
+</div>
+
+<div style="display: block; text-align: left;"><a href="https://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/mb-bananasphotos/P1020574.JPG?" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/09/f12b1d80cf8d4af6.jpg" border="0" height="310" width="320" /></a></div>
+
+</td></tr>
 </tbody></table><br />
 • Monday, September 13th – We all spent the afternoon at the beach; Dan, Danny and Bruce built a fire station sandcastle; Floating around in the lazy river; T-Bonz for dinner; I locked Dan out of the condo when he went out for Monday Night Football<br />
 <table style="border-collapse: collapse; border-color: rgb(136, 136, 136); border-width: 1px;" border="1" bordercolor="#888888" cellspacing="0"><tbody>
-<tr><td style="width: 60px;"><div style="text-align: center;">Danny  learning to ride the waves<br />
-</div><div style="display: block; text-align: left;"><a href="https://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/mb-bananasphotos/P1020578.JPG?" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/09/c96896302cabd9d6.jpg" border="0" height="249" width="320" /></a></div></td><td style="width: 60px;"><div style="text-align: center;">Auntie Karin and Sean enjoying  the shore<br />
-</div><div style="display: block; text-align: left;"><a href="https://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/mb-bananasphotos/P1020582.JPG?" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/09/a7786073a6f839d5.jpg" border="0" height="278" width="320" /></a></div></td><td style="width: 60px;"><div style="text-align: center;">So happy!<br />
-</div><div style="display: block; text-align: left;"><a href="https://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/mb-bananasphotos/P1020585.JPG?" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/09/a89a336931f0febf.jpg" border="0" height="320" width="285" /></a></div></td></tr>
-<tr><td style="width: 60px;"><div style="text-align: center;">Evan puts his  feet in the sand...<br />
-</div><div style="display: block; text-align: left;"><a href="https://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/mb-bananasphotos/P1020587.JPG?" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/09/c36bee32664d542f.jpg" border="0" height="263" width="320" /></a></div></td><td style="width: 60px;"><div style="text-align: center;">...and his bum in the water!<br />
-</div><div style="display: block; text-align: left;"><a href="https://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/mb-bananasphotos/P1020590.JPG?" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/09/e40f1545de4bb9d6.jpg" border="0" height="320" width="317" /></a></div></td><td style="width: 60px;"><div style="text-align: center;">Watching the waves roll in<br />
-</div><div style="display: block; text-align: left;"><a href="https://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/mb-bananasphotos/P1020597.JPG?" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/09/d7778cbfd9e3a531.jpg" border="0" height="320" width="248" /></a></div></td></tr>
-<tr><td style="width: 60px;"><div style="text-align: center;">Danny in the  firehouse sandcastle<br />
-</div><div style="display: block; text-align: left;"><a href="https://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/mb-bananasphotos/P1020605.JPG?" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/09/abc2e3215cd26657.jpg" border="0" height="241" width="320" /></a></div></td><td style="width: 60px;"><div style="text-align: center;">Aunt Karin and Sean in the lazy  river<br />
-</div><div style="display: block; text-align: left;"><a href="https://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/mb-bananasphotos/P1020615.JPG?" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/09/6767d425f5f68772.jpg" border="0" height="256" width="320" /></a></div></td><td style="width: 60px;"><div style="text-align: center;">Danny with the  pirates...Arrrgghh!<br />
-</div><div style="display: block; text-align: left;"><a href="https://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/mb-bananasphotos/P1020618.JPG?" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/09/3b797811f6e31261.jpg" border="0" height="320" width="285" /></a></div></td></tr>
+<tr><td style="width: 60px;">
+
+<div style="text-align: center;">Danny  learning to ride the waves<br />
+</div>
+
+<div style="display: block; text-align: left;"><a href="https://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/mb-bananasphotos/P1020578.JPG?" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/09/c96896302cabd9d6.jpg" border="0" height="249" width="320" /></a></div>
+
+</td><td style="width: 60px;">
+
+<div style="text-align: center;">Auntie Karin and Sean enjoying  the shore<br />
+</div>
+
+<div style="display: block; text-align: left;"><a href="https://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/mb-bananasphotos/P1020582.JPG?" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/09/a7786073a6f839d5.jpg" border="0" height="278" width="320" /></a></div>
+
+</td><td style="width: 60px;">
+
+<div style="text-align: center;">So happy!<br />
+</div>
+
+<div style="display: block; text-align: left;"><a href="https://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/mb-bananasphotos/P1020585.JPG?" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/09/a89a336931f0febf.jpg" border="0" height="320" width="285" /></a></div>
+
+</td></tr>
+<tr><td style="width: 60px;">
+
+<div style="text-align: center;">Evan puts his  feet in the sand...<br />
+</div>
+
+<div style="display: block; text-align: left;"><a href="https://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/mb-bananasphotos/P1020587.JPG?" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/09/c36bee32664d542f.jpg" border="0" height="263" width="320" /></a></div>
+
+</td><td style="width: 60px;">
+
+<div style="text-align: center;">...and his bum in the water!<br />
+</div>
+
+<div style="display: block; text-align: left;"><a href="https://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/mb-bananasphotos/P1020590.JPG?" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/09/e40f1545de4bb9d6.jpg" border="0" height="320" width="317" /></a></div>
+
+</td><td style="width: 60px;">
+
+<div style="text-align: center;">Watching the waves roll in<br />
+</div>
+
+<div style="display: block; text-align: left;"><a href="https://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/mb-bananasphotos/P1020597.JPG?" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/09/d7778cbfd9e3a531.jpg" border="0" height="320" width="248" /></a></div>
+
+</td></tr>
+<tr><td style="width: 60px;">
+
+<div style="text-align: center;">Danny in the  firehouse sandcastle<br />
+</div>
+
+<div style="display: block; text-align: left;"><a href="https://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/mb-bananasphotos/P1020605.JPG?" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/09/abc2e3215cd26657.jpg" border="0" height="241" width="320" /></a></div>
+
+</td><td style="width: 60px;">
+
+<div style="text-align: center;">Aunt Karin and Sean in the lazy  river<br />
+</div>
+
+<div style="display: block; text-align: left;"><a href="https://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/mb-bananasphotos/P1020615.JPG?" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/09/6767d425f5f68772.jpg" border="0" height="256" width="320" /></a></div>
+
+</td><td style="width: 60px;">
+
+<div style="text-align: center;">Danny with the  pirates...Arrrgghh!<br />
+</div>
+
+<div style="display: block; text-align: left;"><a href="https://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/mb-bananasphotos/P1020618.JPG?" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/09/3b797811f6e31261.jpg" border="0" height="320" width="285" /></a></div>
+
+</td></tr>
 </tbody></table><br />
 • Tuesday, September 14th – Dan and Karin went to breakfast; Spent the afternoon in the grass jumping in and out of the pools as needed; Date night for us!!  Our first time out since Evan was born and I sang karaoke!!<br />
 <table style="border-collapse: collapse; border-color: rgb(136, 136, 136); border-width: 1px;" border="1" bordercolor="#888888" cellspacing="0"><tbody>
-<tr><td style="width: 60px;"><div style="text-align: center;">How cute am I?<br />
-</div><div style="display: block; text-align: left;"><a href="https://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/mb-bananasphotos/P1020623.JPG?" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/09/fb7dfba13aa9e8ff.jpg" border="0" height="317" width="320" /></a></div></td><td style="width: 60px;"><div style="text-align: center;">Baker Danny<br />
-</div><div style="display: block; text-align: left;"><a href="https://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/mb-bananasphotos/P1020651.JPG?" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/09/572409f2e16ff8ce.jpg" border="0" height="320" width="255" /></a></div></td><td style="width: 60px;"><div style="text-align: center;">Here, Evan, you can play with  this block.<br />
-</div><div style="display: block; text-align: left;"><a href="https://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/mb-bananasphotos/P1020653.JPG?" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/09/5a4f4500db572299.jpg" border="0" height="240" width="320" /></a></div></td></tr>
-<tr><td style="width: 60px;"><div style="text-align: center;">Danny resting  from playing in the pool<br />
-</div><div style="display: block; text-align: left;"><a href="https://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/mb-bananasphotos/P1020661.JPG?" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/09/7827fffbeeeebcab.jpg" border="0" height="190" width="320" /></a></div></td><td style="width: 60px;"><div style="text-align: center;">Fun in the sun with daddy<br />
-</div><div style="display: block; text-align: left;"><a href="https://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/mb-bananasphotos/P1020685.JPG?" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/09/8860c1955a25dc80.jpg" border="0" height="278" width="320" /></a></div></td><td style="width: 60px;"><div style="text-align: center;">Ah...ahh...ahhh...ahhhh....ahhhhh</div><div style="display: block; text-align: left;"><a href="https://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/mb-bananasphotos/P1020686.JPG?" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/09/ee9bef3f77d0c347.jpg" border="0" height="320" width="287" /></a></div></td></tr>
-<tr><td style="width: 60px;"><div style="text-align: center;">Tuckered out!<br />
-</div><div style="display: block; text-align: left;"><a href="https://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/mb-bananasphotos/P1020688.JPG?" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/09/f6ba7fd850a5bb70.jpg" border="0" height="240" width="320" /></a></div></td><td style="width: 60px;"><div style="text-align: center;">Evan isn't too sure about the  lazy river<br />
-</div><div style="display: block; text-align: left;"><a href="https://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/mb-bananasphotos/P1020690.JPG?" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/09/48d9c13a93aa9d9b.jpg" border="0" height="285" width="320" /></a><div style="display: block; text-align: left;"><a href="https://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/mb-bananasphotos/P1020695.JPG?" imageanchor="1"><br />
-</a></div></div></td><td style="width: 60px;"><div style="text-align: center;">Ready for our big night out<br />
-</div><div style="display: block; text-align: left;"><a href="https://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/mb-bananasphotos/P1020695.JPG?" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/09/8be3d790f398e621.jpg" border="0" height="248" width="320" /></a></div></td></tr>
+<tr><td style="width: 60px;">
+
+<div style="text-align: center;">How cute am I?<br />
+</div>
+
+<div style="display: block; text-align: left;"><a href="https://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/mb-bananasphotos/P1020623.JPG?" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/09/fb7dfba13aa9e8ff.jpg" border="0" height="317" width="320" /></a></div>
+
+</td><td style="width: 60px;">
+
+<div style="text-align: center;">Baker Danny<br />
+</div>
+
+<div style="display: block; text-align: left;"><a href="https://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/mb-bananasphotos/P1020651.JPG?" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/09/572409f2e16ff8ce.jpg" border="0" height="320" width="255" /></a></div>
+
+</td><td style="width: 60px;">
+
+<div style="text-align: center;">Here, Evan, you can play with  this block.<br />
+</div>
+
+<div style="display: block; text-align: left;"><a href="https://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/mb-bananasphotos/P1020653.JPG?" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/09/5a4f4500db572299.jpg" border="0" height="240" width="320" /></a></div>
+
+</td></tr>
+<tr><td style="width: 60px;">
+
+<div style="text-align: center;">Danny resting  from playing in the pool<br />
+</div>
+
+<div style="display: block; text-align: left;"><a href="https://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/mb-bananasphotos/P1020661.JPG?" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/09/7827fffbeeeebcab.jpg" border="0" height="190" width="320" /></a></div>
+
+</td><td style="width: 60px;">
+
+<div style="text-align: center;">Fun in the sun with daddy<br />
+</div>
+
+<div style="display: block; text-align: left;"><a href="https://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/mb-bananasphotos/P1020685.JPG?" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/09/8860c1955a25dc80.jpg" border="0" height="278" width="320" /></a></div>
+
+</td><td style="width: 60px;">
+
+<div style="text-align: center;">Ah...ahh...ahhh...ahhhh....ahhhhh</div>
+
+<div style="display: block; text-align: left;"><a href="https://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/mb-bananasphotos/P1020686.JPG?" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/09/ee9bef3f77d0c347.jpg" border="0" height="320" width="287" /></a></div>
+
+</td></tr>
+<tr><td style="width: 60px;">
+
+<div style="text-align: center;">Tuckered out!<br />
+</div>
+
+<div style="display: block; text-align: left;"><a href="https://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/mb-bananasphotos/P1020688.JPG?" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/09/f6ba7fd850a5bb70.jpg" border="0" height="240" width="320" /></a></div>
+
+</td><td style="width: 60px;">
+
+<div style="text-align: center;">Evan isn't too sure about the  lazy river<br />
+</div>
+
+<div style="display: block; text-align: left;"><a href="https://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/mb-bananasphotos/P1020690.JPG?" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/09/48d9c13a93aa9d9b.jpg" border="0" height="285" width="320" /></a>
+
+<div style="display: block; text-align: left;"><a href="https://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/mb-bananasphotos/P1020695.JPG?" imageanchor="1"><br />
+</a></div>
+
+</div>
+
+</td><td style="width: 60px;">
+
+<div style="text-align: center;">Ready for our big night out<br />
+</div>
+
+<div style="display: block; text-align: left;"><a href="https://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/mb-bananasphotos/P1020695.JPG?" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/09/8be3d790f398e621.jpg" border="0" height="248" width="320" /></a></div>
+
+</td></tr>
 </tbody></table><table style="border-collapse: collapse; border-color: rgb(136, 136, 136); border-width: 1px;" border="1" bordercolor="#888888" cellspacing="0"><tbody>
-<tr><td style="width: 60px;"><div style="text-align: center;">Date night!!!<br />
-</div><div style="display: block; text-align: left;"><a href="https://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/mb-bananasphotos/P1020696.JPG?" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/09/ad66ff2b634dd48c.jpg" border="0" height="240" width="320" /></a></div></td><td style="width: 60px;"><div style="text-align: center;">Galileo's head was on the  block...<br />
-</div><div style="display: block; text-align: left;"><a href="https://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/mb-bananasphotos/P1020699.JPG?" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/09/165c84aaec0fad3f.jpg" border="0" height="320" width="269" /></a></div></td></tr>
+<tr><td style="width: 60px;">
+
+<div style="text-align: center;">Date night!!!<br />
+</div>
+
+<div style="display: block; text-align: left;"><a href="https://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/mb-bananasphotos/P1020696.JPG?" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/09/ad66ff2b634dd48c.jpg" border="0" height="240" width="320" /></a></div>
+
+</td><td style="width: 60px;">
+
+<div style="text-align: center;">Galileo's head was on the  block...<br />
+</div>
+
+<div style="display: block; text-align: left;"><a href="https://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/mb-bananasphotos/P1020699.JPG?" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/09/165c84aaec0fad3f.jpg" border="0" height="320" width="269" /></a></div>
+
+</td></tr>
 </tbody></table><br />
 • Wednesday, September 15th – I spent a few hours alone on the beach while Bruce did school work, Evan napped and the Kavanagh’s were out for the morning; We all went mini-golfing in the afternoon and to Cheeseburger in Paradise for dinner<br />
 <table style="border-collapse: collapse; border-color: rgb(136, 136, 136); border-width: 1px;" border="1" bordercolor="#888888" cellspacing="0"><tbody>
-<tr><td style="width: 60px;"><div style="text-align: center;">Sunrise  over Myrtle Beach<br />
-</div><div style="display: block; text-align: left;"><a href="https://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/mb-bananasphotos/P1020711.JPG?" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/09/07c9460188c46270.jpg" border="0" height="240" width="320" /></a></div></td><td style="width: 60px;"><div style="text-align: center;">Sean's orange face<br />
-</div><div style="display: block; text-align: left;"><a href="https://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/mb-bananasphotos/P1020715.JPG?" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/09/a01591bc7ba74116.jpg" border="0" height="304" width="320" /></a></div></td></tr>
-<tr><td style="width: 60px;"><div style="text-align: center;">Danny's great  shot...he got a whole in one!<br />
-</div><div style="display: block; text-align: left;"><a href="https://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/mb-bananasphotos/P1020717.JPG?" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/09/4a83a5665067a996.jpg" border="0" height="229" width="320" /></a></div></td><td style="width: 60px;"><div style="text-align: center;">Sean loving the pickles!<br />
-</div><div style="display: block; text-align: left;"><a href="https://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/mb-bananasphotos/P1020722.JPG?" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/09/670240fbe84d6cae.jpg" border="0" height="320" width="280" /></a></div></td></tr>
+<tr><td style="width: 60px;">
+
+<div style="text-align: center;">Sunrise  over Myrtle Beach<br />
+</div>
+
+<div style="display: block; text-align: left;"><a href="https://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/mb-bananasphotos/P1020711.JPG?" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/09/07c9460188c46270.jpg" border="0" height="240" width="320" /></a></div>
+
+</td><td style="width: 60px;">
+
+<div style="text-align: center;">Sean's orange face<br />
+</div>
+
+<div style="display: block; text-align: left;"><a href="https://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/mb-bananasphotos/P1020715.JPG?" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/09/a01591bc7ba74116.jpg" border="0" height="304" width="320" /></a></div>
+
+</td></tr>
+<tr><td style="width: 60px;">
+
+<div style="text-align: center;">Danny's great  shot...he got a whole in one!<br />
+</div>
+
+<div style="display: block; text-align: left;"><a href="https://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/mb-bananasphotos/P1020717.JPG?" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/09/4a83a5665067a996.jpg" border="0" height="229" width="320" /></a></div>
+
+</td><td style="width: 60px;">
+
+<div style="text-align: center;">Sean loving the pickles!<br />
+</div>
+
+<div style="display: block; text-align: left;"><a href="https://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/mb-bananasphotos/P1020722.JPG?" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/09/670240fbe84d6cae.jpg" border="0" height="320" width="280" /></a></div>
+
+</td></tr>
 </tbody></table><br />
 • Thursday, September 16th – More time on the grass by the pool; Dan and Karin had a date night; We babysat Danny and Sean for the first time!!  Hard to believe it was the first time!!; Pizza and a movie night with Danny; Danny and Uncle Bruce were best pals!<br />
 <table style="border-collapse: collapse; border-color: rgb(136, 136, 136); border-width: 1px;" border="1" bordercolor="#888888" cellspacing="0"><tbody>
-<tr><td style="width: 60px;"><div style="text-align: center;">Best  buddies<br />
-</div><div style="display: block; text-align: left;"><a href="https://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/mb-bananasphotos/P1020723.JPG?" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/09/ea45691b123b095c.jpg" border="0" height="185" width="320" /></a></div></td><td style="width: 60px;"><div style="text-align: center;">Just hanging out<br />
-</div><div style="display: block; text-align: left;"><a href="https://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/mb-bananasphotos/P1020727.JPG?" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/09/4958f638eae1fb5b.jpg" border="0" height="240" width="320" /></a></div></td><td style="width: 60px;"><div style="text-align: center;">The next Old Spice model<br />
-</div><div style="display: block; text-align: left;"><a href="https://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/mb-bananasphotos/P1020728.JPG?" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/09/d1b3112eec61f88f.jpg" border="0" height="320" width="241" /></a></div></td></tr>
-<tr><td style="width: 60px;"><div style="text-align: center;">Watch out  'Tek...I'm your new competition!<br />
-</div><div style="display: block; text-align: left;"><a href="https://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/mb-bananasphotos/P1020733.JPG?" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/09/1fbdf770b5579b2a.jpg" border="0" height="320" width="254" /></a></div></td><td style="width: 60px;"><div style="text-align: center;">Sleeping in the BOB<br />
-</div><div style="display: block; text-align: left;"><a href="https://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/mb-bananasphotos/P1020739.JPG?" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/09/6a78da13b221a347.jpg" border="0" height="320" width="285" /></a></div></td><td style="width: 60px;"><div style="text-align: center;">Danny and Uncle Bruce on pizza  and movie night<br />
-</div><div style="display: block; text-align: left;"><a href="https://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/mb-bananasphotos/P1020743.JPG?" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/09/aa2681957cad5f66.jpg" border="0" height="202" width="320" /></a></div></td></tr>
+<tr><td style="width: 60px;">
+
+<div style="text-align: center;">Best  buddies<br />
+</div>
+
+<div style="display: block; text-align: left;"><a href="https://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/mb-bananasphotos/P1020723.JPG?" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/09/ea45691b123b095c.jpg" border="0" height="185" width="320" /></a></div>
+
+</td><td style="width: 60px;">
+
+<div style="text-align: center;">Just hanging out<br />
+</div>
+
+<div style="display: block; text-align: left;"><a href="https://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/mb-bananasphotos/P1020727.JPG?" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/09/4958f638eae1fb5b.jpg" border="0" height="240" width="320" /></a></div>
+
+</td><td style="width: 60px;">
+
+<div style="text-align: center;">The next Old Spice model<br />
+</div>
+
+<div style="display: block; text-align: left;"><a href="https://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/mb-bananasphotos/P1020728.JPG?" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/09/d1b3112eec61f88f.jpg" border="0" height="320" width="241" /></a></div>
+
+</td></tr>
+<tr><td style="width: 60px;">
+
+<div style="text-align: center;">Watch out  'Tek...I'm your new competition!<br />
+</div>
+
+<div style="display: block; text-align: left;"><a href="https://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/mb-bananasphotos/P1020733.JPG?" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/09/1fbdf770b5579b2a.jpg" border="0" height="320" width="254" /></a></div>
+
+</td><td style="width: 60px;">
+
+<div style="text-align: center;">Sleeping in the BOB<br />
+</div>
+
+<div style="display: block; text-align: left;"><a href="https://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/mb-bananasphotos/P1020739.JPG?" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/09/6a78da13b221a347.jpg" border="0" height="320" width="285" /></a></div>
+
+</td><td style="width: 60px;">
+
+<div style="text-align: center;">Danny and Uncle Bruce on pizza  and movie night<br />
+</div>
+
+<div style="display: block; text-align: left;"><a href="https://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/mb-bananasphotos/P1020743.JPG?" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/09/aa2681957cad5f66.jpg" border="0" height="202" width="320" /></a></div>
+
+</td></tr>
 </tbody></table><br />
 • Friday, September 17th – We all went out to breakfast; The guys went golfing; The girls and the boys went shopping at Broadway at the Beach; We all met up for lunch at Margaritaville; We spent another few hours at the beach and pool, soaking it all in<br />
 <table style="border-collapse: collapse; border-color: rgb(136, 136, 136); border-width: 1px;" border="1" bordercolor="#888888" cellspacing="0"><tbody>
-<tr><td style="width: 60px;"><div style="text-align: center;">Nice wheels!<br />
-</div><div style="display: block; text-align: left;"><a href="https://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/mb-bananasphotos/P1020746.JPG?" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/09/181444f7c079bc5c.jpg" border="0" height="279" width="320" /></a></div></td><td style="width: 60px;"><div style="text-align: center;">The hurricane at Margaritaville<br />
-</div><div style="display: block; text-align: left;"><a href="https://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/mb-bananasphotos/P1020748.JPG?" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/09/9d2bf371bbc375d9.jpg" border="0" height="320" width="240" /></a></div></td><td style="width: 60px;"><div style="text-align: center;">Bruce catching the wave<br />
-</div><div style="display: block; text-align: left;"><a href="https://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/mb-bananasphotos/P1020757.JPG?" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/09/e2686884b844aeb5.jpg" border="0" height="269" width="320" /></a></div></td></tr>
+<tr><td style="width: 60px;">
+
+<div style="text-align: center;">Nice wheels!<br />
+</div>
+
+<div style="display: block; text-align: left;"><a href="https://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/mb-bananasphotos/P1020746.JPG?" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/09/181444f7c079bc5c.jpg" border="0" height="279" width="320" /></a></div>
+
+</td><td style="width: 60px;">
+
+<div style="text-align: center;">The hurricane at Margaritaville<br />
+</div>
+
+<div style="display: block; text-align: left;"><a href="https://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/mb-bananasphotos/P1020748.JPG?" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/09/9d2bf371bbc375d9.jpg" border="0" height="320" width="240" /></a></div>
+
+</td><td style="width: 60px;">
+
+<div style="text-align: center;">Bruce catching the wave<br />
+</div>
+
+<div style="display: block; text-align: left;"><a href="https://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/mb-bananasphotos/P1020757.JPG?" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/09/e2686884b844aeb5.jpg" border="0" height="269" width="320" /></a></div>
+
+</td></tr>
 </tbody></table><table style="border-collapse: collapse; border-color: rgb(136, 136, 136); border-width: 1px;" border="1" bordercolor="#888888" cellspacing="0"><tbody>
-<tr><td style="width: 60px;"><div style="text-align: center;">Hanging on to my  frog<br />
-</div><div style="display: block; text-align: left;"><a href="https://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/mb-bananasphotos/P1020753.JPG?" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/09/4349305b624867ab.jpg" border="0" height="320" width="240" /></a></div></td><td style="width: 60px;"><div style="text-align: center;">Last few minutes on the beach!<br />
-</div><div style="display: block; text-align: left;"><a href="https://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/mb-bananasphotos/P1020760.JPG?" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/09/186db15636a90aa5.jpg" border="0" height="240" width="320" /></a></div></td></tr>
+<tr><td style="width: 60px;">
+
+<div style="text-align: center;">Hanging on to my  frog<br />
+</div>
+
+<div style="display: block; text-align: left;"><a href="https://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/mb-bananasphotos/P1020753.JPG?" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/09/4349305b624867ab.jpg" border="0" height="320" width="240" /></a></div>
+
+</td><td style="width: 60px;">
+
+<div style="text-align: center;">Last few minutes on the beach!<br />
+</div>
+
+<div style="display: block; text-align: left;"><a href="https://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/mb-bananasphotos/P1020760.JPG?" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/09/186db15636a90aa5.jpg" border="0" height="240" width="320" /></a></div>
+
+</td></tr>
 </tbody></table><br />
 • Saturday, September 18th &amp; Sunday, September 19th – We packed up, cleaned up, loaded up and got on the road after stopping for breakfast.  We quickly learned how smart it was to drive through the night on the way down as it was slow going during the day.  After a few stops and 9 hours of driving the little ones were asleep and we cruised home and arrived at 75 Farnum at 4:20 Sunday morning.<br />
 <table style="border-collapse: collapse; border-color: rgb(136, 136, 136); border-width: 1px;" border="1" bordercolor="#888888" cellspacing="0"><tbody>
-<tr><td style="width: 60px;"><div style="text-align: center;">That was a  funny joke, Dad!<br />
-</div><div style="display: block; text-align: left;"><a href="https://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/mb-bananasphotos/P1020761.JPG?" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/09/3fe656e31b0c41ce.jpg" border="0" height="320" width="295" /></a></div></td><td style="width: 60px;"><div style="text-align: center;">Ready for the ride home<br />
-</div><div style="display: block; text-align: left;"><a href="https://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/mb-bananasphotos/P1020767.JPG?" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/09/508ad7d19b481a67.jpg" border="0" height="281" width="320" /></a></div></td><td style="width: 60px;"><div style="text-align: center;">Thanks for a fun vacation, Mom  and Dad! Love you!<br />
-</div><div style="display: block; text-align: left;"><a href="https://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/mb-bananasphotos/P1020772.JPG?" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/09/5233f30fe988904e.jpg" border="0" height="283" width="320" /></a></div></td></tr>
+<tr><td style="width: 60px;">
+
+<div style="text-align: center;">That was a  funny joke, Dad!<br />
+</div>
+
+<div style="display: block; text-align: left;"><a href="https://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/mb-bananasphotos/P1020761.JPG?" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/09/3fe656e31b0c41ce.jpg" border="0" height="320" width="295" /></a></div>
+
+</td><td style="width: 60px;">
+
+<div style="text-align: center;">Ready for the ride home<br />
+</div>
+
+<div style="display: block; text-align: left;"><a href="https://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/mb-bananasphotos/P1020767.JPG?" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/09/508ad7d19b481a67.jpg" border="0" height="281" width="320" /></a></div>
+
+</td><td style="width: 60px;">
+
+<div style="text-align: center;">Thanks for a fun vacation, Mom  and Dad! Love you!<br />
+</div>
+
+<div style="display: block; text-align: left;"><a href="https://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/mb-bananasphotos/P1020772.JPG?" imageanchor="1"><img src="{{ site.baseurl }}/assets/images/2010/09/5233f30fe988904e.jpg" border="0" height="283" width="320" /></a></div>
+
+</td></tr>
 </tbody></table><br />
 What a great trip!!  We made so many memories and had so many laughs!  It was wonderful to see the boys together and we hope that this was the first of many trips we will take together!!

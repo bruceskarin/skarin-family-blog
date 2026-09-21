@@ -5,17 +5,83 @@ title: Meeting Patience and Quality Time with Daddy
 date: 2010-06-04 22:21:00 -0400
 blogger_id: '2793904332237302192'
 original_url: https://blog.skarin.us/2010/06/meeting-patience-and-quality-time-with.html
-author: Bruce Kaylor
+author: Bruce Skarin
 ---
 
 After such a busy weekend,  this was a relatively low key week…just what we all needed. With  the holiday and then class night and graduation at NHS, Bruce was only in the  office on Tuesday and Thursday. I have been very spoiled with how  much time he has been home in the last 6 weeks. It has been  great! If only we were both on a teachers schedule!  <br />
  On Tuesday, Patience came up for a visit and to meet  Evan. Evan was so excited that she loved his Patriots  onesie! It had been a while since I had last had a chance to catch  up with her and it was a great few hours. Can’t wait to hear more  about her upcoming trip and see if we will have an excuse to visit Switzerland  in the years to come!<br />
 <table border="1" bordercolor="#888888" cellspacing="0" style="border-bottom-color: rgb(136,136,136); border-bottom-width: 1px; border-collapse: collapse; border-left-color: rgb(136,136,136); border-left-width: 1px; border-right-color: rgb(136,136,136); border-right-width: 1px; border-top-color: rgb(136,136,136); border-top-width: 1px;"><tbody>
-<tr> <td style="width: 60px;"><div style="text-align: center;">Patience and the littlest Pats fan</div><div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/meetingpatienceandqualitytimewithdaddy/P1000716.JPG" imageanchor="1"><img border="0" height="320" src="{{ site.baseurl }}/assets/images/2010/06/33cf0a638f854b58.jpg" width="243" /></a></div></td> <td style="width: 60px;"><div style="text-align: center;">Squirming in my bouncy seat</div><div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/meetingpatienceandqualitytimewithdaddy/P1000753.JPG" imageanchor="1"><img border="0" height="320" src="{{ site.baseurl }}/assets/images/2010/06/4ca9586c8720ef2f.jpg" width="293" /></a></div></td> <td style="width: 60px;"><div style="text-align: center;">Strike a pose! Vogue!</div><div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/meetingpatienceandqualitytimewithdaddy/P1000760.JPG" imageanchor="1"><img border="0" height="309" src="{{ site.baseurl }}/assets/images/2010/06/f0bfae90a5bea6a6.jpg" width="320" /></a></div></td></tr>
+<tr> <td style="width: 60px;">
+
+<div style="text-align: center;">Patience and the littlest Pats fan</div>
+
+<div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/meetingpatienceandqualitytimewithdaddy/P1000716.JPG" imageanchor="1"><img border="0" height="320" src="{{ site.baseurl }}/assets/images/2010/06/33cf0a638f854b58.jpg" width="243" /></a></div>
+
+</td> <td style="width: 60px;">
+
+<div style="text-align: center;">Squirming in my bouncy seat</div>
+
+<div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/meetingpatienceandqualitytimewithdaddy/P1000753.JPG" imageanchor="1"><img border="0" height="320" src="{{ site.baseurl }}/assets/images/2010/06/4ca9586c8720ef2f.jpg" width="293" /></a></div>
+
+</td> <td style="width: 60px;">
+
+<div style="text-align: center;">Strike a pose! Vogue!</div>
+
+<div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/meetingpatienceandqualitytimewithdaddy/P1000760.JPG" imageanchor="1"><img border="0" height="309" src="{{ site.baseurl }}/assets/images/2010/06/f0bfae90a5bea6a6.jpg" width="320" /></a></div>
+
+</td></tr>
 </tbody></table><table border="1" bordercolor="#888888" cellspacing="0" style="border-bottom-color: rgb(136,136,136); border-bottom-width: 1px; border-collapse: collapse; border-left-color: rgb(136,136,136); border-left-width: 1px; border-right-color: rgb(136,136,136); border-right-width: 1px; border-top-color: rgb(136,136,136); border-top-width: 1px;"><tbody>
-<tr> <td style="width: 60px;"><div style="text-align: center;">Love that little butt!!</div><div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/meetingpatienceandqualitytimewithdaddy/P1000765.JPG" imageanchor="1"><img border="0" height="210" src="{{ site.baseurl }}/assets/images/2010/06/e01aa7450dbb637e.jpg" width="320" /></a></div></td> <td style="width: 60px;"><div style="text-align: center;">Tummy time isn't so bad</div><div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/meetingpatienceandqualitytimewithdaddy/P1000766.JPG" imageanchor="1"><img border="0" height="220" src="{{ site.baseurl }}/assets/images/2010/06/9ec36de780f5cd58.jpg" width="320" /></a></div></td></tr>
+<tr> <td style="width: 60px;">
+
+<div style="text-align: center;">Love that little butt!!</div>
+
+<div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/meetingpatienceandqualitytimewithdaddy/P1000765.JPG" imageanchor="1"><img border="0" height="210" src="{{ site.baseurl }}/assets/images/2010/06/e01aa7450dbb637e.jpg" width="320" /></a></div>
+
+</td> <td style="width: 60px;">
+
+<div style="text-align: center;">Tummy time isn't so bad</div>
+
+<div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/meetingpatienceandqualitytimewithdaddy/P1000766.JPG" imageanchor="1"><img border="0" height="220" src="{{ site.baseurl }}/assets/images/2010/06/9ec36de780f5cd58.jpg" width="320" /></a></div>
+
+</td></tr>
 </tbody></table> Wednesday and Friday I needed to go to school for  some end of the year senior stuff – Class Night (an awards ceremony for seniors)  and Graduation. It was nice to see everyone that I hadn’t seen in  a while, both teachers and students. Needless to say, both nights  Evan got some QT with daddy. I think this was good for both  boys. I know Bruce misses Evan when he is working and I think it’s  important for Evan to bond with Bruce as much as with me. They  already have such a special bond and I know it will continue to grow as the  days, months and years pass. So even though Bruce was tired from  working all day and then taking care of Evan all night, I know he wouldn’t trade  it for the world!<br />
 <table border="1" bordercolor="#888888" cellspacing="0" style="border-bottom-color: rgb(136,136,136); border-bottom-width: 1px; border-collapse: collapse; border-left-color: rgb(136,136,136); border-left-width: 1px; border-right-color: rgb(136,136,136); border-right-width: 1px; border-top-color: rgb(136,136,136); border-top-width: 1px;"><tbody>
-<tr> <td style="width: 60px;"><div style="text-align: center;">Ah, life is good</div><div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/meetingpatienceandqualitytimewithdaddy/P1000740.JPG" imageanchor="1"><img border="0" height="269" src="{{ site.baseurl }}/assets/images/2010/06/289fedd10aaaaa2c.jpg" width="320" /></a></div></td> <td style="width: 60px;"><div style="text-align: center;">I didn't do it...Don't blame me</div><div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/meetingpatienceandqualitytimewithdaddy/P1000741.JPG" imageanchor="1"><img border="0" height="318" src="{{ site.baseurl }}/assets/images/2010/06/97e942e43be0a099.jpg" width="320" /></a></div></td> <td style="width: 60px;"><div style="text-align: center;">Aaaahhhh!!</div><div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/meetingpatienceandqualitytimewithdaddy/P1000742.JPG" imageanchor="1"><img border="0" height="257" src="{{ site.baseurl }}/assets/images/2010/06/41164bb411094dcf.jpg" width="320" /></a></div></td></tr>
-<tr> <td style="width: 60px;"><div style="text-align: center;">I'm a little unsure about this</div><div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/meetingpatienceandqualitytimewithdaddy/P1000743.JPG" imageanchor="1"><img border="0" height="228" src="{{ site.baseurl }}/assets/images/2010/06/beca36789869ffb7.jpg" width="320" /></a></div></td> <td style="width: 60px;"><div style="text-align: center;">Hey, what's up there?</div><div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/meetingpatienceandqualitytimewithdaddy/P1000744.JPG" imageanchor="1"><img border="0" height="240" src="{{ site.baseurl }}/assets/images/2010/06/850ce2d2659f01c0.jpg" width="320" /></a></div></td> <td style="width: 60px;"><div style="text-align: center;">Ok, I'll look at the camera this time</div><div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/meetingpatienceandqualitytimewithdaddy/P1000746.JPG" imageanchor="1"><img border="0" height="240" src="{{ site.baseurl }}/assets/images/2010/06/6d6aa3797960d3be.jpg" width="320" /></a></div></td></tr>
+<tr> <td style="width: 60px;">
+
+<div style="text-align: center;">Ah, life is good</div>
+
+<div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/meetingpatienceandqualitytimewithdaddy/P1000740.JPG" imageanchor="1"><img border="0" height="269" src="{{ site.baseurl }}/assets/images/2010/06/289fedd10aaaaa2c.jpg" width="320" /></a></div>
+
+</td> <td style="width: 60px;">
+
+<div style="text-align: center;">I didn't do it...Don't blame me</div>
+
+<div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/meetingpatienceandqualitytimewithdaddy/P1000741.JPG" imageanchor="1"><img border="0" height="318" src="{{ site.baseurl }}/assets/images/2010/06/97e942e43be0a099.jpg" width="320" /></a></div>
+
+</td> <td style="width: 60px;">
+
+<div style="text-align: center;">Aaaahhhh!!</div>
+
+<div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/meetingpatienceandqualitytimewithdaddy/P1000742.JPG" imageanchor="1"><img border="0" height="257" src="{{ site.baseurl }}/assets/images/2010/06/41164bb411094dcf.jpg" width="320" /></a></div>
+
+</td></tr>
+<tr> <td style="width: 60px;">
+
+<div style="text-align: center;">I'm a little unsure about this</div>
+
+<div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/meetingpatienceandqualitytimewithdaddy/P1000743.JPG" imageanchor="1"><img border="0" height="228" src="{{ site.baseurl }}/assets/images/2010/06/beca36789869ffb7.jpg" width="320" /></a></div>
+
+</td> <td style="width: 60px;">
+
+<div style="text-align: center;">Hey, what's up there?</div>
+
+<div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/meetingpatienceandqualitytimewithdaddy/P1000744.JPG" imageanchor="1"><img border="0" height="240" src="{{ site.baseurl }}/assets/images/2010/06/850ce2d2659f01c0.jpg" width="320" /></a></div>
+
+</td> <td style="width: 60px;">
+
+<div style="text-align: center;">Ok, I'll look at the camera this time</div>
+
+<div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/meetingpatienceandqualitytimewithdaddy/P1000746.JPG" imageanchor="1"><img border="0" height="240" src="{{ site.baseurl }}/assets/images/2010/06/6d6aa3797960d3be.jpg" width="320" /></a></div>
+
+</td></tr>
 </tbody></table>

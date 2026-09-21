@@ -5,7 +5,7 @@ title: Barky, The Wonder Dog
 date: 2012-09-01 18:31:00 -0400
 blogger_id: '7863869108449637421'
 original_url: https://blog.skarin.us/2012/09/barky-wonder-dog.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 <div style="text-align: center;">

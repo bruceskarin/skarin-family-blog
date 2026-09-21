@@ -5,7 +5,7 @@ title: Yum, Yum Yogurt
 date: 2012-07-28 18:20:00 -0400
 blogger_id: '8293418398634225105'
 original_url: https://blog.skarin.us/2012/07/yum-yum-yogurt.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 My conversation with Evan today while getting lunch ready:<br /><br />Me: Evan, would you like some yogurt?<br /><br />Evan: No, Mommy, I don't want any yogurt.<br /><br />About two minutes later, after trusting my mommy instincts...<br /><br />Evan:  I finished my yogurt, Mommy.<br />

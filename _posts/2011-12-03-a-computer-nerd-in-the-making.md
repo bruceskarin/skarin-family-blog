@@ -5,7 +5,7 @@ title: A Computer Nerd in the Making
 date: 2011-12-03 20:32:00 -0500
 blogger_id: '8992020993948619176'
 original_url: https://blog.skarin.us/2011/12/computer-nerd-in-making.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 <div style="text-align: center;">

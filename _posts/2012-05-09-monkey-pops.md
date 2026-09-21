@@ -5,7 +5,7 @@ title: Monkey Pops!
 date: 2012-05-09 22:19:00 -0400
 blogger_id: '8552629098361947953'
 original_url: https://blog.skarin.us/2012/05/monkey-pops.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 There have been lots of extra special sweet treats this week as we work to finish up leftovers from the party. &nbsp;Plus, it's not everyday that a super special little boy turns two!<br />

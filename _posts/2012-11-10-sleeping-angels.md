@@ -5,7 +5,7 @@ title: Sleeping Angels
 date: 2012-11-10 16:18:00 -0500
 blogger_id: '3563981435584420996'
 original_url: https://blog.skarin.us/2012/11/sleeping-angels.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 Every night before I go to bed, I peek in on the boys. &nbsp;I check to see that they are covered up and warm enough, give them another good night kiss and tell them that I love them. &nbsp;Despite what may have happened during the day and what struggles we might have encountered, at night they are my sleeping angels!<br />

@@ -5,7 +5,7 @@ title: Logan's First Selfie
 date: 2015-01-29 21:37:00 -0500
 blogger_id: '3500054140715793914'
 original_url: https://blog.skarin.us/2015/01/logans-first-selfie.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 Logan has started taking photos of all sorts of random things, just like Evan did when he was Logan's age. &nbsp;He still needs to learn where to hold the camera so that his fingers aren't in front of the lens but he did manage to get it right on this one.<br />

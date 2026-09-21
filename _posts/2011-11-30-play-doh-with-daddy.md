@@ -5,7 +5,7 @@ title: Play-Doh with Daddy
 date: 2011-11-30 20:32:00 -0500
 blogger_id: '3384866024914173246'
 original_url: https://blog.skarin.us/2011/11/play-doh-with-daddy.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 Evan played play-doh with daddy for the first time tonight. &nbsp;He loves it but we don't do it too often yet. &nbsp;Daddy was making some pretty advanced things (a fancy car, an airplane and an elephant). &nbsp;Evan will quickly learn that Daddy is a much better play-doh-er than Mommy!<br />

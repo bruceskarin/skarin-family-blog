@@ -5,7 +5,7 @@ title: Lead the Way Jake!
 date: 2014-03-10 16:16:00 -0400
 blogger_id: '7839384848026622896'
 original_url: https://blog.skarin.us/2014/03/lead-way-jake.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 Our two little performers...costumes, singing and dancing...Love them!!<br />

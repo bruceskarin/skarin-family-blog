@@ -5,7 +5,7 @@ title: Evan Loves Logan
 date: 2015-04-17 22:59:00 -0400
 blogger_id: '6596076112332660344'
 original_url: https://blog.skarin.us/2015/04/evan-loves-logan.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 I took this picture on May 2, 2013.<br />

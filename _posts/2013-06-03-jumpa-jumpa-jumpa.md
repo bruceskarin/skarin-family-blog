@@ -5,7 +5,7 @@ title: Jumpa, Jumpa, Jumpa!
 date: 2013-06-03 22:30:00 -0400
 blogger_id: '186903455641617427'
 original_url: https://blog.skarin.us/2013/06/jumpa-jumpa-jumpa.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 <div style="text-align: center;">

@@ -5,7 +5,7 @@ title: Potty Time Again!
 date: 2012-01-20 16:08:00 -0500
 blogger_id: '5645288164996878218'
 original_url: https://blog.skarin.us/2012/01/potty-time-again.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 For the second time in a week, Evan was very interested in sitting on the potty. &nbsp;Let's hope that this interest continues and he is potty trained before he is two!<br />

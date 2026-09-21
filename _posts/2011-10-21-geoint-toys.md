@@ -5,7 +5,7 @@ title: GEOINT Toys
 date: 2011-10-21 21:14:00 -0400
 blogger_id: '2459690659082978792'
 original_url: https://blog.skarin.us/2011/10/geoint-toys.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 Daddy has been doing a lot of traveling lately. &nbsp;He was gone for almost two weeks straight with only a 36 hour visit back home. &nbsp;First he was in Seattle for a project kickoff and then in San Antonio for a conference. &nbsp;Daddy brought lots of fun toys home from the conference. <br />

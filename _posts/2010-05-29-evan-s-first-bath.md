@@ -5,13 +5,57 @@ title: Evan’s First Bath
 date: 2010-05-29 22:30:00 -0400
 blogger_id: '4293926211688538784'
 original_url: https://blog.skarin.us/2010/05/evans-first-bath.html
-author: Bruce Kaylor
+author: Bruce Skarin
 ---
 
 I thinkthe pictures speak for themselves as far as telling the story of  Evan’s first bath. You will notice that he is nice and calm in the  before and after pictures but that during was quite a different story. We kept trying to tell him that he would eventually come to love bath  time but I don’t think he quite believes us just yet!<br />
 <table border="1" bordercolor="#888888" cellspacing="0" style="border-bottom-color: rgb(136,136,136); border-bottom-width: 1px; border-collapse: collapse; border-left-color: rgb(136,136,136); border-left-width: 1px; border-right-color: rgb(136,136,136); border-right-width: 1px; border-top-color: rgb(136,136,136); border-top-width: 1px;"><tbody>
-<tr> <td style="width: 60px;"> <div style="text-align: center;">The calm before the storm</div><div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/evan%E2%80%99sfirstbath/P1000618.JPG" imageanchor="1"><img border="0" height="400" src="{{ site.baseurl }}/assets/images/2010/05/35de9d41e6747b48.jpg" width="215" /></a></div></td> <td style="width: 60px;"> <div style="text-align: center;">Total melt down</div><div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/evan%E2%80%99sfirstbath/P1000621.JPG" imageanchor="1"><img border="0" height="209" src="{{ site.baseurl }}/assets/images/2010/05/b12571b6bc976f0b.jpg" width="320" /></a></div><div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/evan%E2%80%99sfirstbath/P1000620.JPG" imageanchor="1"><img border="0" height="194" src="{{ site.baseurl }}/assets/images/2010/05/0e138c87769bd95c.jpg" width="320" /></a> <div style="display: block; text-align: left;"><br />
-</div></div></td> <td style="width: 60px;"> <div style="text-align: center;">Why are you torturing me, Mom?</div><div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/evan%E2%80%99sfirstbath/P1000622.JPG" imageanchor="1"><img border="0" src="{{ site.baseurl }}/assets/images/2010/05/65f2db1c6357325a.jpg" /></a></div><div style="display: block; text-align: left;"><br />
-</div></td></tr>
-<tr> <td> <div style="text-align: center;">Whew, I made it!</div><div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/evan%E2%80%99sfirstbath/P1000624.JPG" imageanchor="1"><img border="0" height="320" src="{{ site.baseurl }}/assets/images/2010/05/1108ed67ad515d35.jpg" width="237" /></a></div></td> <td> <div style="text-align: center;">Ah, much better</div><div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/evan%E2%80%99sfirstbath/P1000627.JPG" imageanchor="1"><img border="0" height="218" src="{{ site.baseurl }}/assets/images/2010/05/8690a26e0a75b4b3.jpg" width="320" /></a></div></td> <td> <div style="text-align: center;">I'm watching you...no funny business</div><div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/evan%E2%80%99sfirstbath/P1000629.JPG" imageanchor="1"><img border="0" height="213" src="{{ site.baseurl }}/assets/images/2010/05/6b2532e8ad1fbf98.jpg" width="320" /></a></div></td></tr>
+<tr> <td style="width: 60px;"> 
+
+<div style="text-align: center;">The calm before the storm</div>
+
+<div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/evan%E2%80%99sfirstbath/P1000618.JPG" imageanchor="1"><img border="0" height="400" src="{{ site.baseurl }}/assets/images/2010/05/35de9d41e6747b48.jpg" width="215" /></a></div>
+
+</td> <td style="width: 60px;"> 
+
+<div style="text-align: center;">Total melt down</div>
+
+<div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/evan%E2%80%99sfirstbath/P1000621.JPG" imageanchor="1"><img border="0" height="209" src="{{ site.baseurl }}/assets/images/2010/05/b12571b6bc976f0b.jpg" width="320" /></a></div>
+
+<div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/evan%E2%80%99sfirstbath/P1000620.JPG" imageanchor="1"><img border="0" height="194" src="{{ site.baseurl }}/assets/images/2010/05/0e138c87769bd95c.jpg" width="320" /></a> 
+
+<div style="display: block; text-align: left;"><br />
+</div>
+
+</div>
+
+</td> <td style="width: 60px;"> 
+
+<div style="text-align: center;">Why are you torturing me, Mom?</div>
+
+<div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/evan%E2%80%99sfirstbath/P1000622.JPG" imageanchor="1"><img border="0" src="{{ site.baseurl }}/assets/images/2010/05/65f2db1c6357325a.jpg" /></a></div>
+
+<div style="display: block; text-align: left;"><br />
+</div>
+
+</td></tr>
+<tr> <td> 
+
+<div style="text-align: center;">Whew, I made it!</div>
+
+<div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/evan%E2%80%99sfirstbath/P1000624.JPG" imageanchor="1"><img border="0" height="320" src="{{ site.baseurl }}/assets/images/2010/05/1108ed67ad515d35.jpg" width="237" /></a></div>
+
+</td> <td> 
+
+<div style="text-align: center;">Ah, much better</div>
+
+<div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/evan%E2%80%99sfirstbath/P1000627.JPG" imageanchor="1"><img border="0" height="218" src="{{ site.baseurl }}/assets/images/2010/05/8690a26e0a75b4b3.jpg" width="320" /></a></div>
+
+</td> <td> 
+
+<div style="text-align: center;">I'm watching you...no funny business</div>
+
+<div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/evan%E2%80%99sfirstbath/P1000629.JPG" imageanchor="1"><img border="0" height="213" src="{{ site.baseurl }}/assets/images/2010/05/6b2532e8ad1fbf98.jpg" width="320" /></a></div>
+
+</td></tr>
 </tbody></table>

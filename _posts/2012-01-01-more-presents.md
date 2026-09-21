@@ -5,7 +5,7 @@ title: More Presents
 date: 2012-01-01 21:44:00 -0500
 blogger_id: '726261496610939948'
 original_url: https://blog.skarin.us/2012/01/more-presents.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 This really is the Christmas that keep giving and giving but I think we have finally reached the end. &nbsp;Tonight Evan was able to open his last few gifts that were left in RI while we were out west for the holiday. &nbsp;Thank you to everyone for everything! &nbsp;Evan is truly blessed to have each of you in his life!<br />

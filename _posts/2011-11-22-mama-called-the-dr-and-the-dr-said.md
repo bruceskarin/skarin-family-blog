@@ -5,7 +5,7 @@ title: Mama called the Dr. and the Dr. said...
 date: 2011-11-22 21:09:00 -0500
 blogger_id: '5926796600650424376'
 original_url: https://blog.skarin.us/2011/11/mama-called-dr-and-dr-said.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 ...no more monkeys jumping on the bed. &nbsp;Well, according to Evan anyway. &nbsp;What the Dr. really said is that Evan has bronchiolitis and he needs to use a nebulizer for a few days to get rid of the wheezing. &nbsp;Evan started coughing with a runny nose last week and then was worse over the weekend. &nbsp;With Thanksgiving coming up, we didn't want to take any chances on him just getting better on his own. &nbsp;Plus we wanted to rule out an ear infection and pneumonia (his cough had gotten pretty nasty!). &nbsp;Evan had two breathing treatments at the pediatrician's office and then she sent us for a chest X-ray just to be sure. &nbsp;Thankfully, everything came back negative and Evan was such an angel all afternoon. &nbsp;After just one day of using the nebulizer, we already see him getting better!<br />

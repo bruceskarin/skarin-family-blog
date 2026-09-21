@@ -5,7 +5,7 @@ title: Fun Things at Papa's House
 date: 2012-04-23 21:38:00 -0400
 blogger_id: '927516276726389319'
 original_url: https://blog.skarin.us/2012/04/fun-things-at-papas-house.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 Last Monday, Evan kept asking me if we could go to Papa and Gramma's to see Danny and Sean and "do fun things at Papa's house". &nbsp;Unfortunately, it wasn't in the cards for that day. &nbsp;We had a few things that we needed to get done at home and we already had plans for a couple of trips to RI for the week. &nbsp;Today, however, we did go to Papa and Gramma's to see Danny and Sean and "do fun things at Papa's house". &nbsp;Both Danny and Sean were so excited that Evan was going to come and play for the day. &nbsp;We didn't get a very early start and had a couple of errands to run on the way but once we arrived, the little boys had so much fun together! &nbsp;I know I say it all the time but I love how close these boys are!<br />

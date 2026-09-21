@@ -1,0 +1,33 @@
+---
+layout: default
+title: Search
+permalink: /search/
+---
+<h2>Search the blog</h2>
+<input type="text" id="search-box" placeholder="Type at least 2 characters…" autocomplete="off">
+<ul id="search-results"></ul>
+<script>
+(function() {
+  var box = document.getElementById('search-box');
+  var out = document.getElementById('search-results');
+  var posts = null;
+  fetch('{{ "/search.json" | relative_url }}').then(function(r){ return r.json(); }).then(function(j){ posts = j; });
+  box.addEventListener('input', function() {
+    out.innerHTML = '';
+    if (!posts) return;
+    var term = box.value.toLowerCase().trim();
+    if (term.length < 2) return;
+    var n = 0;
+    for (var i = 0; i < posts.length && n < 30; i++) {
+      var p = posts[i];
+      if ((p.title + ' ' + p.text).toLowerCase().indexOf(term) === -1) continue;
+      n++;
+      var li = document.createElement('li');
+      var a = document.createElement('a'); a.href = p.url; a.textContent = p.title;
+      var d = document.createElement('span'); d.className = 'd'; d.textContent = p.date;
+      li.appendChild(a); li.appendChild(d); out.appendChild(li);
+    }
+    if (n === 0) out.innerHTML = '<li>No matches.</li>';
+  });
+})();
+</script>

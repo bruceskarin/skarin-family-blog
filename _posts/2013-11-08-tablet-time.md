@@ -5,7 +5,7 @@ title: Tablet Time
 date: 2013-11-08 18:11:00 -0500
 blogger_id: '7649627448581022571'
 original_url: https://blog.skarin.us/2013/11/tablet-time.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 Both boys love their tablet/phone/computer time. &nbsp;Evan gets a chance a couple of times a week but Logan less often. &nbsp;He loves it when he can have the tablet all to himself!!<br />

@@ -5,7 +5,7 @@ title: Summer Means...
 date: 2012-05-28 22:23:00 -0400
 blogger_id: '5883818717568564221'
 original_url: https://blog.skarin.us/2012/05/summer-means.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 <div class="separator" style="clear: both; text-align: center;">

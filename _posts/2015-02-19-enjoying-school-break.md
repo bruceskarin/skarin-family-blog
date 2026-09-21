@@ -5,7 +5,7 @@ title: Enjoying School Break
 date: 2015-02-19 20:51:00 -0500
 blogger_id: '5378373125259568153'
 original_url: https://blog.skarin.us/2015/02/enjoying-school-break.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 Hi Mom. &nbsp;It's me. &nbsp;Just checking in. &nbsp;Nothing major to report but I just wanted to let you know that we are having a nice week with Evan on vacation from school. &nbsp;He was difficult last week but this week, he has been great. &nbsp;Evan and Logan are still fighting some but nothing like last week and it's really noticeable, especially for me. &nbsp;I noticed when he was home from school at Christmas and then again this week, he is much less fresh and challenging. &nbsp;He still has his moments but not like other times. &nbsp;I'm not sure why that is, maybe feeding off some of the other kids at school, trying to impress/act like his friends already. &nbsp;I would think he would be bored and wanting to be in school but he seems really happy to just be here with Logan and I. &nbsp;It's really nice! &nbsp;I'm going to miss him so much next year when he's in Kindergarten. <br />

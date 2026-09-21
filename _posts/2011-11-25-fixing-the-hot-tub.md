@@ -5,7 +5,7 @@ title: Fixing the Hot Tub
 date: 2011-11-25 20:30:00 -0500
 blogger_id: '4405416800205098356'
 original_url: https://blog.skarin.us/2011/11/fixing-hot-tub.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 We finally had a long weekend without too much going on and nice weather so that we could take care of a few things around the house. &nbsp;One of which was fixing some jets in the hot tub. &nbsp;Bruce was hard at work and assisted, as always, by the cutest little helper in the world!<br />

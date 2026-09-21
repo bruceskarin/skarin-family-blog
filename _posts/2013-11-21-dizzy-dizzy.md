@@ -5,7 +5,7 @@ title: Dizzy, dizzy
 date: 2013-11-21 18:31:00 -0500
 blogger_id: '296272986335054112'
 original_url: https://blog.skarin.us/2013/11/dizzy-dizzy.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 This has become a bit of a nightly ritual at our house lately. &nbsp;It makes me dizzy just watching them but they love it!!<br />

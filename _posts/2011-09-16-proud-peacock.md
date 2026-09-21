@@ -5,7 +5,7 @@ title: Proud Peacock
 date: 2011-09-16 17:54:00 -0400
 blogger_id: '3098301388361587283'
 original_url: https://blog.skarin.us/2011/09/proud-peacock.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 <div style="text-align: center;">

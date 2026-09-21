@@ -5,7 +5,7 @@ title: Mommy Went to Mexico
 date: 2011-12-28 21:39:00 -0500
 blogger_id: '6607073468199253273'
 original_url: https://blog.skarin.us/2011/12/mommy-went-to-mexico.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 <div style="text-align: center;">

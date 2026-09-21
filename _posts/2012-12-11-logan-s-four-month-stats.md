@@ -5,7 +5,7 @@ title: Logan's Four Month Stats
 date: 2012-12-11 23:32:00 -0500
 blogger_id: '8461451668021492205'
 original_url: https://blog.skarin.us/2012/12/logans-four-month-stats.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 Here are the big man's stats:  18 lbs, 11 oz (96th percentile); 27.5 inches (98th percentile) and 44 cm 87th percentile.<br />

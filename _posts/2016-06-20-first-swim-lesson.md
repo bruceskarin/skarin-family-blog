@@ -5,7 +5,7 @@ title: First Swim Lesson
 date: 2016-06-20 21:46:00 -0400
 blogger_id: '3058018702884413371'
 original_url: https://blog.skarin.us/2016/06/first-swim-lesson.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 Evan and Logan started swim lessons at the Whitin Community Center today...well sort of! &nbsp;Evan rocked it and Logan wouldn't even get in the water. &nbsp;We did go back later in the morning for a toddlers class where I could sit on the edge of the pool with him and go in with him at the end of class. &nbsp;Logan didn't want to do anything the instructor asked but did in the end and as we were walking to get our towels at the end of the lesson he said to me, "So, I guess that was really fun!" &nbsp;He swears that he'll get in the water with Evan next week...we'll see!<br />

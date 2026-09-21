@@ -5,7 +5,7 @@ title: Ready for the Beach
 date: 2012-03-14 11:12:00 -0400
 blogger_id: '8524326945815914779'
 original_url: https://blog.skarin.us/2012/03/ready-for-beach.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 I think Evan is getting really excited about our upcoming trip to Florida to see Gramma and Papa. &nbsp;He already has a to-do list for his vacation.<br />

@@ -5,7 +5,7 @@ title: Two Years Ago
 date: 2015-04-03 06:57:00 -0400
 blogger_id: '5024657267298493514'
 original_url: https://blog.skarin.us/2015/04/two-years-ago.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 Hi Mom! &nbsp;It's me. &nbsp;Just checking in. &nbsp;It's been a little while since I wrote. &nbsp;I can hear you say "Are you mad at me?" :-) &nbsp;Not at all...not ever! &nbsp;I've had a couple of tough days this week, especially Wednesday. &nbsp;I'm not really sure why but I didn't even want to get out of bed. &nbsp;I almost skipped boot camp but I didn't and I'm glad that I went (both Wednesday and today). &nbsp;It is hard to believe that just 2 years ago this week, you and Dad were buying the house at Indian Creek. &nbsp;I still remember how happy you were when you were talking about it and when we went to see it for the first time. &nbsp;I'm so glad that you were able to enjoy it there with him for at least one winter. &nbsp;I wish you guys had decided to buy something sooner but then you wouldn't have bought that house and that one is just perfect! &nbsp;Right down to the depression glass dishes. <br />

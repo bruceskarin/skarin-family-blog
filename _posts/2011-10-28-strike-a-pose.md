@@ -5,7 +5,7 @@ title: Strike a pose
 date: 2011-10-28 20:51:00 -0400
 blogger_id: '328495398238473355'
 original_url: https://blog.skarin.us/2011/10/strike-pose.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 I don't know about you but I'm pretty sure this kid should be a model. &nbsp;Might be a good way to help pay for college!<br />

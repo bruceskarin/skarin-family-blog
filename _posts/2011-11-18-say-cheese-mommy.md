@@ -5,7 +5,7 @@ title: Say Cheese, Mommy!
 date: 2011-11-18 14:27:00 -0500
 blogger_id: '5708910223534000038'
 original_url: https://blog.skarin.us/2011/11/say-cheese-mommy.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 I am always taking pictures of Evan so today I guess he decided that it was his turn to take a couple of pictures of me (while Daddy took pictures of him!). <br />

@@ -5,7 +5,7 @@ title: My Comfy Place
 date: 2013-01-30 21:26:00 -0500
 blogger_id: '1854857217801899119'
 original_url: https://blog.skarin.us/2013/01/my-comfy-place.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 Last night after putting Evan to bed numerous times, I told him to get back into bed one last time. &nbsp;Well unbeknownst to me until I went to check on him before I went to bed, he had made himself a little bed in his "comfy place", the corner of his bedroom just behind his door. &nbsp;He brought his friends...George, Ladybug, Wally and Fitzy...and his Red Sox blanket, made a little bed and fell asleep. &nbsp;I thought about moving him but then decided that it was going to be a warm night and he was comfy and asleep so I left him. &nbsp;I figured I would move him back to bed if he woke up in the middle of the night. &nbsp;He was perfectly happy sleeping there in his "little comfy place" all night. <br />

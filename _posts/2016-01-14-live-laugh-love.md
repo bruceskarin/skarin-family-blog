@@ -5,7 +5,7 @@ title: Live, Laugh, Love
 date: 2016-01-14 13:47:00 -0500
 blogger_id: '4281063439923403330'
 original_url: https://blog.skarin.us/2016/01/live-laugh-love.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 <span style="font-family: Georgia, Times New Roman, serif; font-size: x-small;"><br /></span>

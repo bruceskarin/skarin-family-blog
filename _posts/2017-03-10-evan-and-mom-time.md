@@ -5,7 +5,7 @@ title: Evan and Mom Time
 date: 2017-03-10 21:56:00 -0500
 blogger_id: '8276422262257268944'
 original_url: https://blog.skarin.us/2017/03/evan-and-mom-time.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 A professional day for the Millbury teachers and school for Logan meant that I got some rare one on one time with Evan today. &nbsp;After we dropped Logan off at school, we stopped at Dunkin Donuts for a quick treat before heading to the Ecotarium for a few hours. &nbsp;It was fairly quiet there today and it was especially nice to be able to dedicate all of my time and attention to Evan instead of being pulled in opposite directions. &nbsp;We checked out the city science exhibit that is on display now and it's really pretty cool. &nbsp;After heading back to get Logan at school, we stopped at the Millbury Public Library to hang out for a bit and pick up some books. &nbsp;Love spending time with my boys, especially when I get them all to myself for a bit! &nbsp;Definitely need to get some more one on one time with my big guy!<br />

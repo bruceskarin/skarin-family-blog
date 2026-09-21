@@ -5,12 +5,15 @@ title: Early Summer Fun!
 date: 2013-06-28 20:53:00 -0400
 blogger_id: '8102520131916585850'
 original_url: https://blog.skarin.us/2013/06/early-summer-fun.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 June was a busy, busy month with lots going on but we still found lots of time to have fun at home. &nbsp;Swimming, playing and just being silly...after all what more is there for a 3 year old and an almost 1 year old to do in the summer??<br />
 <br />
-<embed flashvars="host=picasaweb.google.com&amp;interval=6&amp;captions=1&amp;hl=en_US&amp;feat=flashalbum&amp;RGB=0x000000&amp;feed=https%3A%2F%2Fpicasaweb.google.com%2Fdata%2Ffeed%2Fapi%2Fuser%2F111078421412399706337%2Falbumid%2F5899925810227212081%3Falt%3Drss%26kind%3Dphoto%26authkey%3DGv1sRgCMGTn_7ujou8rAE%26hl%3Den_US" height="533" pluginspage="http://www.macromedia.com/go/getflashplayer" src="https://static.googleusercontent.com/external_content/picasaweb.googleusercontent.com/slideshow.swf" type="application/x-shockwave-flash" width="800"></embed><br />
+<!-- removed dead embed: slideshow albumid:5899925810227212081 -->
+<div class="embed-placeholder"><p><em>Photo slideshow from the original blog. The slideshow service (Picasa/Flash) has been discontinued, so these photos can no longer be displayed here.</em></p></div>
+
+<br />
 <br />
 Getting ready for the wheelbarrow races next year<br />
 <iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/Q5oxA6rTZiw" width="560"></iframe><br />

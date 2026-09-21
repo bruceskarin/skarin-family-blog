@@ -5,7 +5,7 @@ title: Sick on Mommy's Birthday
 date: 2012-02-13 16:16:00 -0500
 blogger_id: '8544224680018265249'
 original_url: https://blog.skarin.us/2012/02/sick-on-mommys-birthday.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 After a fun-filled, busy day yesterday, today was the exact opposite...lazy and low-key. &nbsp;Some days you just need a day to recover and regroup, especially when you are a little guy who isn't feeling well. &nbsp;Evan and I spent most of the day today snuggling on the couch and in bed reading books. &nbsp;I am sorry that my little pal wasn't feeling very well today but I loved all the snuggle time, especially on my birthday! &nbsp;Thankfully by the afternoon, after a long nap, he was feeling much better! &nbsp;I think he will be back to "normal" in no time!<br />

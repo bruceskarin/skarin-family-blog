@@ -5,7 +5,7 @@ title: Empty Spaces
 date: 2015-03-15 14:05:00 -0400
 blogger_id: '2907292396527683834'
 original_url: https://blog.skarin.us/2015/03/empty-spaces.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 Hi Mom. &nbsp;It's me. &nbsp;I'm just checking in to say "Hi!" &nbsp;I'm having a bit of a rough day today...missing you terribly. &nbsp;I took down your cards today and now there is just an empty space where they once were. &nbsp;Kind of like the empty feeling that I have without you here. &nbsp;I know you are still with me in my heart and in my memories but it's just not the same. <br />

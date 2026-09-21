@@ -5,7 +5,7 @@ title: Fifteen Minutes...Take Two
 date: 2012-07-20 16:12:00 -0400
 blogger_id: '1501727256463259280'
 original_url: https://blog.skarin.us/2012/07/fifteen-minutestake-two.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 You may remember <a href="http://evan.skarin.us/2011/07/fifteen-minutes-of-fame.html">this post</a> from last summer, one week shy of one year ago, when Evan got his first fifteen minutes of fame from attending a concert on the common. &nbsp;Well yesterday, Evan and I attended the first of this year's concerts on the Millbury common and once again, Evan received some press. &nbsp;I didn't see anything in the newspaper this time but he was on the front page of the Millbury Daily Voice online. &nbsp;Of the 8 photos that were posted, the only one not of the band was of Evan! &nbsp;Check out the photos and article <a href="http://millbury.dailyvoice.com/gallery/peanut-butter-and-jam-park-pendragon?pic=0">here</a>.<br />

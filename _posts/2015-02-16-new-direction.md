@@ -5,7 +5,7 @@ title: New Direction???
 date: 2015-02-16 17:26:00 -0500
 blogger_id: '3439836672498715293'
 original_url: https://blog.skarin.us/2015/02/new-direction.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 Over the last year, I have been wondering what the future of the blog would be. &nbsp;I had a terrible time maintaining it last year. &nbsp;(I currently have most of July-December to update and post-date.) &nbsp;I don't want to abandon it all together because I like having the record of the experiences that we share with the boys but it has become quite overwhelming as it currently is.<br />

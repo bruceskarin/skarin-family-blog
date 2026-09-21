@@ -5,7 +5,7 @@ title: Dreams Last Night
 date: 2015-02-18 09:21:00 -0500
 blogger_id: '2618894258585701963'
 original_url: https://blog.skarin.us/2015/02/dreams-last-night.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 Hi Mom. Just wanted to let you know that I had a dream about you last night. <br />

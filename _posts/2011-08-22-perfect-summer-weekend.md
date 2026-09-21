@@ -5,8 +5,18 @@ title: Perfect Summer Weekend
 date: 2011-08-22 08:28:00 -0400
 blogger_id: '6669441919081891815'
 original_url: https://blog.skarin.us/2011/08/perfect-summer-weekend.html
-author: Anonymous
+author: Diane Skarin
 ---
 
-While I don't like to think about it, summer is winding down.  This past weekend we had a perfect summer weekend.  It started out on Friday with another concert on the common.  This band wasn't as good as the last two but daddy was able to join us because he was working from home.<div>Saturday we got up early and headed to Narragansett Beach.  It was cloudy on the drive down but started clearing up as we got closer.  We found a great parking spot and the weather was perfect all day.  We introduced Evan to Allie's Donuts but he wasn't a huge fan.  I think he was just too busy playing in the sand and <a href="http://youtu.be/0MrctZvCwpY">in the waves</a>.  On the way back to the car, we stopped to get Del's...perfect on a hot summer day!<div>After the beach we stopped in to see Gramma and Papa and to clean off in the pool.  There is nothing better than taking a dip after a day at the beach when you are sandy and salty!  We ended up having pizza, watching the Red Sox and having a sleepover!  Sunday we had an impromptu cookout with all of the usual suspects.  What a perfect weekend!  The only thing that could have made it better would have been chowder and clamcakes...oh well...there's still time for that!</div></div><div><span class="Apple-style-span" style="color: rgb(0, 0, 51); font-family: 'Courier New', Courier, monospace; font-size: 12px; line-height: 18px; background-color: rgb(255, 255, 255); "><object height="600" width="800"> <param name="movie" value="http://www.paulvanroekel.nl/picasawebalbums/embed/simpleviewer/simpleviewer.swf?galleryURL=http://www.paulvanroekel.nl/picasawebalbums/embed/simpleviewer/xml.php?username=dskarin%26albumname=PerfectSummerWeekend"> <param name="allowscriptaccess" value="always"> <param name="wmode" value="transparent"> <embed src="http://www.paulvanroekel.nl/picasawebalbums/embed/simpleviewer/simpleviewer.swf?galleryURL=http://www.paulvanroekel.nl/picasawebalbums/embed/simpleviewer/xml.php?username=dskarin%26albumname=PerfectSummerWeekend" type="application/x-shockwave-flash" wmode="transparent" allowscriptaccess="always" width="800" height="600"></embed></object></span></div><div>
-<br /></div>
+While I don't like to think about it, summer is winding down.  This past weekend we had a perfect summer weekend.  It started out on Friday with another concert on the common.  This band wasn't as good as the last two but daddy was able to join us because he was working from home.
+
+<div>Saturday we got up early and headed to Narragansett Beach.  It was cloudy on the drive down but started clearing up as we got closer.  We found a great parking spot and the weather was perfect all day.  We introduced Evan to Allie's Donuts but he wasn't a huge fan.  I think he was just too busy playing in the sand and <a href="http://youtu.be/0MrctZvCwpY">in the waves</a>.  On the way back to the car, we stopped to get Del's...perfect on a hot summer day!
+
+<div>After the beach we stopped in to see Gramma and Papa and to clean off in the pool.  There is nothing better than taking a dip after a day at the beach when you are sandy and salty!  We ended up having pizza, watching the Red Sox and having a sleepover!  Sunday we had an impromptu cookout with all of the usual suspects.  What a perfect weekend!  The only thing that could have made it better would have been chowder and clamcakes...oh well...there's still time for that!</div>
+
+</div>
+
+<div><span class="Apple-style-span" style="color: rgb(0, 0, 51); font-family: 'Courier New', Courier, monospace; font-size: 12px; line-height: 18px; background-color: rgb(255, 255, 255); "><!-- removed dead embed: slideshow albumname:PerfectSummerWeekend albumname:PerfectSummerWeekend -->
+<div class="embed-placeholder"><p><em>Photo slideshow from the original blog. The slideshow service (Picasa/Flash) has been discontinued, so these photos can no longer be displayed here.</em></p></div>
+
+</span></div>

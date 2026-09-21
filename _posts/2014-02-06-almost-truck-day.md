@@ -5,12 +5,11 @@ title: Almost Truck Day
 date: 2014-02-06 13:27:00 -0500
 blogger_id: '3217061389098393284'
 original_url: https://blog.skarin.us/2014/02/almost-truck-day.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 Every year, my cousin Mark puts a post on Facebook about Truck Day, the day in which all of the Red Sox gear leaves Boston on a truck bound for Fort Myers. &nbsp;It means that spring is coming and that baseball season is getting closer. &nbsp;This year, just in time for truck day, which is Saturday, the boys got some new Red Sox hats. &nbsp;Pitchers and catchers report February 15th!<br />
-<div>
-<br /></div>
+
 <div style="text-align: center;">
 Trying out his new red Red Sox hat</div>
 <div class="separator" style="clear: both; text-align: center;">
@@ -26,5 +25,4 @@ Maybe I'll give this hat thing a try...I do look pretty cute!</div>
 I'm ready for spring training, Mom!</div>
 <div class="separator" style="clear: both; text-align: center;">
 <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9EI7kt1HB8dwUzNNPWVa30Pl8JUISupFuhPJ9CumiCe4ws3XH3_6Nd23KB-15q8ueaHkRxKOdGeDpmVgjh08a7MvDrYyR1VpTTiKxJUZqqOc_qqDaLi97IlrtlGWSG5LXnALATqhv9Xg/s1600/DSC05784.JPG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="{{ site.baseurl }}/assets/images/2014/02/95a8bb0b9a4b5ea5.jpg" height="400" width="311" /></a></div>
-<div>
-<br /></div>
+

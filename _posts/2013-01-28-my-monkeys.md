@@ -5,7 +5,7 @@ title: My Monkeys
 date: 2013-01-28 22:59:00 -0500
 blogger_id: '6739714830081665541'
 original_url: https://blog.skarin.us/2013/01/my-monkeys.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 <div style="text-align: center;">

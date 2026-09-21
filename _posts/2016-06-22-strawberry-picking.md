@@ -5,7 +5,7 @@ title: Strawberry Picking
 date: 2016-06-22 21:08:00 -0400
 blogger_id: '7530223946448289216'
 original_url: https://blog.skarin.us/2016/06/strawberry-picking.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 Another day of summer vacation and another little adventure for us. &nbsp;Today it was strawberry picking at Nourse Farm. &nbsp;It's a cute little farm in Westboro, only about 15 minutes from our house. &nbsp;The strawberry patch isn't huge but it's plenty big to get lots of good berries. &nbsp;The morning was a mix of sun and clouds so it wasn't too hot while we picked. &nbsp;Evan picked about two and a half quarts. &nbsp;Logan picked...I don't know how many because most of them ended up in his belly! &nbsp;Another fun adventure with my two little pals!<br />

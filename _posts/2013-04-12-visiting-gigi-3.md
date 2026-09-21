@@ -5,7 +5,7 @@ title: Visiting Gigi
 date: 2013-04-12 17:04:00 -0400
 blogger_id: '3386132722022747913'
 original_url: https://blog.skarin.us/2013/04/visiting-gigi.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 Gigi has returned from Vero Beach, FL where she had a great winter with Great Aunt Bet. &nbsp;Today we stopped by for a short visit before meeting Kristie for lunch. &nbsp;As always, it was wonderful to see her and the boys helped to brighten her day on this cold, rainy, yucky, spring day!<br />

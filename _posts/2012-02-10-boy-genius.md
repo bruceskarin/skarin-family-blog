@@ -5,7 +5,7 @@ title: Boy Genius!
 date: 2012-02-10 16:14:00 -0500
 blogger_id: '3223341430291771346'
 original_url: https://blog.skarin.us/2012/02/boy-genius.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 When Bruce told me that he wanted to buy <a href="http://www.amazon.com/Introductory-Calculus-Infants-Omi-Inouye/dp/0987823914">Introductory Calculus for Infants</a> for Evan, I don't remember my exact response but it was something like, "Are you kidding me? Isn't he already going to be nerdy enough just because he has both of our genes? &nbsp;We have to make sure he is athletic too, not just smart, so that he doesn't get picked on in school." &nbsp;But once he ordered it and I read it for the first time, I changed my tune. &nbsp;It is actually a really cute book, in a nerdy, ABC mathy sort ofway. &nbsp;Here is our little boy genius, teaching himself calculus before the age of two! &nbsp;As any math teacher would know, it's never too early to get kids interested in math!<br />

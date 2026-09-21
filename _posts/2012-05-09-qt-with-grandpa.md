@@ -5,7 +5,7 @@ title: QT with Grandpa
 date: 2012-05-09 22:20:00 -0400
 blogger_id: '3108109194972068066'
 original_url: https://blog.skarin.us/2012/05/qt-with-grandpa.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 Grandpa Bob has spent much of his time here working in the basement which has been a HUGE help but we did make sure we didn't work him too hard so that he could enjoy a little one-on-one time with his grandson.<br />

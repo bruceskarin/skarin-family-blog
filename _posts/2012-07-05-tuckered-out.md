@@ -5,7 +5,7 @@ title: Tuckered Out!
 date: 2012-07-05 15:10:00 -0400
 blogger_id: '2555309465515813672'
 original_url: https://blog.skarin.us/2012/07/tuckered-out.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 <br />

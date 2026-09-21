@@ -5,7 +5,7 @@ title: Packing a Lunch
 date: 2012-02-13 16:15:00 -0500
 blogger_id: '8259603440862437331'
 original_url: https://blog.skarin.us/2012/02/packing-lunch.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 Tonight I had this conversation with Evan while he was busily playing with this softsided cooler.<br />

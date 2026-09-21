@@ -5,7 +5,7 @@ title: Uses for a Step Stool
 date: 2012-05-28 22:23:00 -0400
 blogger_id: '6921713209341174092'
 original_url: https://blog.skarin.us/2012/05/uses-for-step-stool.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 Evan has found many uses for a step stool lately.<br />

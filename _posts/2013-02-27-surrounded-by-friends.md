@@ -5,7 +5,7 @@ title: Surrounded by Friends
 date: 2013-02-27 22:41:00 -0500
 blogger_id: '765185035724507701'
 original_url: https://blog.skarin.us/2013/02/surrounded-by-friends.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 Dear Logan,<br />

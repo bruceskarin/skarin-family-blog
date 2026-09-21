@@ -5,7 +5,7 @@ title: Red Sox Bat Boy
 date: 2014-03-03 22:35:00 -0500
 blogger_id: '8400903901212246904'
 original_url: https://blog.skarin.us/2014/03/red-sox-bat-boy.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 <div style="text-align: center;">

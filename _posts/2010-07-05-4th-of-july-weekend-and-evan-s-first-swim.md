@@ -5,29 +5,156 @@ title: 4th of July Weekend and Evan’s First Swim
 date: 2010-07-05 14:49:00 -0400
 blogger_id: '4561661824590021262'
 original_url: https://blog.skarin.us/2010/07/4th-of-july-weekend-and-evans-first.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 What a busy weekend!!  It all started on Friday with a visit from Amber.  Evan slept most of the time while she and I had lunch on the deck and were able to catch up on all that has been going on with both of us.  When Evan did wake up, boy was he hungry!  After I fed him, he was able to sit with Amber for a while and get to know her a bit.  Thanks for the visit, Amber!<br />
 <br />
-<div style="text-align: left;">Nice to meet you, Amber!</div><div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/untitledpost/P1010245.JPG?attredirects=0" imageanchor="1"><img border="0" height="320" src="{{ site.baseurl }}/assets/images/2010/07/f0a53d91f835a4a1.jpg" width="273" /></a></div><br />
+<div style="text-align: left;">Nice to meet you, Amber!</div>
+
+<div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/untitledpost/P1010245.JPG?attredirects=0" imageanchor="1"><img border="0" height="320" src="{{ site.baseurl }}/assets/images/2010/07/f0a53d91f835a4a1.jpg" width="273" /></a></div>
+
+<br />
 Saturday was a pretty low key day.  Daddy went frolfing (aka Frisbee golfing) with Bunten while mommy sat in the sun on the deck and Evan napped in his swing.  Boy was it hot!  Maybe next year we will have a pool to cool off in!<br />
 Sunday was another busy day with an early start.  Daddy, Uncle Dan, Great Aunt Chris and her friend Christine ran in a 10K race at Gillette stadium and we went to cheer them on.  It was a pretty neat race that ended with a run through the tunnel at the stadium and the finish line on the 50 yard line.  Every finisher could see themselves on the jumbo-tron and we were actually able to take a picture of Daddy when he was on!  Hopefully next year mommy and daddy will both run the race!  We (Uncle Dan, Aunt Karin, Danny, Sean, us and even Pete) spent Sunday afternoon by the pool at Papa and Gramma’s while they went to Uncle Rick and Aunt Donna’s for a “kid free zone”.  All of the little boys were napping at once and so the adults were able to enjoy some “kid free” time themselves.  Amazing!  We finished the night off with chowder and clamcakes from Iggy’s.  Not quite the same as going to Aunt Carrie’s but certainly a close second and much easier!!<br />
 <table border="1" bordercolor="#888888" cellspacing="0" style="border-collapse: collapse; border-color: rgb(136, 136, 136); border-width: 1px;"><tbody>
-<tr><td style="width: 60px;"><div style="text-align: center;">Coming  through the tunnel onto the field</div><div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/untitledpost/P1010270.JPG?attredirects=0" imageanchor="1"><img border="0" height="181" src="{{ site.baseurl }}/assets/images/2010/07/3d2c10facef827f8.jpg" width="320" /></a></div></td><td style="width: 60px;"><div style="text-align: center;">Daddy on the jumbo-tron</div><div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/untitledpost/P1010273.JPG?attredirects=0" imageanchor="1"><img border="0" height="240" src="{{ site.baseurl }}/assets/images/2010/07/5d53c533dcff367a.jpg" width="320" /></a></div></td></tr>
-<tr><td><div style="text-align: center;">Uncle Dan about to make a big splash</div><div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/untitledpost/P1010278.JPG?attredirects=0" imageanchor="1"><img border="0" height="320" src="{{ site.baseurl }}/assets/images/2010/07/961566da42dfd757.jpg" width="270" /></a></div></td><td><div style="text-align: center;">Danny about to make a little one</div><div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/untitledpost/P1010279.JPG?attredirects=0" imageanchor="1"><img border="0" height="320" src="{{ site.baseurl }}/assets/images/2010/07/6c8752b698a9fdaa.jpg" width="224" /></a></div></td></tr>
+<tr><td style="width: 60px;">
+
+<div style="text-align: center;">Coming  through the tunnel onto the field</div>
+
+<div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/untitledpost/P1010270.JPG?attredirects=0" imageanchor="1"><img border="0" height="181" src="{{ site.baseurl }}/assets/images/2010/07/3d2c10facef827f8.jpg" width="320" /></a></div>
+
+</td><td style="width: 60px;">
+
+<div style="text-align: center;">Daddy on the jumbo-tron</div>
+
+<div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/untitledpost/P1010273.JPG?attredirects=0" imageanchor="1"><img border="0" height="240" src="{{ site.baseurl }}/assets/images/2010/07/5d53c533dcff367a.jpg" width="320" /></a></div>
+
+</td></tr>
+<tr><td>
+
+<div style="text-align: center;">Uncle Dan about to make a big splash</div>
+
+<div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/untitledpost/P1010278.JPG?attredirects=0" imageanchor="1"><img border="0" height="320" src="{{ site.baseurl }}/assets/images/2010/07/961566da42dfd757.jpg" width="270" /></a></div>
+
+</td><td>
+
+<div style="text-align: center;">Danny about to make a little one</div>
+
+<div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/untitledpost/P1010279.JPG?attredirects=0" imageanchor="1"><img border="0" height="320" src="{{ site.baseurl }}/assets/images/2010/07/6c8752b698a9fdaa.jpg" width="224" /></a></div>
+
+</td></tr>
 </tbody></table><br />
 <div style="text-align: left;"><table border="1" bordercolor="#888888" cellspacing="0" style="border-collapse: collapse; border-color: rgb(136, 136, 136); border-width: 1px;"><tbody>
-<tr><td style="width: 60px;"><div style="text-align: center;">My favorite  uncle</div><div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/untitledpost/P1010282.JPG?attredirects=0" imageanchor="1"><img border="0" height="294" src="{{ site.baseurl }}/assets/images/2010/07/5d91d21bc268ae1b.jpg" width="320" /></a></div></td><td style="width: 60px;"><div style="text-align: center;">Auntie Karin feeding Sean</div><div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/untitledpost/P1010286.JPG?attredirects=0" imageanchor="1"><img border="0" height="302" src="{{ site.baseurl }}/assets/images/2010/07/1dec7114604fd941.jpg" width="320" /></a></div></td><td style="width: 60px;"><div style="text-align: center;">Best pals!</div><div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/untitledpost/P1010294.JPG?attredirects=0" imageanchor="1"><img border="0" height="228" src="{{ site.baseurl }}/assets/images/2010/07/1d200b6687282ad9.jpg" width="320" /></a></div></td></tr>
-</tbody></table></div>Monday was just as much fun as Sunday.  Papa and Gramma had a cookout with the Dowdings.  Evan was able to meet some more of the family that he hadn’t met yet, including Amy, Keaney, Great Aunt Kim, Aubrey and Eli.  With such a big family, I wonder how long it will take before he is able to meet everyone!! Evan napped much of the afternoon but then woke up to join the party.  He took his first swim which included lounging in an inner tube for a little while, spent some time with his great aunts, had a bottle with his cousin Sean and even had time for a little R&amp;R in his bouncy seat between Danny and Sean.  All in all a great weekend!!<br />
+<tr><td style="width: 60px;">
+
+<div style="text-align: center;">My favorite  uncle</div>
+
+<div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/untitledpost/P1010282.JPG?attredirects=0" imageanchor="1"><img border="0" height="294" src="{{ site.baseurl }}/assets/images/2010/07/5d91d21bc268ae1b.jpg" width="320" /></a></div>
+
+</td><td style="width: 60px;">
+
+<div style="text-align: center;">Auntie Karin feeding Sean</div>
+
+<div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/untitledpost/P1010286.JPG?attredirects=0" imageanchor="1"><img border="0" height="302" src="{{ site.baseurl }}/assets/images/2010/07/1dec7114604fd941.jpg" width="320" /></a></div>
+
+</td><td style="width: 60px;">
+
+<div style="text-align: center;">Best pals!</div>
+
+<div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/untitledpost/P1010294.JPG?attredirects=0" imageanchor="1"><img border="0" height="228" src="{{ site.baseurl }}/assets/images/2010/07/1d200b6687282ad9.jpg" width="320" /></a></div>
+
+</td></tr>
+</tbody></table></div>
+
+Monday was just as much fun as Sunday.  Papa and Gramma had a cookout with the Dowdings.  Evan was able to meet some more of the family that he hadn’t met yet, including Amy, Keaney, Great Aunt Kim, Aubrey and Eli.  With such a big family, I wonder how long it will take before he is able to meet everyone!! Evan napped much of the afternoon but then woke up to join the party.  He took his first swim which included lounging in an inner tube for a little while, spent some time with his great aunts, had a bottle with his cousin Sean and even had time for a little R&amp;R in his bouncy seat between Danny and Sean.  All in all a great weekend!!<br />
 <table border="1" bordercolor="#888888" cellspacing="0" style="border-collapse: collapse; border-color: rgb(136, 136, 136); border-width: 1px;"><tbody>
-<tr><td style="width: 60px;"><div style="text-align: center;">Resting  up for a big day</div><div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/untitledpost/P1010298.JPG?attredirects=0" imageanchor="1"><img border="0" height="320" src="{{ site.baseurl }}/assets/images/2010/07/39b12aaebaa9ff7d.jpg" width="249" /></a></div></td><td style="width: 60px;"><div style="text-align: center;">Two cool dudes in their glasses</div><div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/untitledpost/P1010302.JPG?attredirects=0" imageanchor="1"><img border="0" height="286" src="{{ site.baseurl }}/assets/images/2010/07/550e2928e48cad2b.jpg" width="320" /></a></div></td><td style="width: 60px;"><div style="text-align: center;">Cousin Amy and Keaney enjoying  the water</div><div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/untitledpost/P1010303.JPG?attredirects=0" imageanchor="1"><img border="0" height="266" src="{{ site.baseurl }}/assets/images/2010/07/79bea2130e32c7d1.jpg" width="320" /></a></div></td></tr>
-<tr><td style="width: 60px;"><div style="text-align: center;">Cousins throwing  one back together!</div><div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/untitledpost/P1010313.JPG?attredirects=0" imageanchor="1"><img border="0" height="250" src="{{ site.baseurl }}/assets/images/2010/07/6d7d55cd5db150de.jpg" width="320" /></a></div></td><td style="width: 60px;"><div style="text-align: center;">Being entertained by my great  aunts</div><div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/untitledpost/P1010319.JPG?attredirects=0" imageanchor="1"><img border="0" height="260" src="{{ site.baseurl }}/assets/images/2010/07/520947ccf0fe68cd.jpg" width="320" /></a></div></td><td style="width: 60px;"><div style="text-align: center;">Piggy toes in the pool</div><div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/untitledpost/P1010324.JPG?attredirects=0" imageanchor="1"><img border="0" height="320" src="{{ site.baseurl }}/assets/images/2010/07/0ceb159340cc5984.jpg" width="230" /></a></div></td></tr>
-<tr><td style="width: 60px;"><div style="text-align: center;">I think I could  get use to this, Mommy!</div><div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/untitledpost/P1010329.JPG?attredirects=0" imageanchor="1"><img border="0" height="279" src="{{ site.baseurl }}/assets/images/2010/07/9690d9acbbe4f6fd.jpg" width="320" /></a></div></td><td style="width: 60px;"><div style="text-align: center;">Ah, this is the life!</div><div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/untitledpost/P1010332.JPG?attredirects=0" imageanchor="1"><img border="0" height="240" src="{{ site.baseurl }}/assets/images/2010/07/405586eefb7b68eb.jpg" width="320" /></a></div></td><td style="width: 60px;"><div style="text-align: center;">Your shoulder tastes good,  Auntie Karin!</div><div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/untitledpost/P1010348.JPG?attredirects=0" imageanchor="1"><img border="0" height="320" src="{{ site.baseurl }}/assets/images/2010/07/a80ed2be510e19ac.jpg" width="265" /></a></div></td></tr>
-</tbody></table><div style="text-align: left;"><div style="text-align: center;"><div style="text-align: center;"><br />
+<tr><td style="width: 60px;">
+
+<div style="text-align: center;">Resting  up for a big day</div>
+
+<div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/untitledpost/P1010298.JPG?attredirects=0" imageanchor="1"><img border="0" height="320" src="{{ site.baseurl }}/assets/images/2010/07/39b12aaebaa9ff7d.jpg" width="249" /></a></div>
+
+</td><td style="width: 60px;">
+
+<div style="text-align: center;">Two cool dudes in their glasses</div>
+
+<div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/untitledpost/P1010302.JPG?attredirects=0" imageanchor="1"><img border="0" height="286" src="{{ site.baseurl }}/assets/images/2010/07/550e2928e48cad2b.jpg" width="320" /></a></div>
+
+</td><td style="width: 60px;">
+
+<div style="text-align: center;">Cousin Amy and Keaney enjoying  the water</div>
+
+<div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/untitledpost/P1010303.JPG?attredirects=0" imageanchor="1"><img border="0" height="266" src="{{ site.baseurl }}/assets/images/2010/07/79bea2130e32c7d1.jpg" width="320" /></a></div>
+
+</td></tr>
+<tr><td style="width: 60px;">
+
+<div style="text-align: center;">Cousins throwing  one back together!</div>
+
+<div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/untitledpost/P1010313.JPG?attredirects=0" imageanchor="1"><img border="0" height="250" src="{{ site.baseurl }}/assets/images/2010/07/6d7d55cd5db150de.jpg" width="320" /></a></div>
+
+</td><td style="width: 60px;">
+
+<div style="text-align: center;">Being entertained by my great  aunts</div>
+
+<div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/untitledpost/P1010319.JPG?attredirects=0" imageanchor="1"><img border="0" height="260" src="{{ site.baseurl }}/assets/images/2010/07/520947ccf0fe68cd.jpg" width="320" /></a></div>
+
+</td><td style="width: 60px;">
+
+<div style="text-align: center;">Piggy toes in the pool</div>
+
+<div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/untitledpost/P1010324.JPG?attredirects=0" imageanchor="1"><img border="0" height="320" src="{{ site.baseurl }}/assets/images/2010/07/0ceb159340cc5984.jpg" width="230" /></a></div>
+
+</td></tr>
+<tr><td style="width: 60px;">
+
+<div style="text-align: center;">I think I could  get use to this, Mommy!</div>
+
+<div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/untitledpost/P1010329.JPG?attredirects=0" imageanchor="1"><img border="0" height="279" src="{{ site.baseurl }}/assets/images/2010/07/9690d9acbbe4f6fd.jpg" width="320" /></a></div>
+
+</td><td style="width: 60px;">
+
+<div style="text-align: center;">Ah, this is the life!</div>
+
+<div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/untitledpost/P1010332.JPG?attredirects=0" imageanchor="1"><img border="0" height="240" src="{{ site.baseurl }}/assets/images/2010/07/405586eefb7b68eb.jpg" width="320" /></a></div>
+
+</td><td style="width: 60px;">
+
+<div style="text-align: center;">Your shoulder tastes good,  Auntie Karin!</div>
+
+<div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/untitledpost/P1010348.JPG?attredirects=0" imageanchor="1"><img border="0" height="320" src="{{ site.baseurl }}/assets/images/2010/07/a80ed2be510e19ac.jpg" width="265" /></a></div>
+
+</td></tr>
+</tbody></table>
+
+<div style="text-align: left;">
+
+<div style="text-align: center;">
+
+<div style="text-align: center;"><br />
 <span class="Apple-style-span" style="font-family: Georgia, 'Times New Roman', serif; font-size: 13px; line-height: 20px;"></span><br />
 <div><table border="1" bordercolor="#888" cellspacing="0" style="border-bottom-color: rgb(136, 136, 136); border-bottom-width: 1px; border-collapse: collapse; border-left-color: rgb(136, 136, 136); border-left-width: 1px; border-right-color: rgb(136, 136, 136); border-right-width: 1px; border-top-color: rgb(136, 136, 136); border-top-width: 1px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; margin-top: 0px;"><tbody>
-<tr><td style="height: 19px; padding-bottom: 1px; padding-left: 4px; padding-right: 4px; padding-top: 1px; vertical-align: top; width: 58px;"><div style="text-align: center;">&nbsp;Sean, your bouncy seat is way cooler than mine.</div><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/untitledpost/P1010335.JPG?attredirects=0" imageanchor="1" style="background-attachment: initial; background-clip: initial; background-color: initial; background-image: none; background-origin: initial; background-position: initial initial; background-repeat: initial initial; border-bottom-color: initial; border-bottom-style: none; border-bottom-width: initial; color: rgb(66, 20, 118) !important; cursor: text; text-decoration: inherit;"><img border="0" height="210" src="{{ site.baseurl }}/assets/images/2010/07/958310b11ba0b449.jpg" style="background-color: white; border-bottom-color: rgb(195, 201, 162); border-bottom-style: solid; border-bottom-width: 1px; border-color: initial; border-color: initial; border-left-width: 0px; border-right-color: rgb(195, 201, 162); border-right-style: solid; border-right-width: 1px; border-style: initial; border-style: initial; border-top-width: 0px; padding-bottom: 7px; padding-left: 7px; padding-right: 7px; padding-top: 7px;" width="320" /></a>&nbsp;</td><td style="height: 19px; padding-bottom: 1px; padding-left: 4px; padding-right: 4px; padding-top: 1px; text-align: center; vertical-align: top; width: 58px;"><div style="text-align: center;">&nbsp;The grandson's after a fun day at the pool!</div><div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/untitledpost/P1010343.JPG?attredirects=0" imageanchor="1" style="background-attachment: initial; background-clip: initial; background-color: initial; background-image: none; background-origin: initial; background-position: initial initial; background-repeat: initial initial; border-bottom-color: initial; border-bottom-style: none; border-bottom-width: initial; color: rgb(0, 85, 150) !important; cursor: text; text-decoration: none;"><img border="0" height="240" src="{{ site.baseurl }}/assets/images/2010/07/528739e9066b3f52.jpg" style="background-color: white; border-bottom-color: rgb(195, 201, 162); border-bottom-style: solid; border-bottom-width: 1px; border-color: initial; border-color: initial; border-color: initial; border-left-width: 0px; border-right-color: rgb(195, 201, 162); border-right-style: solid; border-right-width: 1px; border-style: initial; border-style: initial; border-style: initial; border-top-width: 0px; padding-bottom: 7px; padding-left: 7px; padding-right: 7px; padding-top: 7px;" width="320" /></a></div></td></tr>
-</tbody></table></div><div><br />
-</div><br />
-<div style="text-align: left;"></div></div></div></div><div style="display: block; text-align: left;"></div>
+<tr><td style="height: 19px; padding-bottom: 1px; padding-left: 4px; padding-right: 4px; padding-top: 1px; vertical-align: top; width: 58px;">
+
+<div style="text-align: center;">&nbsp;Sean, your bouncy seat is way cooler than mine.</div>
+
+<a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/untitledpost/P1010335.JPG?attredirects=0" imageanchor="1" style="background-attachment: initial; background-clip: initial; background-color: initial; background-image: none; background-origin: initial; background-position: initial initial; background-repeat: initial initial; border-bottom-color: initial; border-bottom-style: none; border-bottom-width: initial; color: rgb(66, 20, 118) !important; cursor: text; text-decoration: inherit;"><img border="0" height="210" src="{{ site.baseurl }}/assets/images/2010/07/958310b11ba0b449.jpg" style="background-color: white; border-bottom-color: rgb(195, 201, 162); border-bottom-style: solid; border-bottom-width: 1px; border-color: initial; border-color: initial; border-left-width: 0px; border-right-color: rgb(195, 201, 162); border-right-style: solid; border-right-width: 1px; border-style: initial; border-style: initial; border-top-width: 0px; padding-bottom: 7px; padding-left: 7px; padding-right: 7px; padding-top: 7px;" width="320" /></a>&nbsp;</td><td style="height: 19px; padding-bottom: 1px; padding-left: 4px; padding-right: 4px; padding-top: 1px; text-align: center; vertical-align: top; width: 58px;">
+
+<div style="text-align: center;">&nbsp;The grandson's after a fun day at the pool!</div>
+
+<div style="display: block; text-align: left;"><a href="http://sites.google.com/a/skarin.us/skarin-family/Home/evan/evan-updates/untitledpost/P1010343.JPG?attredirects=0" imageanchor="1" style="background-attachment: initial; background-clip: initial; background-color: initial; background-image: none; background-origin: initial; background-position: initial initial; background-repeat: initial initial; border-bottom-color: initial; border-bottom-style: none; border-bottom-width: initial; color: rgb(0, 85, 150) !important; cursor: text; text-decoration: none;"><img border="0" height="240" src="{{ site.baseurl }}/assets/images/2010/07/528739e9066b3f52.jpg" style="background-color: white; border-bottom-color: rgb(195, 201, 162); border-bottom-style: solid; border-bottom-width: 1px; border-color: initial; border-color: initial; border-color: initial; border-left-width: 0px; border-right-color: rgb(195, 201, 162); border-right-style: solid; border-right-width: 1px; border-style: initial; border-style: initial; border-style: initial; border-top-width: 0px; padding-bottom: 7px; padding-left: 7px; padding-right: 7px; padding-top: 7px;" width="320" /></a></div>
+
+</td></tr>
+</tbody></table></div>
+
+<br />
+<div style="text-align: left;"></div>
+
+</div>
+
+</div>
+
+</div>
+
+<div style="display: block; text-align: left;"></div>

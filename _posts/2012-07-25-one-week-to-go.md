@@ -5,7 +5,7 @@ title: One Week To Go
 date: 2012-07-25 15:49:00 -0400
 blogger_id: '773935537327110187'
 original_url: https://blog.skarin.us/2012/07/one-week-to-go.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 Just one week to go before my official due date. &nbsp;Although if baby Skarin #2 is anything like his big brother it will actually be a bit longer than that before he arrives!<br />

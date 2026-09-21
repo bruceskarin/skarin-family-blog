@@ -5,7 +5,7 @@ title: Mommy Gets a Break
 date: 2013-02-07 21:30:00 -0500
 blogger_id: '5537929104445479840'
 original_url: https://blog.skarin.us/2013/02/mommy-gets-break.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 <div style="text-align: center;">

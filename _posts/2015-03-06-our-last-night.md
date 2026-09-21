@@ -5,7 +5,7 @@ title: Our Last Night
 date: 2015-03-06 23:10:00 -0500
 blogger_id: '881499799150269300'
 original_url: https://blog.skarin.us/2015/03/our-last-night.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 Hi mom. It's me. We haven't "spoken" since last Friday. I've been thinking about you, taking about you and missing you a ton. Dad and I just moved the boys out to the living room for the last time on this trip. That has worked out so well!<br />

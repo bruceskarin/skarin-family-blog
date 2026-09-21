@@ -5,7 +5,7 @@ title: Chocolate!
 date: 2013-02-01 21:31:00 -0500
 blogger_id: '21266383189587031'
 original_url: https://blog.skarin.us/2013/02/chocolate.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 Today while I was upstairs getting Logan changed and dressed, I knew Evan was being a little too quiet. &nbsp;I thought maybe he was playing hide-and-seek and didn't even hear him go downstairs. &nbsp;When I began searching for him and calling for him, I couldn't find him and he didn't answer...a sure sign of mischief! &nbsp;When I did find him, he was standing in front of the fridge with the door open but closed on him (if that makes sense) holding an empty Hershey's wrapper! &nbsp;I guess leaving a chocolate bar open and partially eaten was just a little too tempting for our little choc-a-holic! &nbsp;When I asked him how much he ate, his response was "All of it!"<br />

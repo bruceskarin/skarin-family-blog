@@ -5,7 +5,7 @@ title: Week with Danny & Sean
 date: 2012-06-06 18:20:00 -0400
 blogger_id: '1896690655561045365'
 original_url: https://blog.skarin.us/2012/06/week-with-danny-sean.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 Uncle Dan and Auntie Karin were married in June of 2002 and we were married in September of 2003. &nbsp;As such we will be celebrating our 10-year anniversaries this year and next year, respectively. &nbsp;Last summer I suggested that they should plan an anniversary vacation for sometime during 2012 and we would stay with the boys; then we would plan an anniversary vacation for 2013 if they would stay with the boys. &nbsp;Friday, Uncle Dan and Auntie Karin left for a cruise to Bermuda and we began our week with three little boys!<br />
@@ -18,11 +18,20 @@ Evan and I enjoyed <a href="http://evan.skarin.us/2012/06/clown-sundae.html">lun
 After 5+ days with the boys, I was totally exhausted!  When I had suggested this anniversary vacation-kid swapping idea, I wasn't planning to be 7+ months pregnant but things happen for a particular reason and I am.  As a result of expecting our second child in August, Bruce wasn't able to take as much time off this week either.  Knowing how tired and stressed I was, despite the fact that the boys were all being great, the grandparents decided to step in and help out even more than they had originally planned.  Gramma and Papa volunteered to have Danny and Sean stay with them on Wednesday night so that I didn't have to drive to Northbridge to tutor and then back to Warwick.  Grammy also volunteered to stay with the boys on Thursday night so that Bruce, Evan and I could just go home on Wednesday and get back to being a family of three. <br />
 While we had a shortened week with Danny and Sean, we had lots of fun.  It was great to be able to spend so much time with them and to get to know their personalities, especially Sean's, a bit better.  I know Uncle Dan and Auntie Karin had a great vacation, even though they missed their boys.  Now we need to start thinking about where we will be going on our anniversary vacation!<br />
 <span style="background-color: white;"><br /></span>
-<span style="background-color: white;"><embed flashvars="host=picasaweb.google.com&amp;interval=6&amp;captions=1&amp;hl=en_US&amp;feat=flashalbum&amp;RGB=0x000000&amp;feed=https%3A%2F%2Fpicasaweb.google.com%2Fdata%2Ffeed%2Fapi%2Fuser%2F111078421412399706337%2Falbumid%2F5759643969988663137%3Falt%3Drss%26kind%3Dphoto%26authkey%3DGv1sRgCM6Rxd-A8rXroAE%26hl%3Den_US" height="533" pluginspage="http://www.macromedia.com/go/getflashplayer" src="https://picasaweb.google.com/s/c/bin/slideshow.swf" type="application/x-shockwave-flash" width="800"></embed></span><br />
+<span style="background-color: white;"><!-- removed dead embed: slideshow albumid:5759643969988663137 -->
+<div class="embed-placeholder"><p><em>Photo slideshow from the original blog. The slideshow service (Picasa/Flash) has been discontinued, so these photos can no longer be displayed here.</em></p></div>
+
+</span><br />
 <span style="background-color: white;"><br /></span>
-<span style="background-color: white;"><iframe allowfullscreen="" frameborder="0" height="315" src="http://www.youtube.com/embed/_hBE0CRdh0Q" width="560"></iframe></span><br />
+<span style="background-color: white;">
+
+<iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/_hBE0CRdh0Q" width="560"></iframe></span><br />
 <span style="background-color: white;"><br /></span>
-<span style="background-color: white;"><iframe allowfullscreen="" frameborder="0" height="315" src="http://www.youtube.com/embed/XHXaTzZhUe8" width="560"></iframe></span><br />
+<span style="background-color: white;">
+
+<iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/XHXaTzZhUe8" width="560"></iframe></span><br />
 <span style="background-color: white;"><br /></span>
-<span style="background-color: white;"><iframe allowfullscreen="" frameborder="0" height="315" src="http://www.youtube.com/embed/IHl7m0lmsrs" width="560"></iframe></span><br />
+<span style="background-color: white;">
+
+<iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/IHl7m0lmsrs" width="560"></iframe></span><br />
 <span style="background-color: white;"><br /></span>

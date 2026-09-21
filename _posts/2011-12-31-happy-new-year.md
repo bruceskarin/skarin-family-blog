@@ -5,7 +5,7 @@ title: Happy New Year!
 date: 2011-12-31 21:36:00 -0500
 blogger_id: '7676876589309089305'
 original_url: https://blog.skarin.us/2011/12/happy-new-year.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 Daddy is finally feeling a little bit better. &nbsp;We are going to a New Year's Eve party at Uncle Dan and Auntie Karin's house. &nbsp;I am going to play with Danny and Sean all night. &nbsp;And Mommy comes home tonight, too! &nbsp;Happy New Year, everyone! &nbsp;I know 2012 will be a great year!<br />

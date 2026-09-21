@@ -5,7 +5,7 @@ title: Just like Evan
 date: 2014-01-09 12:31:00 -0500
 blogger_id: '2420390066497950278'
 original_url: https://blog.skarin.us/2014/01/just-like-evan.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 You may remember <a href="http://blog.skarin.us/2011/04/hello.html">this</a> post from when Evan wasn't quite one. &nbsp;Well it seems that Logan is following in his big brothers footsteps. <br />

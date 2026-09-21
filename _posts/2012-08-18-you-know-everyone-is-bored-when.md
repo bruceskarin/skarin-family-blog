@@ -5,7 +5,7 @@ title: You Know Everyone Is Bored When...
 date: 2012-08-18 18:34:00 -0400
 blogger_id: '1386499236750662047'
 original_url: https://blog.skarin.us/2012/08/you-know-everyone-is-bored-when.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 ...Mommy suggests that we do Play-Doh!<br />

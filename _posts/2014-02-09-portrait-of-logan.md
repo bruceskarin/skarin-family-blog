@@ -5,7 +5,7 @@ title: Portrait of Logan
 date: 2014-02-09 13:25:00 -0500
 blogger_id: '760521366837627732'
 original_url: https://blog.skarin.us/2014/02/portrait-of-logan.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 Evan has been coloring, drawing and creating more and more everyday. &nbsp;This morning he did a portrait of Logan. <br />

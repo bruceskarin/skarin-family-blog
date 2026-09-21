@@ -5,7 +5,7 @@ title: Silly Hat, Lazy, PJ Day!
 date: 2013-03-19 16:02:00 -0400
 blogger_id: '1106841439664652626'
 original_url: https://blog.skarin.us/2013/05/silly-hat-lazy-pj-day.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 <div style="text-align: center;">

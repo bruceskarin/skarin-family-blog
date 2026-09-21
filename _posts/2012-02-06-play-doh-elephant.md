@@ -5,7 +5,7 @@ title: Play-Doh Elephant
 date: 2012-02-06 16:12:00 -0500
 blogger_id: '6417351492758356452'
 original_url: https://blog.skarin.us/2012/02/play-doh-elephant.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 As I have already mentioned, <a href="http://evan.skarin.us/2011/11/play-doh-with-daddy.html">Bruce is a much better play-doher than I am</a>. <br />

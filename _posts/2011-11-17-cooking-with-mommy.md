@@ -5,7 +5,7 @@ title: Cooking with Mommy
 date: 2011-11-17 18:13:00 -0500
 blogger_id: '7766112793954063791'
 original_url: https://blog.skarin.us/2011/11/cooking-with-mommy.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 Bruce was going to be late coming home from work tonight due to traffic and needing to stop at the Verizon store so I was trying to have dinner ready when he arrived. &nbsp;Thankfully I had the best little helper to cook right along side me! <br />

@@ -5,7 +5,7 @@ title: Valentine's Day Projects
 date: 2014-02-07 16:04:00 -0500
 blogger_id: '327180718079098256'
 original_url: https://blog.skarin.us/2014/02/valentines-day-projects.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 Evan has been busy making Valentine's Day projects this week.<br />

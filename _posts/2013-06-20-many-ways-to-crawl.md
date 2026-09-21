@@ -5,7 +5,7 @@ title: Many Ways to "Crawl"
 date: 2013-06-20 21:07:00 -0400
 blogger_id: '3664842937363113535'
 original_url: https://blog.skarin.us/2013/06/many-ways-to-crawl.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 Prior to having children, I assumed that all babies crawled on their hands and knees in relatively the same manner around the same time. &nbsp;After watching Danny, Sean, Evan and Logan, I know this is not true.<br />

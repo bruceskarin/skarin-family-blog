@@ -5,7 +5,7 @@ title: Twinkle, twinkle
 date: 2011-10-16 20:58:00 -0400
 blogger_id: '2625412423970661818'
 original_url: https://blog.skarin.us/2011/10/twinkle-twinkle.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 Over the last week or so while Daddy was traveling, Evan and I spent some time at Papa and Gramma's. &nbsp;We had a few sleepovers and lots of fun. &nbsp;During that time, Evan developed a new favorite past-time. &nbsp;It all started when Papa was watching some of Evan's Youtube videos with Evan on his lap. &nbsp;After watching <a href="http://youtu.be/euHq4klWW1M">Happy and you know it 1</a>, another Happy and you know it video was suggested. &nbsp;Papa and Evan watched this which led to watching Old MacDonald which led to watching Twinkle, Twinkle...I think you get the idea. &nbsp;Needless to say, Evan loves climbing up into Papa's lap to <a href="http://youtu.be/aGvJkO2SF1k">watch videos</a> and sing songs. &nbsp;Today we found out that Sean loves it too! &nbsp;Papa loves it too!<br />

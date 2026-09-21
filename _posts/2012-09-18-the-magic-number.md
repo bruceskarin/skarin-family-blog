@@ -5,7 +5,7 @@ title: The Magic Number
 date: 2012-09-18 15:38:00 -0400
 blogger_id: '344148670951764986'
 original_url: https://blog.skarin.us/2012/09/the-magic-number.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 <div style="text-align: center;">

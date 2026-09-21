@@ -5,7 +5,7 @@ title: Happy Valentine's Day!
 date: 2014-02-14 17:01:00 -0500
 blogger_id: '8950279837745065804'
 original_url: https://blog.skarin.us/2014/02/happy-valentines-day.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 <div class="separator" style="clear: both; text-align: center;">
@@ -34,5 +34,4 @@ Beautiful brightly colored roses from my hubby</div>
 <div class="separator" style="clear: both; text-align: center;">
 <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9gglUaimf8x-FUuVldhzdC9mdO6mHds_tjxpefRZlqTUT0J_ANtnFwr3qamzirYRra9lLBkRaxhZsW8itOCb_lDpCq0BvrRkFIzzyXH5h5wKr2Ym7BF4IcDtc1L-UTN9ttiVo6MJc0nU/s1600/DSC05914.JPG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="{{ site.baseurl }}/assets/images/2014/02/35889f32b0c91121.jpg" height="372" width="400" /></a></div>
 <br />
-<div>
-<br /></div>
+

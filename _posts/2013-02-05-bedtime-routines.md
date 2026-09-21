@@ -5,7 +5,7 @@ title: Bedtime Routines
 date: 2013-02-05 22:39:00 -0500
 blogger_id: '312730532279810387'
 original_url: https://blog.skarin.us/2013/02/bedtime-routines.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 Having two children with completely different bedtime routines who need to/want to be in bed at the same time is challenging. &nbsp;Especially when they are both completely dependent on you in order to get ready for bed and when you are on your own trying to juggle it all. &nbsp;Somehow it always gets done but it often leaves me wanting to crawl into bed right after!<br />

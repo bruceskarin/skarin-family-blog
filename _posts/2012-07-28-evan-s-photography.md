@@ -5,7 +5,7 @@ title: Evan's Photography
 date: 2012-07-28 18:07:00 -0400
 blogger_id: '5369393954895063995'
 original_url: https://blog.skarin.us/2012/07/evans-photography.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 Evan has started wanting to take pictures quite often. &nbsp;His first photo (taken with assistance from Daddy) was of his favorite subject. <br />

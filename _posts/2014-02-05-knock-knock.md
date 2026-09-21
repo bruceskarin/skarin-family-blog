@@ -5,7 +5,7 @@ title: Knock, Knock
 date: 2014-02-05 13:49:00 -0500
 blogger_id: '5170405780201535778'
 original_url: https://blog.skarin.us/2014/02/knock-knock.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 Who's there?<br />

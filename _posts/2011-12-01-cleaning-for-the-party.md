@@ -5,7 +5,7 @@ title: Cleaning for the Party
 date: 2011-12-01 20:32:00 -0500
 blogger_id: '5602932355750867651'
 original_url: https://blog.skarin.us/2011/12/cleaning-for-party.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 We are having a holiday cocktail party with a few friends tomorrow and today Evan was helping me get ready for it.<br />

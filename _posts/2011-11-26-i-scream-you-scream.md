@@ -5,7 +5,7 @@ title: I Scream, You Scream...
 date: 2011-11-26 18:17:00 -0500
 blogger_id: '8126696321420872500'
 original_url: https://blog.skarin.us/2011/11/i-scream-you-scream.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 ...We all scream for ice cream! &nbsp;Who doesn't love an ice cream sandwich? &nbsp;Especially when it's "free" with the purchase of a kids meal!<br />

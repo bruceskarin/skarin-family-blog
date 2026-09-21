@@ -5,7 +5,7 @@ title: Sleep Walker
 date: 2012-07-23 15:45:00 -0400
 blogger_id: '4688652044117809824'
 original_url: https://blog.skarin.us/2012/07/sleep-walker.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 Sometime between when Bruce got up and before he left for work this morning, Evan woke up and came into our room. &nbsp;He didn't wake me up or climb up into our bed but instead found a rather interesting place to get a little more rest.<br />

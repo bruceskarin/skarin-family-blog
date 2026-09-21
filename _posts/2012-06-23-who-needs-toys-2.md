@@ -5,7 +5,7 @@ title: Who needs toys...
 date: 2012-06-23 15:03:00 -0400
 blogger_id: '6933840301224301977'
 original_url: https://blog.skarin.us/2012/07/who-needs-toys.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 <div style="text-align: center;">

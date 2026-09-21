@@ -5,7 +5,7 @@ title: Daddy and His Boys
 date: 2013-03-11 22:49:00 -0400
 blogger_id: '9104604709425716628'
 original_url: https://blog.skarin.us/2013/03/daddy-and-his-boys.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 <div style="text-align: center;">

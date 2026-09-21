@@ -5,7 +5,7 @@ title: Little Ant Guy
 date: 2012-07-18 19:28:00 -0400
 blogger_id: '4321843766132551002'
 original_url: https://blog.skarin.us/2012/07/little-ant-guy.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 We have been having a little issue with carpenter ants this season. &nbsp;It was first bad in the spring when everything was coming alive again but Bruce set traps and sprayed and it seemed to mostly take care of the issue. &nbsp;Last Tuesday morning, however, I woke up to find ants everywhere! &nbsp;In every room, on every surface...everywhere!! &nbsp;I don't know where they were coming from and why all of a sudden but something needed to be done. <br />

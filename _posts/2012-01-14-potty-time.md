@@ -5,7 +5,7 @@ title: Potty Time!
 date: 2012-01-14 21:47:00 -0500
 blogger_id: '2540682789216820385'
 original_url: https://blog.skarin.us/2012/01/potty-time.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 Evan loves to pretend to use his little potty and to climb up on the big potty too. &nbsp;I am really hoping this means that potty training will be quick and easy...and soon! &nbsp;A mom can dream, right?<br />

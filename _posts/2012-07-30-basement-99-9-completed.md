@@ -5,7 +5,7 @@ title: Basement 99.9% Completed
 date: 2012-07-30 18:02:00 -0400
 blogger_id: '2674250416979044370'
 original_url: https://blog.skarin.us/2012/07/basement-999-completed.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 Framing started March 29th, 90% of the work was completed by May 15th, and now after a bit of a delay 99.9% of the basement is finished. &nbsp;There are a couple of minor things still yet to be completed but for all intents and purposes, we now have a finished and functional basement. &nbsp;It is wonderful to have a husband who is so handy...not to mention our friends and Grandpa Bob who also helped quite a bit. &nbsp;It is hard to believe that this is even the same space!<br />

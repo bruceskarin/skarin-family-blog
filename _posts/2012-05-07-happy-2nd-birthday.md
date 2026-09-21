@@ -5,7 +5,7 @@ title: Happy 2nd Birthday!
 date: 2012-05-07 16:07:00 -0400
 blogger_id: '1409211562349904417'
 original_url: https://blog.skarin.us/2012/05/happy-2nd-birthday.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 Dear Evan,<br />

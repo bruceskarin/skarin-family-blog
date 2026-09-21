@@ -6,11 +6,17 @@ title: Home
 <article class="post">
   <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
   <p class="meta">{{ post.date | date: "%B %-d, %Y" }}{% if post.author %} &middot; {{ post.author }}{% endif %}</p>
-  <div class="post-body">{{ post.excerpt }}</div>
+  <div class="post-body">{{ post.content | strip_html | normalize_whitespace | truncatewords: 60 }}</div>
   <p><a href="{{ post.url | relative_url }}">Read more &rarr;</a></p>
 </article>
 {% endfor %}
 <div class="pager">
   <span></span>
-  <a href="/page2/">&larr; Older posts</a>
-</div>
+  <span class="pages">
+  <span class="cur">1</span>
+  <a href="/page2/">2</a>
+  <span class="gap">&hellip;</span>
+  <a href="/page90/">90</a>
+  </span>
+  <a class="next" href="/page2/">Older &rarr;</a>
+  </div>

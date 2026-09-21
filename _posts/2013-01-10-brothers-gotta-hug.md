@@ -5,7 +5,7 @@ title: Brothers Gotta Hug
 date: 2013-01-10 22:22:00 -0500
 blogger_id: '5809589526146095882'
 original_url: https://blog.skarin.us/2013/01/brothers-gotta-hug.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 <div class="separator" style="clear: both; text-align: center;">

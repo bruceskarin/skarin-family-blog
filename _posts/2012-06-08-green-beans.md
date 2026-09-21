@@ -5,7 +5,7 @@ title: Green Beans!
 date: 2012-06-08 18:23:00 -0400
 blogger_id: '3991888627294655519'
 original_url: https://blog.skarin.us/2012/06/green-beans.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 <div style="text-align: center;">

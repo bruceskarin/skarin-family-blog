@@ -5,7 +5,7 @@ title: Gone Too Soon
 date: 2017-02-19 18:27:00 -0500
 blogger_id: '6620327651857268487'
 original_url: https://blog.skarin.us/2017/02/gone-too-soon.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 Last Monday, just past 10 o'clock in the morning, I received a text message from a friend with some terrible news. &nbsp;Peter Anderson, one of Evan's class of 2028 and baseball teammates, had fallen ill and had tragically passed away in the early hours of the morning. &nbsp;I was instantly heartbroken and sick upon reading this news. <br />

@@ -5,7 +5,7 @@ title: Welcome, Logan!
 date: 2012-08-07 15:58:00 -0400
 blogger_id: '908042578405582841'
 original_url: https://blog.skarin.us/2012/08/welcome-logan.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 Welcome, Logan Richard Skarin! &nbsp;Welcome to the blog! &nbsp;Welcome to our family! &nbsp;Welcome to the world!<br />
@@ -17,4 +17,5 @@ As was the case with Evan, Bruce and I hadn't decided on a name before Logan was
 Once we had decided on a name, we called our parents and siblings to let them know that we had a new, healthy baby boy. &nbsp;We let Papa &amp; Gramma know that they were able to come visit with Evan so that he could meet his new little brother. &nbsp;They arrived after a little while and we could hear Evan bouncing down the hallway. &nbsp;He was as excited about his big brother stickers as he was to meet his little brother...maybe even more so. &nbsp;He came with two friends...Barky and &nbsp;Curious George. &nbsp;Barky is a small stuffed puppy that Evan picked out to give to his baby brother when he was born. &nbsp;We are hoping that Barky will be Logan's special pal, just like George is Evan's. <br />
 After a bit of a visit filled with lots of pictures and even a few unsolicited kisses for Logan from his big brother, it was time for Logan to go to the nursery for a bit and time for me to move to my new room and to rest for a while. &nbsp;Evan, who especially now looked like such a big boy, headed home with Papa &amp; Gramma to spend the night at their house, while we settled in and got to know our new son, Logan Richard. <br />
 <br />
-<embed flashvars="host=picasaweb.google.com&amp;interval=6&amp;captions=1&amp;hl=en_US&amp;feat=flashalbum&amp;RGB=0x000000&amp;feed=https%3A%2F%2Fpicasaweb.google.com%2Fdata%2Ffeed%2Fapi%2Fuser%2F111078421412399706337%2Falbumid%2F5785553042961725297%3Falt%3Drss%26kind%3Dphoto%26authkey%3DGv1sRgCJO12p-N7Lu2wQE%26hl%3Den_US" height="533" pluginspage="http://www.macromedia.com/go/getflashplayer" src="https://picasaweb.google.com/s/c/bin/slideshow.swf" type="application/x-shockwave-flash" width="800"></embed>
+<!-- removed dead embed: slideshow albumid:5785553042961725297 -->
+<div class="embed-placeholder"><p><em>Photo slideshow from the original blog. The slideshow service (Picasa/Flash) has been discontinued, so these photos can no longer be displayed here.</em></p></div>

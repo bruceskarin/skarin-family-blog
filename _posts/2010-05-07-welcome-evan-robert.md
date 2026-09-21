@@ -5,7 +5,7 @@ title: Welcome, Evan Robert!
 date: 2010-05-07 22:45:00 -0400
 blogger_id: '3887584079055348162'
 original_url: https://blog.skarin.us/2010/07/welcome-evan-robert.html
-author: Bruce Kaylor
+author: Bruce Skarin
 ---
 
 <div class="MsoNormal" style="text-indent: .5in;">

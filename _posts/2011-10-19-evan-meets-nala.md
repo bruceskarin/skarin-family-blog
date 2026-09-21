@@ -5,7 +5,7 @@ title: Evan meets Nala
 date: 2011-10-19 20:58:00 -0400
 blogger_id: '8881723048147186124'
 original_url: https://blog.skarin.us/2011/10/evan-meets-nala.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 While Daddy was traveling, Evan and I went to Nicole's one night for dinner and to meet her new puppy, Nala. &nbsp;It was a rainy day so Nala was even more excited than usual but she was really good. &nbsp;Nicole thought she would be a little too rough with Evan so Nala spent most of the night in her crate and never even whined...unless we all left the room at once. &nbsp;Evan is looking forward to playing with Nala again soon!<br />

@@ -5,7 +5,7 @@ title: Blue Hat, Green Hat
 date: 2012-04-22 21:37:00 -0400
 blogger_id: '8975090774004285730'
 original_url: https://blog.skarin.us/2012/04/blue-hat-green-hat.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 <div class="separator" style="clear: both; text-align: center;">
@@ -27,5 +27,3 @@ What a silly turkey! &nbsp;(In the book...not Daddy!)</div>
 <div style="text-align: center;">
 <br /></div>
 <br />
-<div>
-<br /></div>

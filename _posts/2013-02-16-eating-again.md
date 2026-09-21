@@ -5,7 +5,7 @@ title: Eating...Again!
 date: 2013-02-16 21:40:00 -0500
 blogger_id: '8406498831738999695'
 original_url: https://blog.skarin.us/2013/02/eatingagain.html
-author: Anonymous
+author: Diane Skarin
 ---
 
 We started spoon feeding Logan at the beginning of December. &nbsp;After numerous attempts, where he just kept pushing it out of his mouth and not really opening up, we stopped. &nbsp;A few weeks later, we tried again. &nbsp;Same results. &nbsp;So here we go again...third time's the charm, right?<br />
